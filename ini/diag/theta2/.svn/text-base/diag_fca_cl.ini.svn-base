@@ -1,0 +1,10 @@
+[sephirot]
+context = experiments/diagnosis/diag.scaled_clearified.0.1.ctx
+outfilepath = experiments/diagnosis/diag.scaled.clear.0.1
+partition_limit = 0
+pretty_json = false
+stability = false
+type = 0
+thetas = true
+thetas_file = experiments/diagnosis/thetas_diag.txt
+transpose = false

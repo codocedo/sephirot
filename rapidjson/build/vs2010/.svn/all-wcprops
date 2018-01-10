@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/22/trunk/rapidjson/build/vs2010
+END
+unittest.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/22/trunk/rapidjson/build/vs2010/unittest.vcxproj
+END
+test.sln
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/22/trunk/rapidjson/build/vs2010/test.sln
+END
+tutorial.vcxproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/22/trunk/rapidjson/build/vs2010/tutorial.vcxproj.user
+END
+unittest.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/22/trunk/rapidjson/build/vs2010/unittest.vcxproj.filters
+END
+gtest.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/22/trunk/rapidjson/build/vs2010/gtest.vcxproj
+END
+serialize.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/22/trunk/rapidjson/build/vs2010/serialize.vcxproj
+END
+pretty.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/22/trunk/rapidjson/build/vs2010/pretty.vcxproj
+END
+example.sln
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/22/trunk/rapidjson/build/vs2010/example.sln
+END
+perftest.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/22/trunk/rapidjson/build/vs2010/perftest.vcxproj
+END
+unittest.vcxproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/22/trunk/rapidjson/build/vs2010/unittest.vcxproj.user
+END
+gtest.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/22/trunk/rapidjson/build/vs2010/gtest.vcxproj.filters
+END
+serialize.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/22/trunk/rapidjson/build/vs2010/serialize.vcxproj.filters
+END
+condense.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/22/trunk/rapidjson/build/vs2010/condense.vcxproj
+END
+pretty.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/22/trunk/rapidjson/build/vs2010/pretty.vcxproj.filters
+END
+gtest.vcxproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/22/trunk/rapidjson/build/vs2010/gtest.vcxproj.user
+END
+tutorial.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/22/trunk/rapidjson/build/vs2010/tutorial.vcxproj
+END
+perftest.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/22/trunk/rapidjson/build/vs2010/perftest.vcxproj.filters
+END
+serialize.vcxproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/22/trunk/rapidjson/build/vs2010/serialize.vcxproj.user
+END
+pretty.vcxproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/22/trunk/rapidjson/build/vs2010/pretty.vcxproj.user
+END
+condense.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/22/trunk/rapidjson/build/vs2010/condense.vcxproj.filters
+END
+perftest.vcxproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/22/trunk/rapidjson/build/vs2010/perftest.vcxproj.user
+END
+tutorial.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/22/trunk/rapidjson/build/vs2010/tutorial.vcxproj.filters
+END
+condense.vcxproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/22/trunk/rapidjson/build/vs2010/condense.vcxproj.user
+END

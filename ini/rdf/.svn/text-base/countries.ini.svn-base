@@ -1,0 +1,11 @@
+[sephirot]
+context = resources/Countries/ct.ctx
+outfilepath = resources/Countries/ct.out
+partition_limit = 0
+pretty_json = false
+stability = false
+type = 2
+htypes = 0,0,0,0,0,3,3
+thetas = true
+thetas_file = /Users/victorcodocedo/Documents/Work/sephirot/experiments/rdf/thetas.txt
+transpose = false

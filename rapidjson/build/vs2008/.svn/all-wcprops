@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/22/trunk/rapidjson/build/vs2008
+END
+condense.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/22/trunk/rapidjson/build/vs2008/condense.vcproj
+END
+unittest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/22/trunk/rapidjson/build/vs2008/unittest.vcproj
+END
+tutorial.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/22/trunk/rapidjson/build/vs2008/tutorial.vcproj
+END
+example.sln
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/22/trunk/rapidjson/build/vs2008/example.sln
+END
+gtest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/22/trunk/rapidjson/build/vs2008/gtest.vcproj
+END
+serialize.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/22/trunk/rapidjson/build/vs2008/serialize.vcproj
+END
+pretty.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/22/trunk/rapidjson/build/vs2008/pretty.vcproj
+END
+test.sln
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/22/trunk/rapidjson/build/vs2008/test.sln
+END
+perftest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/22/trunk/rapidjson/build/vs2008/perftest.vcproj
+END
