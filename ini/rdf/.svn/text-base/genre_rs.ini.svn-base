@@ -1,8 +1,0 @@
-[sephirot]
-context = experiments/rdf/genre_rs.ctx
-outfilepath = experiments/rdf/genre_rs.out
-partition_limit = 0
-pretty_json = false
-stability = true
-type = 5
-transpose = false

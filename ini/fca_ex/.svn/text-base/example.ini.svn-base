@@ -1,7 +1,0 @@
-[sephirot]
-context_path = contexts/digits.ctx
-lattice_path = contexts/digits.out
-pretty_json = false
-stability = false
-type = 0
-transpose = false
