@@ -1,7 +1,7 @@
 # sephirot
 FCA algorithms for C++
 
-##Introduction
+## Introduction
 
 Sephirot is an open source implementation in C++ of the AddIntent algorithm. It currently supports three different types of pattern structures:
 
