@@ -7,9 +7,9 @@ Experimental files for Baixeries, Codocedo, Kaytoue, Napoli paper entitled:
 
 The files provided to replicate the experiments presented in the paper are structured as follows:
 
-./bin : Folder with the main binaries to execute the AddIntent algorithm for functional dependency mining.
-./datasets : Folder with the 6 datasets used.
-./py_src/ : Folder with utility scripts.
+- ./bin : Folder with the main binaries to execute the AddIntent algorithm for functional dependency mining.
+- ./datasets : Folder with the 6 datasets used.
+- ./py_src/ : Folder with utility scripts.
 
 
 The folder dataset contains a single folder for each of the datasets:
@@ -30,8 +30,8 @@ Each dataset folder contains the following sub directories:
 
 To execute an experiment, first execute the script to generate the formal contexts, tolerance blocks and ini files. For example, in the case of the dataset diagnosis, go to the directory of python scripts and execute:
 
-cd py_src
-python convert_diagnosis.py
+$ cd py_src
+$ python convert_diagnosis.py
 
 If everything worked ok, then go to the root folder of the experiments and execute:
 
