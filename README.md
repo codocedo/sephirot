@@ -31,6 +31,7 @@ Each dataset folder contains the following sub directories:
 To execute an experiment, first execute the script to generate the formal contexts, tolerance blocks and ini files. For example, in the case of the dataset diagnosis, go to the directory of python scripts and execute:
 
 $ cd py_src
+
 $ python convert_diagnosis.py
 
 If everything worked ok, then go to the root folder of the experiments and execute:
