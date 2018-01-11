@@ -1,0 +1,1968 @@
+1984	CA1	Cocaine-Powder	C	1	kilo	1000	gram	50000	65000	50	75	57500	62.5	625
+1984	CA1	Cocaine-Powder	C	1	pound	453.6	gram	35000	35000	50	75	35000	62.5	283.5
+1984	CA1	Cocaine-Powder	C	1	ounce	28.35	gram	2000	2400	18	20	2200	19	5.3865
+1984	CA1	Cocaine-Powder	C	0.5	ounce	14.175	gram	1000	1400	18	20	1200	19	2.69325
+1984	CA1	Cocaine-Powder	C	0.25	ounce	7.0875	gram	500	600	18	20	550	19	1.346625
+1984	CA1	Cocaine-Powder	C	0.125	ounce	3.54375	gram	300	350	18	20	325	19	0.6733125
+1984	CA1	Cocaine-Powder	C	1	gram	1	gram	100	120	18	20	110	19	0.19
+ 														
+1984	CA1	Hashish	Hash	1	gram	1	gram	15	15	100	100	15	100	1
+1984	CA1	Heroin	HOth	1	ounce	28.35	gram	7000	7000	32	32	7000	32	9.072
+1984	CA1	MJ-Commercial	MJDom	1	ounce	28.35	gram	20	40	100	100	30	100	28.35
+1984	CA1	MJ-Colombian	MJImp	1	ounce	28.35	gram	50	60	100	100	55	100	28.35
+1984	CA1	MJ-Sinsemilla	MJSin	1	ounce	28.35	gram	150	200	100	100	175	100	28.35
+
+1984	CA2	Cocaine	C	1	kilo	1000	gram	55000	65000	60	80	60000	70	700
+1984	CA2	Cocaine	C	1	pound	453.6	gram	30000	30000	50	75	30000	62.5	283.5
+1984	CA2	Cocaine	C	1	ounce	28.35	gram	2000	3000	65	65	2500	65	18.4275
+1984	CA2	Cocaine	C	1	gram	1	gram	100	130	20	20	115	20	0.2
+1984	CA2	Hashish	Hash	1	kilo	1000	gram	1300	1700	100	100	1500	100	1000
+1984	CA2	Hashish	Hash	1	pound	453.6	gram	175	225	100	100	200	100	453.6
+1984	CA2	Hashish	Hash	1	ounce	28.35	gram	10	15	100	100	12.5	100	28.35
+
+1984	CA2	Heroin-Mexican	HOth	1	kilo	1000	gram	250000	400000	60	80	325000	70	700
+1984	CA2	Heroin-Mexican	HOth	1	kilo	1000	gram	60000	75000	5	10	67500	7.5	75
+1984	CA2	Heroin-Mexican	HOth	1	pound	453.6	gram	100000	175000	55	70	137500	62.5	283.5
+1984	CA2	Heroin-Mexican	HOth	1	pound	453.6	gram	30000	32000	5	10	31000	7.5	34.02
+1984	CA2	Heroin-Mexican	HOth	1	ounce	28.35	gram	9000	12000	55	70	10500	62.5	17.71875
+1984	CA2	Heroin-Mexican	HOth	1	ounce	28.35	gram	2500	3000	8	10	2750	9	2.5515
+1984	CA2	Heroin-Mexican	HOth	1	ounce	28.35	gram	900	1200	2	4	1050	3	0.8505
+1984	CA2	Heroin-Mexican	HOth	1	gram	1	gram	500	500	55	70	500	62.5	0.625
+1984	CA2	Heroin-Mexican	HOth	1	gram	1	gram	70	100	0.5	2	85	1.25	0.0125
+1984	CA2	Heroin-Mexican	HOth	0.2	gram	0.2	gram	20	20	0.5	2	20	1.25	0.0025
+
+1984	CA2	MJ-Mexican	MJImp	1	pound	453.6	gram	400	500	100	100	450	100	453.6
+1984	CA2	MJ-Mexican	MJImp	1	ounce	28.35	gram	60	70	100	100	65	100	28.35
+1984	CA2	MJ-Colombian	MJImp	5	pound	2268	gram	2500	2500	100	100	2500	100	2268
+1984	CA2	MJ-Colombian	MJImp	1	pound	453.6	gram	550	650	100	100	600	100	453.6
+1984	CA2	MJ-Colombian	MJImp	1	ounce	28.35	gram	50	75	100	100	62.5	100	28.35
+1984	CA2	MJ-Sinsemilla	MJSin	1	pound	453.6	gram	2000	3000	100	100	2500	100	453.6
+1984	CA2	MJ-Sinsemilla	MJSin	1	ounce	28.35	gram	150	250	100	100	200	100	28.35
+1984	CA2	MJ-Sinsemilla	MJSin	1	gram	1	gram	8	8	100	100	8	100	1
+1984	CA2	Methemphetamine	Meth	1	ounce	28.35	gram	1200	1200	30	30	1200	30	8.505
+
+1984	CA3	Cocaine	C	1	kilo	1000	gram	75000	75000	94	94	75000	94	940
+1984	CA3	Cocaine	C	1	pound	453.6	gram	35000	35000	70	80	35000	75	340.2
+1984	CA3	Cocaine	C	1	ounce	28.35	gram	2000	2500	50	65	2250	57.5	16.30125
+1984	CA3	Cocaine	C	1	gram	1	gram	100	150	20	20	125	20	0.2
+
+1984	CA3	Heroin-White	HWh	1	pound	453.6	gram	160000	160000	50	50	160000	50	226.8
+1984	CA3	Heroin-White	HWh	1	ounce	28.35	gram	12000	12000	50	50	12000	50	14.175
+1984	CA3	Heroin-White	HWh	1	gram	1	gram	400	400	50	50	400	50	0.5
+1984	CA3	Heroin-White	HWh	0.375	gram	0.375	gram	200	200	50	50	200	50	0.1875
+
+1984	CA4	Cocaine	C	1	kilo	1000	gram	55000	65000	25	25	60000	25	250
+1984	CA4	Cocaine	C	1	pound	453.6	gram	25000	29500	25	25	27250	25	113.4
+1984	CA4	Cocaine	C	1	ounce	28.35	gram	3000	3000	25	25	3000	25	7.0875
+1984	CA4	Cocaine	C	1	gram	1	gram	90	120	20	22	105	21	0.21
+1984	CA4	Heroin-White	HWh	1	ounce	28.35	gram	7000	9500	32	54	8250	43	12.1905
+1984	CA4	Methemphetamine	Meth	1	gram	1	gram	70	70	80	80	70	80	0.8
+
+1984	CA5	Cocaine-Powder	C	1	kilo	1000	gram	62000	62000	50	97	62000	73.5	735
+1984	CA5	Cocaine-Powder	C	1	pound	453.6	gram	25000	35000	50	97	30000	73.5	333.396
+1984	CA5	Cocaine-Powder	C	1	ounce	28.35	gram	2700	2700	50	97	2700	73.5	20.83725
+1984	CA5	Cocaine-Powder	C	0.25	ounce	7.0875	gram	525	600	50	60	562.5	55	3.898125
+1984	CA5	Cocaine-Powder	C	0.125	ounce	3.54375	gram	325	325	50	60	325	55	1.9490625
+1984	CA5	Cocaine-Powder	C	1	gram	1	gram	100	150	50	97	125	73.5	0.735
+1984	CA5	Cocaine-Powder	C	0.125	gram	0.125	gram	25	25	15	20	25	17.5	0.021875
+ 														
+1984	CA5	Heroin-Brown	HBro	1	kilo	1000	gram	150000	360000	60	75	255000	67.5	675
+1984	CA5	Heroin-Brown	HBro	1	ounce	28.35	gram	7500	10000	60	75	8750	67.5	19.13625
+1984	CA5	Heroin-Brown	HBro	6.4	gram	6.4	gram	500	600	60	75	550	67.5	4.32
+1984	CA5	Heroin-Brown	HBro	1.6	gram	1.6	gram	150	180	60	75	165	67.5	1.08
+1984	CA5	Heroin-Brown	HBro	1	gram	1	gram	100	300	4	4	200	4	0.04
+1984	CA5	Heroin-Brown	HBro	0.2	gram	0.2	gram	25	35	4	4	30	4	0.008
+1984	CA5	Heroin-Brown	HBro	0.1	gram	0.1	gram	10	25	4	4	17.5	4	0.004
+ 														
+1984	CA5	Methemphetamine	Meth	1	ounce	28.35	gram	600	1200	80	80	900	80	22.68
+1984	CA5	Methemphetamine	Meth	1	gram	1	gram	80	100	25	50	90	37.5	0.375
+
+1984	CA6	Hashish	Hash	1	pound	453.6	gram	1400	2500	100	100	1950	100	453.6
+1984	CA6	Hashish	Hash	0.5	pound	226.8	gram	700	800	100	100	750	100	226.8
+1984	CA6	Hashish	Hash	1	ounce	28.35	gram	115	150	100	100	132.5	100	28.35
+1984	CA6	Hashish	Hash	0.5	ounce	14.175	gram	70	80	100	100	75	100	14.175
+1984	CA6	Hashish	Hash	0.25	ounce	7.0875	gram	45	50	100	100	47.5	100	7.0875
+1984	CA6	Hashish	Hash	1	gram	1	gram	10	25	100	100	17.5	100	1
+
+1984	CA6	Heroin	HOth	1	ounce	28.35	gram	6500	7500	32	35	7000	33.5	9.49725
+1984	CA6	Heroin	HOth	1	gram	1	gram	300	350	70	75	325	72.5	0.725
+1984	CA6	MJ-Commercial	MJDom	1	ounce	28.35	gram	30	50	100	100	40	100	28.35
+ 														
+1984	CA6	MJ-Colombian	MJImp	1	pound	453.6	gram	500	1100	100	100	800	100	453.6
+1984	CA6	MJ-Colombian	MJImp	0.5	pound	226.8	gram	350	600	100	100	475	100	226.8
+1984	CA6	MJ-Colombian	MJImp	1	ounce	28.35	gram	90	110	100	100	100	100	28.35
+1984	CA6	MJ-Colombian	MJImp	0.5	ounce	14.175	gram	50	60	100	100	55	100	14.175
+1984	CA6	MJ-Colombian	MJImp	0.25	ounce	7.0875	gram	25	35	100	100	30	100	7.0875
+
+1984	CA6	MJ-Sinemilla	MJSin	1	pound	453.6	gram	1500	2000	100	100	1750	100	453.6
+1984	CA6	MJ-Sinemilla	MJSin	1	ounce	28.35	gram	100	150	100	100	125	100	28.35
+1984	CA6	MJ-Sinemilla	MJSin	0.25	ounce	7.0875	gram	30	50	100	100	40	100	7.0875
+
+1984	CA7	Cocaine-Powder	C	1	kilo	1000	gram	45000	65000	80	98	55000	89	890
+1984	CA7	Cocaine-Powder	C	1	pound	453.6	gram	32000	36000	80	98	34000	89	403.704
+1984	CA7	Cocaine-Powder	C	1	ounce	28.35	gram	2100	2400	60	98	2250	79	22.3965
+1984	CA7	Cocaine-Powder	C	0.5	ounce	14.175	gram	1000	1250	60	98	1125	79	11.19825
+1984	CA7	Cocaine-Powder	C	0.25	ounce	7.0875	gram	800	900	60	98	850	79	5.599125
+1984	CA7	Cocaine-Powder	C	0.125	ounce	3.54375	gram	450	500	60	98	475	79	2.7995625
+1984	CA7	Cocaine-Powder	C	1	gram	1	gram	100	125	35	98	112.5	66.5	0.665
+1984	CA7	Cocaine-Powder	C	0.25	gram	0.25	gram	25	35	35	98	30	66.5	0.16625
+
+1984	CA7	Hashish	Hash	1	pound	453.6	gram	1800	2750	100	100	2275	100	453.6
+1984	CA7	Hashish	Hash	1	ounce	28.35	gram	115	137.5	100	100	126.25	100	28.35
+1984	CA7	Hashish	Hash	1	gram	1	gram	25	25	100	100	25	100	1
+1984	CA7	Heroin-Brown	HBro	0.25	gram	0.25	gram	25	30	7	17	27.5	12	0.03
+1984	CA7	Herion-Brown	HBro	2.00	gram	2	gram	150	155	7	17	152.5	12	0.24
+1984	CA7	MJ-Commercial	MJDom	1	pound	453.6	gram	400	700	100	100	550	100	453.6
+1984	CA7	MJ-Commercial	MJDom	1	ounce	28.35	gram	45	165	100	100	105	100	28.35
+1984	CA7	MJ-Sinemilla	MJSin	1	pound	453.6	gram	1400	2000	100	100	1700	100	453.6
+1984	CA7	MJ-Sinemilla	MJSin	1	ounce	28.35	gram	125	137.5	100	100	131.25	100	28.35
+
+1985	CA1	Cocaine-Powder	C	1	kilo	1000	gram	25000	50000	30	90	37500	60	600
+1985	CA1	Cocaine-Powder	C	1	pound	453.6	gram	20000	30000	30	60	25000	45	204.12
+1985	CA1	Cocaine-Powder	C	0.5	pound	226.8	gram	14000	16000	30	60	15000	45	102.06
+1985	CA1	Cocaine-Powder	C	0.25	pound	113.4	gram	7200	9000	30	60	8100	45	51.03
+1985	CA1	Cocaine-Powder	C	1	ounce	28.35	gram	1600	3200	30	65	2400	47.5	13.46625
+1985	CA1	Cocaine-Powder	C	0.5	ounce	14.175	gram	1100	1300	30	60	1200	45	6.37875
+1985	CA1	Cocaine-Powder	C	0.25	ounce	7.0875	gram	575	650	30	60	612.5	45	3.189375
+1985	CA1	Cocaine-Powder	C	0.125	ounce	3.54375	gram	300	350	30	60	325	45	1.5946875
+1985	CA1	Cocaine-Powder	C	0.0625	ounce	1.771875	gram	175	200	30	60	187.5	45	0.79734375
+1985	CA1	Cocaine-Powder	C	1	gram	1	gram	100	150	40	90	125	65	0.65
+1985	CA1	Cocaine-Powder	C	0.5	gram	0.5	gram	45	60	30	60	52.5	45	0.225
+1985	CA1	Cocaine-Powder	C	0.25	gram	0.25	gram	25	30	30	60	27.5	45	0.1125
+
+1985	CA1	Heroin-Brown	HBro	1	ounce	28.35	gram	4000	12000	10	70	8000	40	11.34
+1985	CA1	Heroin-Brown	HBro	1	ounce	28.35	gram	2500	5000	4	10	3750	7	1.9845
+1985	CA1	Heroin-Brown	HBro	1	ounce	28.35	gram	750	1800	1	3	1275	2	0.567
+1985	CA1	Heroin-Brown	HBro	1	gram	1	gram	400	600	10	70	500	40	0.4
+1985	CA1	Heroin-Brown	HBro	1	gram	1	gram	100	250	2	8	175	5	0.05
+1985	CA1	Heroin-Brown	HBro	1	gram	1	gram	25	50	1	3	37.5	2	0.02
+1985	CA1	Heroin-Brown	HBro	0.5	gram	0.5	gram	40	50	1	3	45	2	0.01
+1985	CA1	Heroin-Brown	HBro	0.25	gram	0.25	gram	10	30	2	5	20	3.5	0.00875
+1985	CA1	Heroin-Brown	HBro	0.125	gram	0.125	gram	100	100	1	5	100	3	0.00375
+1985	CA1	Heroin-Brown	HBro	0.15	gram	0.15	gram	10	30	1	5	20	3	0.0045
+
+1985	CA1	Heroin-Tar	HTar	1	ounce	28.35	gram	3500	9000	10	60	6250	35	9.9225
+1985	CA1	Heroin-Tar	HTar	0.5	ounce	14.175	gram	4500	4500	10	60	4500	35	4.96125
+1985	CA1	Heroin-Tar	HTar	1	gram	1	gram	200	500	10	60	350	35	0.35
+1985	CA1	Heroin-Tar	HTar	0.5	gram	0.5	gram	200	350	10	50	275	30	0.15
+1985	CA1	Heroin-Tar	HTar	0.1	gram	0.1	gram	50	75	10	50	62.5	30	0.03
+1985	CA1	Heroin-Tar	HTar	0.04	gram	0.04	gram	20	30	10	50	25	30	0.012
+
+1985	CA1	MJ-Colombian	MJImp	1	ounce	28.35	gram	50	60	100	100	55	100	28.35
+1985	CA1	MJ-Commercial	MJDom	1	pound	453.6	gram	450	1100	100	100	775	100	453.6
+1985	CA1	MJ-Commercial	MJDom	1	ounce	28.35	gram	60	60	100	100	60	100	28.35
+1985	CA1	Hashish	Hash	1	gram	1	gram	15	15	100	100	15	100	1
+
+1985	CA1	MJ-Sinsemilla	MJSin	1	pound	453.6	gram	1500	2200	100	100	1850	100	453.6
+1985	CA1	MJ-Sinsemilla	MJSin	1	ounce	28.35	gram	100	175	100	100	137.5	100	28.35
+1985	CA1	MJ-Sinsemilla	MJSin	0.5	ounce	14.175	gram	100	100	100	100	100	100	14.175
+1985	CA1	MJ-Sinsemilla	MJSin	0.25	ounce	7.0875	gram	50	60	100	100	55	100	7.0875
+1985	CA1	MJ-Sinsemilla	MJSin	0.125	ounce	3.54375	gram	20	25	100	100	22.5	100	3.54375
+
+1985	CA1	Methamphetamine	Meth	1	pound	453.6	gram	11000	20000	95	95	15500	95	430.92
+1985	CA1	Methamphetamine	Meth	0.5	pound	226.8	gram	7000	9000	95	95	8000	95	215.46
+1985	CA1	Methamphetamine	Meth	0.25	pound	113.4	gram	3500	4500	95	95	4000	95	107.73
+1985	CA1	Methamphetamine	Meth	1	ounce	28.35	gram	800	1500	35	35	1150	35	9.9225
+1985	CA1	Methamphetamine	Meth	0.5	ounce	14.175	gram	350	750	35	35	550	35	4.96125
+1985	CA1	Methamphetamine	Meth	0.25	ounce	7.0875	gram	300	400	15	25	350	20	1.4175
+
+1985	CA2	Cocaine-Powder	C	1	kilo	1000	gram	30000	50000	50	99	40000	74.5	745
+1985	CA2	Cocaine-Powder	C	1	ounce	28.35	gram	1200	2000	15	99	1600	57	16.1595
+1985	CA2	Cocaine-Powder	C	1	gram	1	gram	75	150	15	60	112.5	37.5	0.375
+1985	CA2	Cocaine-Powder	C	0.5	gram	0.5	gram	50	60	15	60	55	37.5	0.1875
+1985	CA2	Cocaine-Powder	C	0.25	gram	0.25	gram	25	35	60	60	30	60	0.15
+
+1985	CA2	Heroin-Brown	HBro	1	kilo	1000	gram	250000	400000	60	80	325000	70	700
+1985	CA2	Heroin-Brown	HBro	1	kilo	1000	gram	60000	75000	5	10	67500	7.5	75
+1985	CA2	Heroin-Brown	HBro	1	pound	453.6	gram	90000	95000	90	90	92500	90	408.24
+1985	CA2	Heroin-Brown	HBro	1	ounce	28.35	gram	5000	12000	30	90	8500	60	17.01
+1985	CA2	Heroin-Brown	HBro	1	ounce	28.35	gram	4000	6000	25	25	5000	25	7.0875
+1985	CA2	Heroin-Brown	HBro	1	ounce	28.35	gram	800	1600	2	4	1200	3	0.8505
+1985	CA2	Heroin-Brown	HBro	1	gram	1	gram	100	150	1	3	125	2	0.02
+1985	CA2	Heroin-Brown	HBro	0.5	gram	0.5	gram	40	50	1	3	45	2	0.01
+1985	CA2	Heroin-Brown	HBro	0.25	gram	0.25	gram	80	80	5	5	80	5	0.0125
+1985	CA2	Heroin-Brown	HBro	0.15	gram	0.15	gram	20	25	2	4	22.5	3	0.0045
+
+1985	CA2	MJ-Colombian	MJImp	1	pound	453.6	gram	400	500	100	100	450	100	453.6
+1985	CA2	MJ-Colombian	MJImp	1	ounce	28.35	gram	200	200	100	100	200	100	28.35
+1985	CA2	MJ-Colombian	MJImp	1	gram	1	gram	20	30	100	100	25	100	1
+1985	CA2	MJDomestic	MJDom	1	ounce	28.35	gram	60	80	100	100	70	100	28.35
+1985	CA2	MJDomestic	MJDom	1	gram	1	gram	20	30	100	100	25	100	1
+1985	CA2	MJDomestic	MJDom	0.15	gram	0.15	gram	5	5	100	100	5	100	0.15
+1985	CA2	Hashish	Hash	1	pound	453.6	gram	1800	2000	100	100	1900	100	453.6
+1985	CA2	Hashish	Hash	1	ounce	28.35	gram	175	225	100	100	200	100	28.35
+1985	CA2	Hashish	Hash	1	gram	1	gram	10	15	100	100	12.5	100	1
+1985	CA2	MJ-Mexican	MJImp	1	pound	453.6	gram	400	500	100	100	450	100	453.6
+1985	CA2	MJ-Sinsemilla	MJSin	1	pound	453.6	gram	1000	3000	100	100	2000	100	453.6
+1985	CA2	MJ-Sinsemilla	MJSin	1	ounce	28.35	gram	125	250	100	100	187.5	100	28.35
+1985	CA2	Methamphetamine	Meth	1	ounce	28.35	gram	800	1200	30	90	1000	60	17.01
+1985	CA2	Methamphetamine	Meth	1	gram	1	gram	60	100	50	60	80	55	0.55
+														
+1985	CA3	Cocaine-Powder	C	1	kilo	1000	gram	75000	75000	94	94	75000	94	940
+1985	CA3	Cocaine-Powder	C	1	pound	453.6	gram	35000	35000	70	80	35000	75	340.2
+1985	CA3	Cocaine-Powder	C	1	ounce	28.35	gram	2000	2500	50	65	2250	57.5	16.30125
+1985	CA3	Cocaine-Powder	C	1	gram	1	gram	100	150	20	20	125	20	0.2
+														
+1985	CA3	Heroin	HWh	1	pound	453.6	gram	160000	160000	50	50	160000	50	226.8
+1985	CA3	Heroin	HWh	1	ounce	28.35	gram	12000	12000	50	50	12000	50	14.175
+1985	CA3	Heroin	HWh	1	gram	1	gram	400	400	50	50	400	50	0.5
+1985	CA3	Heroin	HWh	0.375	gram	0.375	gram	200	200	50	50	200	50	0.1875
+
+1985	CA4	Cocaine-Powder	C	1	kilo	1000	gram	45000	50000	85	85	47500	85	850
+1985	CA4	Cocaine-Powder	C	1	ounce	28.35	gram	1300	2800	50	80	2050	65	18.4275
+1985	CA4	Cocaine-Powder	C	0.125	ounce	3.54375	gram	300	350	50	80	325	65	2.3034375
+1985	CA4	Cocaine-Powder	C	1	gram	1	gram	100	120	50	80	110	65	0.65
+1985	CA4	Cocaine-Powder	C	0.1	gram	0.1	gram	25	25	14	25	25	19.5	0.0195
+
+1985	CA4	Heroin-Brown	HBro	1	kilo	1000	gram	160000	160000	80	80	160000	80	800
+1985	CA4	Heroin-Brown	HBro	1	pound	453.6	gram	96000	96000	80	80	96000	80	362.88
+1985	CA4	Heroin-Brown	HBro	1	pound	453.6	gram	16000	16000	1	4	16000	2.5	11.34
+1985	CA4	Heroin-Brown	HBro	1	ounce	28.35	gram	5000	8500	50	80	6750	65	18.4275
+1985	CA4	Heroin-Brown	HBro	1	ounce	28.35	gram	1200	1200	1	4	1200	2.5	0.70875
+1985	CA4	Heroin-Brown	HBro	1	gram	1	gram	300	500	20	80	400	50	0.5
+1985	CA4	Heroin-Brown	HBro	1	gram	1	gram	150	150	1	5	150	3	0.03
+1985	CA4	Heroin-Brown	HBro	0.15	gram	0.15	gram	15	25	1	3	20	2	0.003
+1985	CA4	Heroin-Brown	HBro	0.1	gram	0.1	gram	25	100	1	10	62.5	5.5	0.0055
+
+1985	CA4	MJ-Domestic	MJDom	1	pound	453.6	gram	500	1000	100	100	750	100	453.6
+1985	CA4	MJ-Domestic	MJDom	1	ounce	28.35	gram	50	70	100	100	60	100	28.35
+1985	CA4	MJ-Mexican	MJImp	1	pound	453.6	gram	250	250	100	100	250	100	453.6
+1985	CA4	MJ-Mexican	MJImp	0.25	ounce	7.0875	gram	30	45	100	100	37.5	100	7.0875
+1985	CA4	MJ-Mexican	MJImp	0.125	ounce	3.54375	gram	25	25	100	100	25	100	3.54375
+1985	CA4	MJ-Sinsemilla	MJSin	1	pound	453.6	gram	1200	1500	100	100	1350	100	453.6
+1985	CA4	MJ-Sinsemilla	MJSin	0.25	pound	113.4	gram	350	350	100	100	350	100	113.4
+1985	CA4	MJ-Sinsemilla	MJSin	1	ounce	28.35	gram	150	200	100	100	175	100	28.35
+
+1985	CA4	Heroin-Tar	HTar	1	pound	453.6	gram	56000	56000	80	90	56000	85	385.56
+1985	CA4	Heroin-Tar	HTar	1	ounce	28.35	gram	5500	9000	35	80	7250	57.5	16.30125
+
+1985	CA4	Methamphetamine	Meth	1	ounce	28.35	gram	1000	2500	30	30	1750	30	8.505
+1985	CA4	Methamphetamine	Meth	0.125	ounce	3.54375	gram	225	250	12	20	237.5	16	0.567
+1985	CA4	Methamphetamine	Meth	1	gram	1	gram	75	125	20	80	100	50	0.5
+1985	CA4	Methamphetamine	Meth	0.5	gram	0.5	gram	60	60	10	15	60	12.5	0.0625
+1985	CA4	Methamphetamine	Meth	0.125	gram	0.125	gram	25	25	10	10	25	10	0.0125
+
+1985	CA5	Cocaine-Powder	C	1	kilo	1000	gram	20000	50000	80	80	35000	80	800
+1985	CA5	Cocaine-Powder	C	1	pound	453.6	gram	18000	24000	80	80	21000	80	362.88
+1985	CA5	Cocaine-Powder	C	1	ounce	28.35	gram	1300	2200	30	99	1750	64.5	18.28575
+1985	CA5	Cocaine-Powder	C	0.25	ounce	7.0875	gram	600	600	40	60	600	50	3.54375
+1985	CA5	Cocaine-Powder	C	0.125	ounce	3.54375	gram	250	325	40	99	287.5	69.5	2.46290625
+1985	CA5	Cocaine-Powder	C	25	gram	25	gram	1400	1400	82	82	1400	82	20.5
+1985	CA5	Cocaine-Powder	C	1	gram	1	gram	100	125	40	40	112.5	40	0.4
+1985	CA5	Cocaine-Powder	C	0.125	gram	0.125	gram	25	25	15	20	25	17.5	0.021875
+
+1985	CA5	Heroin-Brown	HBro	1	kilo	1000	gram	100000	100000	50	70	100000	60	600
+1985	CA5	Heroin-Brown	HBro	1	ounce	28.35	gram	5000	10000	50	70	7500	60	17.01
+1985	CA5	Heroin-Brown	HBro	1	ounce	28.35	gram	1500	4000	4	10	2750	7	1.9845
+1985	CA5	Heroin-Brown	HBro	25	gram	25	gram	7000	10000	65	65	8500	65	16.25
+1985	CA5	Heroin-Brown	HBro	25	gram	25	gram	5000	8000	50	50	6500	50	12.5
+1985	CA5	Heroin-Brown	HBro	1	gram	1	gram	300	350	50	50	325	50	0.5
+1985	CA5	Heroin-Brown	HBro	0.25	gram	0.25	gram	100	100	5	6	100	5.5	0.01375
+1985	CA5	Heroin-Brown	HBro	0.225	gram	0.225	gram	35	50	5	5	42.5	5	0.01125
+1985	CA5	Heroin-Brown	HBro	0.3	gram	0.3	gram	25	25	1	3	25	2	0.006
+
+1985	CA5	Heroin-Tar	HTar	1	kilo	1000	gram	400000	400000	80	80	400000	80	800
+1985	CA5	Heroin-Tar	HTar	1	gram	1	gram	600	600	70	90	600	80	0.8
+1985	CA5	Heroin-Tar	HTar	1	gram	1	gram	300	300	30	40	300	35	0.35
+1985	CA5	Heroin-Tar	HTar	0.5	gram	0.5	gram	200	200	5	7	200	6	0.03
+1985	CA5	Heroin-Tar	HTar	0.25	gram	0.25	gram	75	100	5	37	87.5	21	0.0525
+1985	CA5	Heroin-Tar	HTar	0.0833	gram	0.0833	gram	50	50	20	20	50	20	0.01666
+
+1985	CA5	Methamphetamine	Meth	1	ounce	28.35	gram	600	1200	72	72	900	72	20.412
+1985	CA5	Methamphetamine	Meth	0.125	ounce	3.54375	gram	225	225	72	72	225	72	2.5515
+1985	CA5	Methamphetamine	Meth	1	gram	1	gram	60	80	63	63	70	63	0.63
+
+1985	CA6	Cocaine-Powder	C	1	kilo	1000	gram	45000	70000	95	95	57500	95	950
+1985	CA6	Cocaine-Powder	C	1	pound	453.6	gram	28000	36000	95	95	32000	95	430.92
+1985	CA6	Cocaine-Powder	C	1	ounce	28.35	gram	1500	2500	80	90	2000	85	24.0975
+1985	CA6	Cocaine-Powder	C	0.125	ounce	3.54375	gram	300	300	80	85	300	82.5	2.92359375
+1985	CA6	Cocaine-Powder	C	1	gram	1	gram	100	120	70	90	110	80	0.8
+
+1985	CA6	Heroin	HOth	0.1	gram	0.1	gram	10	10	2	6	10	4	0.004
+1985	CA6	Heroin	HOth	0.2	gram	0.2	gram	12	25	2	6	18.5	4	0.008
+1985	CA6	Heroin-Tar	HTar	1	ounce	28.35	gram	5000	10000	26	46	7500	36	10.206
+1985	CA6	MJ-Commercial	MJDom	1	pound	453.6	gram	100	435	100	100	267.5	100	453.6
+1985	CA6	MJ-Commercial	MJDom	1	ounce	28.35	gram	10	40	100	100	25	100	28.35
+
+1985	CA6	MJ-Colombian	MJImp	1	pound	453.6	gram	1450	1450	100	100	1450	100	453.6
+1985	CA6	MJ-Colombian	MJImp	0.5	pound	226.8	gram	350	600	100	100	475	100	226.8
+1985	CA6	MJ-Colombian	MJImp	1	ounce	28.35	gram	90	110	100	100	100	100	28.35
+1985	CA6	MJ-Colombian	MJImp	0.5	ounce	14.175	gram	50	60	100	100	55	100	14.175
+1985	CA6	MJ-Colombian	MJImp	0.25	ounce	7.0875	gram	25	35	100	100	30	100	7.0875
+
+1985	CA6	Hashish	Hash	1	pound	453.6	gram	1400	1500	100	100	1450	100	453.6
+1985	CA6	Hashish	Hash	0.5	pound	226.8	gram	700	800	100	100	750	100	226.8
+1985	CA6	Hashish	Hash	1	ounce	28.35	gram	140	150	100	100	145	100	28.35
+1985	CA6	Hashish	Hash	0.5	ounce	14.175	gram	70	80	100	100	75	100	14.175
+1985	CA6	Hashish	Hash	0.25	ounce	7.0875	gram	45	50	100	100	47.5	100	7.0875
+1985	CA6	Hashish	Hash	1	gram	1	gram	10	15	100	100	12.5	100	1
+
+1985	CA6	MJ-Sinsemilla	MJSin	1	pound	453.6	gram	1000	2500	100	100	1750	100	453.6
+1985	CA6	MJ-Sinsemilla	MJSin	1	ounce	28.35	gram	100	250	100	100	175	100	28.35
+1985	CA6	MJ-Sinsemilla	MJSin	0.5	ounce	14.175	gram	50	50	100	100	50	100	14.175
+1985	CA6	MJ-Sinsemilla	MJSin	0.25	ounce	7.0875	gram	25	70	100	100	47.5	100	7.0875
+1985	CA6	MJ-Sinsemilla	MJSin	3.5	gram	3.5	gram	10	10	100	100	10	100	3.5
+
+1985	CA7	Cocaine-Powder	C	1	kilo	1000	gram	40000	50000	95	95	45000	95	950
+1985	CA7	Cocaine-Powder	C	1	pound	453.6	gram	32000	36000	95	95	34000	95	430.92
+1985	CA7	Cocaine-Powder	C	1	ounce	28.35	gram	1800	2400	95	95	2100	95	26.9325
+1985	CA7	Cocaine-Powder	C	0.5	ounce	14.175	gram	1000	1250	95	95	1125	95	13.46625
+1985	CA7	Cocaine-Powder	C	0.25	ounce	7.0875	gram	800	900	95	95	850	95	6.733125
+1985	CA7	Cocaine-Powder	C	0.125	ounce	3.54375	gram	450	500	95	95	475	95	3.3665625
+1985	CA7	Cocaine-Powder	C	0.25	gram	0.25	gram	25	35	95	95	30	95	0.2375
+														
+1985	CA7	Heroin-Brown	HBro	1	ounce	28.35	gram	1500	2500	50	75	2000	62.5	17.71875
+1985	CA7	Heroin-Brown	HBro	2	gram	2	gram	150	165	7	17	157.5	12	0.24
+1985	CA7	Heroin-Brown	HBro	0.25	gram	0.25	gram	25	25	5	5	25	5	0.0125
+1985	CA7	Heroin-Tar	HTar	1	kilo	1000	gram	220000	260000	48	89	240000	68.5	685
+1985	CA7	Heroin-Tar	HTar	1	ounce	28.35	gram	6000	8000	50	50	7000	50	14.175
+1985	CA7	Heroin-Tar	HTar	0.15	gram	0.15	gram	25	25	24	24	25	24	0.036
+
+1985	CA7	MJ-Mexican	MJImp	1	ounce	28.35	gram	100	150	100	100	125	100	28.35
+1985	CA7	MJ-Mexican	MJImp	0.25	ounce	7.0875	gram	50	50	100	100	50	100	7.0875
+1985	CA7	MJ-Commercial	MJDom	1	pound	453.6	gram	400	700	100	100	550	100	453.6
+1985	CA7	MJ-Commercial	MJDom	1	ounce	28.35	gram	45	165	100	100	105	100	28.35
+1985	CA7	Hashish	Hash	1	pound	453.6	gram	1800	2750	100	100	2275	100	453.6
+1985	CA7	Hashish	Hash	1	ounce	28.35	gram	115	137.5	100	100	126.25	100	28.35
+1985	CA7	Hashish	Hash	1	gram	1	gram	20	35	100	100	27.5	100	1
+1985	CA7	MJ-Sinsemilla	MJSin	1	pound	453.6	gram	1400	2400	100	100	1900	100	453.6
+1985	CA7	MJ-Sinsemilla	MJSin	1	ounce	28.35	gram	125	137.5	100	100	131.25	100	28.35
+
+1985	AK	Cocaine	C	1	pound	453.6	gram	60000	80000	40	60	70000	50	226.8
+1985	AK	Cocaine	C	1	ounce	28.35	gram	1500	3200	40	80	2350	60	17.01
+1985	AK	Cocaine	C	0.25	ounce	7.0875	gram	750	800	40	80	775	60	4.2525
+1985	AK	Cocaine	C	1	gram	1	gram	110	220	15	20	165	17.5	0.175
+1985	AK	Heroin-Brown	HBro	1	gram	1	gram	100	220	1.5	10	160	5.75	0.0575
+1985	AK	Heroin-Brown	HBro	0.5	gram	0.5	gram	100	110	1	2	105	1.5	0.0075
+1985	AK	Heroin-Tar	HTar	1	gram	1	gram	1100	1100	70	80	1100	75	0.75
+1985	AK	Heroin-Tar	HTar	0.1	gram	0.1	gram	110	110	1	1	110	1	0.001
+
+1985	AK	MJ-Domestic	MJDom	1	pound	453.6	gram	1500	3200	100	100	2350	100	453.6
+1985	AK	MJ-Domestic	MJDom	0.5	pound	226.8	gram	1600	1600	100	100	1600	100	226.8
+1985	AK	MJ-Domestic	MJDom	0.25	pound	113.4	gram	850	850	100	100	850	100	113.4
+1985	AK	MJ-Domestic	MJDom	1	ounce	28.35	gram	150	300	100	100	225	100	28.35
+1985	AK	MJ-Domestic	MJDom	0.5	ounce	14.175	gram	115	115	100	100	115	100	14.175
+1985	AK	MJ-Domestic	MJDom	0.25	ounce	7.0875	gram	75	90	100	100	82.5	100	7.0875
+1985	AK	MJ-Domestic	MJDom	1	gram	1	gram	5	25	100	100	15	100	1
+1985	AK	MJ-Colombian	MJImp	1	pound	453.6	gram	500	500	100	100	500	100	453.6
+1985	AK	Hashish	Hash	0.25	ounce	7.0875	gram	60	65	100	100	62.5	100	7.0875
+1985	AK	Hashish	Hash	1	gram	1	gram	10	25	100	100	17.5	100	1
+
+1985	HI	Cocaine-Powder	C	1	pound	453.6	gram	28000	35000	60	95	31500	77.5	351.54
+1985	HI	Cocaine-Powder	C	1	ounce	28.35	gram	1900	2500	20	95	2200	57.5	16.30125
+1985	HI	Cocaine-Powder	C	0.25	ounce	7.0875	gram	550	650	22	80	600	51	3.614625
+1985	HI	Cocaine-Powder	C	0.125	ounce	3.54375	gram	300	300	10	40	300	25	0.8859375
+1985	HI	Cocaine-Powder	C	1	gram	1	gram	100	125	10	80	112.5	45	0.45
+
+1985	HI	Heroin-White	HWh	1	pound	453.6	gram	80000	100000	90	90	90000	90	408.24
+1985	HI	Heroin-White	HWh	1	ounce	28.35	gram	9000	11000	45	45	10000	45	12.7575
+1985	HI	Heroin-White	HWh	0.25	ounce	7.0875	gram	2000	3000	10	22	2500	16	1.134
+1985	HI	Heroin-White	HWh	1	gram	1	gram	500	700	10	15	600	12.5	0.125
+1985	HI	Heroin-Brown	HBro	0.25	gram	0.25	gram	300	600	5	10	450	7.5	0.01875
+1985	HI	Heroin-Brown	HBro	0.1	gram	0.1	gram	50	250	5	10	150	7.5	0.0075
+1985	HI	Marijuana	MJDom	1	pound	453.6	gram	1000	2500	100	100	1750	100	453.6
+1985	HI	Marijuana	MJDom	1	ounce	28.35	gram	150	250	100	100	200	100	28.35
+1985	HI	Marijuana	MJDom	0.25	ounce	7.0875	gram	40	40	100	100	40	100	7.0875
+
+1985	OR	Cocaine	C	1	kilo	1000	gram	35000	40000	95	95	37500	95	950
+1985	OR	Cocaine	C	1	ounce	28.35	gram	1300	2500	30	30	1900	30	8.505
+1985	OR	Cocaine	C	1	gram	1	gram	100	150	30	60	125	45	0.45
+1985	OR	Cocaine	C	0.25	gram	0.25	gram	30	50	50	50	40	50	0.125
+1985	OR	Heroin-Brown	HBro	1	gram	1	gram	50	500	2	100	275	51	0.51
+1985	OR	Heroin-Brown	HBro	0.25	gram	0.25	gram	50	50	5	10	50	7.5	0.01875
+1985	OR	Heroin-White	HWh	1	gram	1	gram	800	1000	15	100	900	57.5	0.575
+1985	OR	Heroin-White	HWh	1	gram	1	gram	60	60	5	5	60	5	0.05
+1985	OR	Heroin-White	HWh	0.25	gram	0.25	gram	50	50	5	10	50	7.5	0.01875
+1985	OR	Heroin-Tar	HTar	0.25	ounce	7.0875	gram	3000	3500	63	63	3250	63	4.465125
+1985	OR	Heroin-Tar	HTar	0.05	gram	0.05	gram	50	50	5	10	50	7.5	0.00375
+1985	OR	MJ-Mexican	MJImp	1	ounce	28.35	gram	100	100	100	100	100	100	28.35
+1985	OR	MJ-Colombian	MJImp	1	pound	453.6	gram	1300	1500	100	100	1400	100	453.6
+1985	OR	MJ-Sinsemilla	MJSin	1	pound	453.6	gram	1800	2400	100	100	2100	100	453.6
+1985	OR	MJ-Sinsemilla	MJSin	1	ounce	28.35	gram	90	250	100	100	170	100	28.35
+1985	OR	MJ-Sinsemilla	MJSin	0.25	ounce	7.0875	gram	15	70	100	100	42.5	100	7.0875
+1985	OR	Hashish	Hash	1	ounce	28.35	gram	160	200	100	100	180	100	28.35
+1985	OR	Hashish	Hash	1	gram	1	gram	15	40	100	100	27.5	100	1
+1985	OR	Methamphetamine	Meth	1	pound	453.6	gram	12000	20000	85	85	16000	85	385.56
+1985	OR	Methamphetamine	Meth	1	ounce	28.35	gram	900	1200	95	95	1050	95	26.9325
+1985	OR	Methamphetamine	Meth	1	gram	1	gram	25	110	50	95	67.5	72.5	0.725
+
+1985	WA	Cocaine-Powder	C	1	pound	453.6	gram	25000	35000	90	90	30000	90	408.24
+1985	WA	Cocaine-Powder	C	0.5	pound	226.8	gram	15000	20000	90	90	17500	90	204.12
+1985	WA	Cocaine-Powder	C	0.25	pound	113.4	gram	2800	9000	40	40	5900	40	45.36
+1985	WA	Cocaine-Powder	C	1	ounce	28.35	gram	1400	2800	20	40	2100	30	8.505
+1985	WA	Cocaine-Powder	C	0.5	ounce	14.175	gram	1000	1500	20	40	1250	30	4.2525
+1985	WA	Cocaine-Powder	C	0.25	ounce	7.0875	gram	600	750	20	40	675	30	2.12625
+1985	WA	Cocaine-Powder	C	0.125	ounce	3.54375	gram	300	375	20	40	337.5	30	1.063125
+1985	WA	Cocaine-Powder	C	1	gram	1	gram	100	150	12	60	125	36	0.36
+1985	WA	Cocaine-Powder	C	0.5	gram	0.5	gram	50	80	30	60	65	45	0.225
+1985	WA	Cocaine-Powder	C	0.25	gram	0.25	gram	30	30	20	40	30	30	0.075
+1985	WA	Cocaine-Powder	C	0.125	gram	0.125	gram	35	40	35	40	37.5	37.5	0.046875
+
+1985	WA	Heroin-Brown	HBro	1	ounce	28.35	gram	1500	12000	25	50	6750	37.5	10.63125
+1985	WA	Heroin-Brown	HBro	1	gram	1	gram	250	500	15	15	375	15	0.15
+
+1985	WA	Heroin-Tar	HTar	1	pound	453.6	gram	85000	85000	60	70	85000	65	294.84
+1985	WA	Heroin-Tar	HTar	1	ounce	28.35	gram	5000	10000	60	70	7500	65	18.4275
+1985	WA	Heroin-Tar	HTar	0.5	ounce	14.175	gram	3500	4000	60	75	3750	67.5	9.568125
+1985	WA	Heroin-Tar	HTar	1	gram	1	gram	300	600	40	70	450	55	0.55
+1985	WA	Heroin-Tar	HTar	0.5	gram	0.5	gram	150	200	40	70	175	55	0.275
+1985	WA	Heroin-Tar	HTar	0.25	gram	0.25	gram	75	100	40	75	87.5	57.5	0.14375
+1985	WA	Heroin-Tar	HTar	0.125	gram	0.125	gram	25	100	20	70	62.5	45	0.05625
+
+1985	WA	MJ-Sinsemillla	MJSin	1	pound	453.6	gram	1000	3000	100	100	2000	100	453.6
+1985	WA	MJ-Sinsemillla	MJSin	0.25	pound	113.4	gram	250	650	100	100	450	100	113.4
+1985	WA	MJ-Sinsemillla	MJSin	1	ounce	28.35	gram	180	250	100	100	215	100	28.35
+1985	WA	MJ-Sinsemillla	MJSin	0.5	ounce	14.175	gram	100	125	100	100	112.5	100	14.175
+1985	WA	MJ-Sinsemillla	MJSin	0.25	ounce	7.0875	gram	50	100	100	100	75	100	7.0875
+1985	WA	MJ-Sinsemillla	MJSin	0.125	ounce	3.54375	gram	25	30	100	100	27.5	100	3.54375
+1985	WA	MJ-Sinsemillla	MJSin	1	gram	1	gram	10	15	100	100	12.5	100	1
+
+1985	WA	MJ-Colombian	MJImp	1	pound	453.6	gram	400	1000	100	100	700	100	453.6
+1985	WA	Hashish	Hash	1	pound	453.6	gram	1400	1600	100	100	1500	100	453.6
+1985	WA	Hashish	Hash	0.25	pound	113.4	gram	250	300	100	100	275	100	113.4
+1985	WA	MJ-Mexican	MJImp	1	pound	453.6	gram	500	600	100	100	550	100	453.6
+1985	WA	MJ-Mexican	MJImp	0.5	pound	226.8	gram	250	400	100	100	325	100	226.8
+1985	WA	MJ-Mexican	MJImp	1	ounce	28.35	gram	110	150	100	100	130	100	28.35
+1985	WA	MJ-Mexican	MJImp	0.25	ounce	7.0875	gram	40	75	100	100	57.5	100	7.0875
+
+1986	CA1	Cocaine-Powder	C	1	kilo	1000	gram	35000	70000	50	70	52500	60	600
+1986	CA1	Cocaine-Powder	C	1	pound	453.6	gram	20000	30000	30	60	25000	45	204.12
+1986	CA1	Cocaine-Powder	C	0.5	pound	226.8	gram	14000	16000	30	60	15000	45	102.06
+1986	CA1	Cocaine-Powder	C	0.25	pound	113.4	gram	7200	9000	30	60	8100	45	51.03
+1986	CA1	Cocaine-Powder	C	1	ounce	28.35	gram	900	2200	50	80	1550	65	18.4275
+1986	CA1	Cocaine-Powder	C	0.125	ounce	3.54375	gram	200	300	20	50	250	35	1.2403125
+1986	CA1	Cocaine-Powder	C	0.0625	ounce	1.771875	gram	125	150	50	50	137.5	50	0.8859375
+1986	CA1	Cocaine-Powder	C	1	gram	1	gram	60	150	50	60	105	55	0.55
+1986	CA1	Cocaine-Powder	C	0.5	gram	0.5	gram	50	60	50	50	55	50	0.25
+1986	CA1	Cocaine-Powder	C	0.25	gram	0.25	gram	20	30	20	60	25	40	0.1
+				 										
+1986	CA1	Crack	CRock	1	ounce	28.35	gram	1880	2200	40	40	2040	40	11.34
+1986	CA1	Crack	CRock	0.125	ounce	3.54375	gram	280	300	40	40	290	40	1.4175
+1986	CA1	Crack	CRock	1	gram	1	gram	100	110	40	40	105	40	0.4
+1986	CA1	Crack	CRock	0.5	gram	0.5	gram	35	50	40	40	42.5	40	0.2
+1986	CA1	Crack	CRock	0.25	gram	0.25	gram	25	30	40	40	27.5	40	0.1
+
+1986	CA1	Heroin Brown	HBro	1	ounce	28.35	gram	4000	12000	70	90	8000	80	22.68
+1986	CA1	Heroin Brown	HBro	1	ounce	28.35	gram	2500	5000	4	10	3750	7	1.9845
+1986	CA1	Heroin Brown	HBro	1	ounce	28.35	gram	750	1800	1	3	1275	2	0.567
+1986	CA1	Heroin Brown	HBro	1	gram	1	gram	400	600	10	70	500	40	0.4
+1986	CA1	Heroin Brown	HBro	1	gram	1	gram	100	250	2	8	175	5	0.05
+1986	CA1	Heroin Brown	HBro	1	gram	1	gram	25	50	1	3	37.5	2	0.02
+1986	CA1	Heroin Brown	HBro	0.5	gram	0.5	gram	40	50	1	3	45	2	0.01
+1986	CA1	Heroin Brown	HBro	0.25	gram	0.25	gram	10	30	2	5	20	3.5	0.00875
+1986	CA1	Heroin Brown	HBro	0.15	gram	0.15	gram	10	30	1	5	20	3	0.0045
+
+1986	CA1 	Heroin Tar	HTar	1	ounce	28.35	gram	5500	8000	70	70	6750	70	19.845
+1986	CA1	Heroin Tar	HTar	1	ounce	28.35	gram	2000	2000	20	20	2000	20	5.67
+1986	CA1	Heroin Tar	HTar	0.5	ounce	14.175	gram	4000	4000	10	60	4000	35	4.96125
+1986	CA1	Heroin Tar	HTar	1	gram	1	gram	100	500	50	80	300	65	0.65
+1986	CA1	Heroin Tar	HTar	0.5	gram	0.5	gram	60	100	50	80	80	65	0.325
+1986	CA1	Heroin Tar	HTar	0.25	gram	0.25	gram	40	70	50	70	55	60	0.15
+1986	CA1	Heroin Tar	HTar	0.1	gram	0.1	gram	50	75	10	50	62.5	30	0.03
+1986	CA1	Heroin Tar	HTar	0.04	gram	0.04	gram	20	30	10	50	25	30	0.012
+
+1986	CA1	MJ-Colombian	MJImp	1	ounce	28.35	gram	50	60	100	100	55	100	28.35
+1986	CA1	MJ-Commercial	MJDom	1	pound	453.6	gram	450	1100	100	100	775	100	453.6
+1986	CA1	MJ-Commercial	MJDom	1	ounce	28.35	gram	60	60	100	100	60	100	28.35
+1986	CA1	Hashish	Hash	1	gram	1	gram	10	15	100	100	12.5	100	1
+1986	CA1	MJ-Mexican	MJImp	1	pound	453.6	gram	1500	1500	100	100	1500	100	453.6
+1986	CA1	MJ-Mexican	MJImp	1	ounce	28.35	gram	200	200	100	100	200	100	28.35
+1986	CA1	MJ-Sinsemilla	MJSin	1	pound	453.6	gram	1800	2500	100	100	2150	100	453.6
+1986	CA1	MJ-Sinsemilla	MJSin	1	pound	453.6	gram	1500	1500	100	100	1500	100	453.6
+1986	CA1	MJ-Sinsemilla	MJSin	1	pound	453.6	gram	400	600	100	100	500	100	453.6
+1986	CA1	MJ-Sinsemilla	MJSin	1	ounce	28.35	gram	80	100	100	100	90	100	28.35
+1986	CA1	MJ-Sinsemilla	MJSin	0.5	ounce	14.175	gram	70	70	100	100	70	100	14.175
+1986	CA1	MJ-Sinsemilla	MJSin	0.5	ounce	14.175	gram	25	30	100	100	27.5	100	14.175
+1986	CA1	MJ-Sinsemilla	MJSin	0.25	ounce	7.0875	gram	45	45	100	100	45	100	7.0875
+1986	CA1	MJ-Sinsemilla	MJSin	0.125	ounce	3.54375	gram	25	25	100	100	25	100	3.54375
+1986	CA1	MJ-Sinsemilla	MJSin	0.125	ounce	3.54375	gram	10	25	100	100	17.5	100	3.54375
+1986	CA1	MJ-Sinsemilla	MJSin	1	gram	1	gram	5	10	100	100	7.5	100	1
+
+1986	CA1	Methamphetamine	Meth	1	pound	453.6	gram	6000	14000	50	80	10000	65	294.84
+1986	CA1	Methamphetamine	Meth	0.5	pound	226.8	gram	3500	4800	50	80	4150	65	147.42
+1986	CA1	Methamphetamine	Meth	0.25	pound	113.4	gram	1800	2200	50	80	2000	65	73.71
+1986	CA1	Methamphetamine	Meth	1	ounce	28.35	gram	800	2500	50	60	1650	55	15.5925
+1986	CA1	Methamphetamine	Meth	0.5	ounce	14.175	gram	350	750	30	30	550	30	4.2525
+1986	CA1	Methamphetamine	Meth	0.25	ounce	7.0875	gram	300	400	15	25	350	20	1.4175
+1986	CA1	Methamphetamine	Meth	0.125	ounce	3.54375	gram	150	225	50	60	187.5	55	1.9490625
+1986	CA1	Methamphetamine	Meth	0.0625	ounce	1.771875	gram	100	125	50	50	112.5	50	0.8859375
+1986	CA1	Methamphetamine	Meth	1	gram	1	gram	70	100	20	60	85	40	0.4
+1986	CA1	Methamphetamine	Meth	0.5	gram	0.5	gram	25	60	20	60	42.5	40	0.2
+1986	CA1	Methamphetamine	Meth	0.25	gram	0.25	gram	20	25	60	60	22.5	60	0.15
+
+1986	CA2	Cocaine-Powder	C	1	kilo	1000	gram	34000	42000	60	90	38000	75	750
+1986	CA2	Cocaine-Powder	C	1	pound	453.6	gram	25000	25000	60	90	25000	75	340.2
+1986	CA2	Cocaine-Powder	C	1	ounce	28.35	gram	1200	2000	40	90	1600	65	18.4275
+1986	CA2	Cocaine-Powder	C	1	gram	1	gram	90	125	20	93	107.5	56.5	0.565
+1986	CA2	Cocaine-Powder	C	0.5	gram	0.5	gram	50	60	20	93	55	56.5	0.2825
+1986	CA2	Cocaine-Powder	C	0.25	gram	0.25	gram	25	25	20	93	25	56.5	0.14125
+1986	CA2	Cocaine-Powder	C	0.1	gram	0.1	gram	20	25	60	80	22.5	70	0.07
+
+1986	CA2	H. Brown	HBro	1	kilo	1000	gram	100000	230000	50	99	165000	74.5	745
+1986	CA2	H. Brown	HBro	1	kilo	1000	gram	60000	75000	5	10	67500	7.5	75
+1986	CA2	H. Brown	HBro	1	pound	453.6	gram	90000	95000	90	90	92500	90	408.24
+1986	CA2	H. Brown	HBro	1	ounce	28.35	gram	5000	12000	30	90	8500	60	17.01
+1986	CA2	H. Brown	HBro	1	ounce	28.35	gram	4000	6000	25	25	5000	25	7.0875
+1986	CA2	H. Brown	HBro	1	ounce	28.35	gram	800	1600	2	4	1200	3	0.8505
+1986	CA2	H. Brown	HBro	1	gram	1	gram	250	300	60	60	275	60	0.6
+1986	CA2	H. Brown	HBro	1	gram	1	gram	100	150	1	3	125	2	0.02
+1986	CA2	H. Brown	HBro	0.5	gram	0.5	gram	140	140	60	60	140	60	0.3
+1986	CA2	H. Brown	HBro	0.5	gram	0.5	gram	40	50	1	3	45	2	0.01
+1986	CA2	H. Brown	HBro	0.055	gram	0.055	gram	10	20	3	6	15	4.5	0.002475
+
+1986	CA2	H. Tar	HTar	1	pound	453.6	gram	55000	60000	80	80	57500	80	362.88
+1986	CA2	H. Tar	HTar	1	ounce	28.35	gram	4000	8000	40	60	6000	50	14.175
+1986	CA2	H. Tar	HTar	1	gram	1	gram	250	300	40	40	275	40	0.4
+1986	CA2	H. Tar	HTar	0.06	gram	0.06	gram	20	30	2	2	25	2	0.0012
+1986	CA2	H. Tar	HTar	0.025	gram	0.025	gram	25	30	28	40	27.5	34	0.0085
+
+1986	CA2	Heroin-White	HWh	1	kilo	1000	gram	90000	220000	50	99	155000	74.5	745
+1986	CA2	Heroin-White	HWh	1	pound	453.6	gram	16000	96000	50	80	56000	65	294.84
+1986	CA2	Heroin-White	HWh	1	ounce	28.35	gram	2500	8500	30	80	5500	55	15.5925
+
+1986	CA2	MJ-Domestic	MJDom	1	pound	453.6	gram	425	500	100	100	462.5	100	453.6
+1986	CA2	MJ-Domestic	MJDom	1	ounce	28.35	gram	60	80	100	100	70	100	28.35
+1986	CA2	MJ-Domestic	MJDom	1	gram	1	gram	20	30	100	100	25	100	1
+1986	CA2	MJ-Domestic	MJDom	0.15	gram	0.15	gram	5	5	100	100	5	100	0.15
+1986	CA2	Hashish	Hash	1	pound	453.6	gram	1500	2000	100	100	1750	100	453.6
+1986	CA2	Hashish	Hash	1	ounce	28.35	gram	175	225	100	100	200	100	28.35
+1986	CA2	Hashish	Hash	1	gram	1	gram	10	10	100	100	10	100	1
+1986	CA2	Hashish	Hash	0.5	gram	0.5	gram	3	3	100	100	3	100	0.5
+1986	CA2	MJ-Mexican	MJImp	1	pound	453.6	gram	400	500	100	100	450	100	453.6
+1986	CA2	MJ-Sinsemilla	MJSin	1	pound	453.6	gram	1000	3000	100	100	2000	100	453.6
+1986	CA2	MJ-Sinsemilla	MJSin	1	ounce	28.35	gram	125	400	100	100	262.5	100	28.35
+1986	CA2	MJ-Sinsemilla	MJSin	0.125	ounce	3.54375	gram	20	25	100	100	22.5	100	3.54375
+1986	CA2	MJ-Sinsemilla	MJSin	1	gram	1	gram	10	10	100	100	10	100	1
+
+1986	CA2	Methamphetamine	Meth	1	ounce	28.35	gram	950	1500	20	20	1225	20	5.67
+1986	CA2	Methamphetamine	Meth	0.125	ounce	3.54375	gram	125	175	30	90	150	60	2.12625
+1986	CA2	Methamphetamine	Meth	1	gram	1	gram	60	125	20	90	92.5	55	0.55
+1986	CA2	Methamphetamine	Meth	0.125	gram	0.125	gram	25	25	40	60	25	50	0.0625
+1986	CA2	Methamphetamine	Meth	0.625	gram	0.625	gram	40	60	60	80	50	70	0.4375
+
+1986	CA3	Cocaine-Powder	C	1	kilo	1000	gram	75000	75000	94	94	75000	94	940
+1986	CA3	Cocaine-Powder	C	1	pound	453.6	gram	35000	35000	70	80	35000	75	340.2
+1986	CA3	Cocaine-Powder	C	1	ounce	28.35	gram	1000	2200	40	92	1600	66	18.711
+1986	CA3	Cocaine-Powder	C	1	gram	1	gram	80	100	40	40	90	40	0.4
+1986	CA3	Cocaine-Powder	C	0.5	gram	0.5	gram	50	60	40	40	55	40	0.2
+1986	CA3	Cocaine-Powder	C	0.25	gram	0.25	gram	25	30	40	40	27.5	40	0.1
+
+1986	CA3	Heroin-White	HWh	1	pound	453.6	gram	160000	160000	50	50	160000	50	226.8
+1986	CA3	Heroin-White	HWh	1	ounce	28.35	gram	2200	2200	96	98	2200	97	27.4995
+1986	CA3	Heroin-White	HWh	1	gram	1	gram	400	400	50	50	400	50	0.5
+1986	CA3	Heroin-White	HWh	0.375	gram	0.375	gram	200	200	50	50	200	50	0.1875
+1986	CA3	Heroin-Tar	HTar	1	ounce	28.35	gram	4800	4800	80	80	4800	80	22.68
+1986	CA3	Heroin-Tar	HTar	1	gram	1	gram	240	240	80	80	240	80	0.8
+
+1986	CA3	MJ	MJDom	1	pound	453.6	gram	1800	1800	100	100	1800	100	453.6
+1986	CA3	MJ	MJDom	1	ounce	28.35	gram	160	160	100	100	160	100	28.35
+1986	CA3	MJ	MJDom	0.125	ounce	3.54375	gram	25	25	100	100	25	100	3.54375
+1986	CA3	MJ	MJDom	1	gram	1	gram	10	10	100	100	10	100	1
+1986	CA3	MJ	MJDom	0.5	gram	0.5	gram	5	5	100	100	5	100	0.5
+
+1986	CA3	Methamphetamine	Meth	0.5	gram	0.5	gram	30	40	40	40	35	40	0.2
+1986	CA3	Methamphetamine	Meth	0.25	gram	0.25	gram	20	20	40	40	20	40	0.1
+
+1986	CA4	Cocaine	C	1	kilo	1000	gram	30000	48000	80	90	39000	85	850
+1986	CA4	Cocaine	C	1	ounce	28.35	gram	1000	2200	20	80	1600	50	14.175
+1986	CA4	Cocaine	C	0.5	gram	0.5	gram	100	125	15	20	112.5	17.5	0.0875
+
+1986	CA4	Heroin Brown	HBro	1	kilo	1000	gram	160000	160000	80	80	160000	80	800
+1986	CA4	Heroin Brown	HBro	1	pound	453.6	gram	96000	96000	80	80	96000	80	362.88
+1986	CA4	Heroin Brown	HBro	1	pound	453.6	gram	16000	16000	1	4	16000	2.5	11.34
+1986	CA4	Heroin Brown	HBro	1	ounce	28.35	gram	3000	5000	60	80	4000	70	19.845
+1986	CA4	Heroin Brown	HBro	1	ounce	28.35	gram	1200	1200	1	4	1200	2.5	0.70875
+1986	CA4	Heroin Brown	HBro	1	gram	1	gram	230	280	60	80	255	70	0.7
+1986	CA4	Heroin Brown	HBro	1	gram	1	gram	150	150	1	4	150	2.5	0.025
+1986	CA4	Heroin Brown	HBro	0.1	gram	0.1	gram	25	100	1	10	62.5	5.5	0.0055
+1986	CA4	Heroin Brown	HBro	0.15	gram	0.15	gram	15	25	1	3	20	2	0.003
+
+1986	CA4	Heroin-Tar	HTar	1	pound	453.6	gram	56000	56000	80	90	56000	85	385.56
+1986	CA4	Heroin-Tar	HTar	1	ounce	28.35	gram	4000	5400	60	60	4700	60	17.01
+1986	CA4	Heroin-Tar	HTar	0.5	ounce	14.175	gram	2000	2000	60	60	2000	60	8.505
+1986	CA4	Heroin-Tar	HTar	1	gram	1	gram	450	500	60	60	475	60	0.6
+
+1986	CA4	Heroin-White	HWh	1	pound	453.6	gram	100000	100000	80	80	100000	80	362.88
+1986	CA4	Heroin-White	HWh	1	ounce	28.35	gram	4400	8000	80	80	6200	80	22.68
+1986	CA4	Heroin-White	HWh	1	ounce	28.35	gram	1700	2000	5	10	1850	7.5	2.12625
+1986	CA4	Heroin-White	HWh	1	gram	1	gram	125	300	5	10	212.5	7.5	0.075
+
+1986	CA4	MJ-Domestic	MJDom	1	pound	453.6	gram	300	600	100	100	450	100	453.6
+1986	CA4	MJ-Domestic	MJDom	1	ounce	28.35	gram	50	70	100	100	60	100	28.35
+
+1986	CA4	MJ Mex	MJImp	1	pound	453.6	gram	450	1000	100	100	725	100	453.6
+1986	CA4	MJ Mex	MJImp	1	ounce	28.35	gram	100	150	100	100	125	100	28.35
+1986	CA4	MJ Mex	MJImp	0.5	ounce	14.175	gram	50	60	100	100	55	100	14.175
+1986	CA4	MJ Mex	MJImp	0.25	ounce	7.0875	gram	30	30	100	100	30	100	7.0875
+1986	CA4	MJ Mex	MJImp	0.125	ounce	3.54375	gram	20	25	100	100	22.5	100	3.54375
+1986	CA4	MJ Mex	MJImp	1	gram	1	gram	10	10	100	100	10	100	1
+
+1986	CA4	MJ-Sinsemilla	MJSin	1	pound	453.6	gram	1500	3000	100	100	2250	100	453.6
+1986	CA4	MJ-Sinsemilla	MJSin	0.25	pound	113.4	gram	350	350	100	100	350	100	113.4
+1986	CA4	MJ-Sinsemilla	MJSin	1	ounce	28.35	gram	120	150	100	100	135	100	28.35
+1986	CA4	Methamphetamine	Meth	1	pound	453.6	gram	15000	18000	60	80	16500	70	317.52
+1986	CA4	Methamphetamine	Meth	1	ounce	28.35	gram	900	1900	60	80	1400	70	19.845
+1986	CA4	Methamphetamine	Meth	0.125	ounce	3.54375	gram	175	225	70	70	200	70	2.480625
+1986	CA4	Methamphetamine	Meth	1	gram	1	gram	75	125	70	70	100	70	0.7
+
+1986	CA5	Cocaine-Powder	C	1	kilo	1000	gram	30000	48000	75	75	39000	75	750
+1986	CA5	Cocaine-Powder	C	1	pound	453.6	gram	15000	32000	65	65	23500	65	294.84
+1986	CA5	Cocaine-Powder	C	0.25	pound	113.4	gram	5000	6000	70	80	5500	75	85.05
+1986	CA5	Cocaine-Powder	C	1	ounce	28.35	gram	1200	3000	45	45	2100	45	12.7575
+1986	CA5	Cocaine-Powder	C	0.125	ounce	3.54375	gram	225	300	50	80	262.5	65	2.3034375
+1986	CA5	Cocaine-Powder	C	1	gram	1	gram	100	150	18	70	125	44	0.44
+1986	CA5	Cocaine-Powder	C	0.125	gram	0.125	gram	25	25	15	20	25	17.5	0.021875
+
+1986	CA5	Cocaine-Rock	CRock	0.5	gram	0.5	gram	50	50	40	50	50	45	0.225
+1986	CA5	Cocaine-Rock	CRock	0.25	gram	0.25	gram	20	25	40	50	22.5	45	0.1125
+
+1986	CA5	Heroin Brown	HBro	1	kilo	1000	gram	100000	200000	50	65	150000	57.5	575
+1986	CA5	Heroin Brown	HBro	1	pound	453.6	gram	50000	60000	50	60	55000	55	249.48
+1986	CA5	Heroin Brown	HBro	1	ounce	28.35	gram	3000	7000	50	60	5000	55	15.5925
+1986	CA5	Heroin Brown	HBro	1	gram	1	gram	100	300	2	50	200	26	0.26
+1986	CA5	Heroin Brown	HBro	0.5	gram	0.5	gram	30	90	3	12	60	7.5	0.0375
+
+1986	CA5	H. Tar	HTar	1	pound	453.6	gram	160000	160000	68	68	160000	68	308.448
+1986	CA5	H. Tar	HTar	1	ounce	28.35	gram	4200	8000	45	80	6100	62.5	17.71875
+1986	CA5	H. Tar	HTar	1	gram	1	gram	225	500	30	90	362.5	60	0.6
+1986	CA5	H. Tar	HTar	1	gram	1	gram	170	270	5	7	220	6	0.06
+1986	CA5	H. Tar	HTar	0.1	gram	0.1	gram	20	25	40	90	22.5	65	0.065
+
+1986	CA5	Heroin-White	HWh	1	pound	453.6	gram	70000	85000	75	90	77500	82.5	374.22
+1986	CA5	Heroin-White	HWh	1	ounce	28.35	gram	5000	12000	40	90	8500	65	18.4275
+1986	CA5	Heroin-White	HWh	1	gram	1	gram	230	500	75	75	365	75	0.75
+
+1986	CA5	Methamphetamine	Meth	1	ounce	28.35	gram	700	1200	85	85	950	85	24.0975
+
+1986	CA6	Cocaine-Powder	C	1	kilo	1000	gram	28000	42000	60	92	35000	76	760
+1986	CA6	Cocaine-Powder	C	1	pound	453.6	gram	15000	21000	60	92	18000	76	344.736
+1986	CA6	Cocaine-Powder	C	1	ounce	28.35	gram	1200	1900	42	60	1550	51	14.4585
+1986	CA6	Cocaine-Powder	C	0.25	ounce	7.0875	gram	550	550	30	40	550	35	2.480625
+1986	CA6	Cocaine-Powder	C	0.125	ounce	3.54375	gram	250	300	30	40	275	35	1.2403125
+1986	CA6	Cocaine-Powder	C	1	gram	1	gram	100	100	30	40	100	35	0.35
+
+1986	CA6	H. Tar	HTar	1	kilo	1000	gram	250000	300000	60	80	275000	70	700
+1986	CA6	H. Tar	HTar	1	pound	453.6	gram	125000	150000	60	80	137500	70	317.52
+1986	CA6	H. Tar	HTar	1	ounce	28.35	gram	4000	7000	24	70	5500	47	13.3245
+
+1986	CA6	MJ Commercial	MJDom	1	pound	453.6	gram	600	1100	100	100	850	100	453.6
+1986	CA6	MJ Commercial	MJDom	0.5	pound	226.8	gram	475	475	100	100	475	100	226.8
+1986	CA6	MJ Commercial	MJDom	1	ounce	28.35	gram	100	200	100	100	150	100	28.35
+1986	CA6	MJ Commercial	MJDom	0.25	ounce	7.0875	gram	25	35	100	100	30	100	7.0875
+1986	CA6	MJ Commercial	MJDom	2.25	gram	2.25	gram	20	20	100	100	20	100	2.25
+
+1986	CA6	MJ Colombian	MJImp	1	pound	453.6	gram	1450	1450	100	100	1450	100	453.6
+1986	CA6	MJ Colombian	MJImp	0.5	pound	226.8	gram	350	600	100	100	475	100	226.8
+1986	CA6	MJ Colombian	MJImp	1	ounce	28.35	gram	90	110	100	100	100	100	28.35
+1986	CA6	MJ Colombian	MJImp	0.5	ounce	14.175	gram	50	60	100	100	55	100	14.175
+1986	CA6	MJ Colombian	MJImp	0.25	ounce	7.0875	gram	25	35	100	100	30	100	7.0875
+
+1986	CA6	Hashish	Hash	1	pound	453.6	gram	1400	1500	100	100	1450	100	453.6
+1986	CA6	Hashish	Hash	0.5	pound	226.8	gram	700	800	100	100	750	100	226.8
+1986	CA6	Hashish	Hash	1	ounce	28.35	gram	140	150	100	100	145	100	28.35
+1986	CA6	Hashish	Hash	0.5	ounce	14.175	gram	70	80	100	100	75	100	14.175
+1986	CA6	Hashish	Hash	0.25	ounce	7.0875	gram	45	50	100	100	47.5	100	7.0875
+1986	CA6	Hashish	Hash	1	gram	1	gram	10	15	100	100	12.5	100	1
+
+1986	CA6	MJ-Sinsemilla	MJSin	1	pound	453.6	gram	2000	2000	100	100	2000	100	453.6
+1986	CA6	MJ-Sinsemilla	MJSin	1	ounce	28.35	gram	100	250	100	100	175	100	28.35
+1986	CA6	MJ-Sinsemilla	MJSin	0.25	ounce	7.0875	gram	100	100	100	100	100	100	7.0875
+1986	CA6	MJ-Sinsemilla	MJSin	3.5	gram	3.5	gram	10	10	100	100	10	100	3.5
+
+1986	CA7	Cocaine	C	1	kilo	1000	gram	25000	45000	98	98	35000	98	980
+1986	CA7	Cocaine	C	1	ounce	28.35	gram	1500	2700	40	40	2100	40	11.34
+1986	CA7	H.Tar	HTar	1	pound	453.6	gram	80000	100000	60	70	90000	65	294.84
+1986	CA7	MJ-Mexican	MJImp	1	pound	453.6	gram	200	700	100	100	450	100	453.6
+1986	CA7	MJ-Mexican	MJImp	1	ounce	28.35	gram	45	150	100	100	97.5	100	28.35
+1986	CA7	MJ-Commercial	MJDom	1	pound	453.6	gram	400	700	100	100	550	100	453.6
+1986	CA7	MJ-Commercial	MJDom	1	ounce	28.35	gram	45	165	100	100	105	100	28.35
+1986	CA7	MJ-Sinsemilla	MJSin	1	pound	453.6	gram	1400	3000	100	100	2200	100	453.6
+1986	CA7	MJ-Sinsemilla	MJSin	1	ounce	28.35	gram	125	250	100	100	187.5	100	28.35
+1986	CA7	Hashish	Hash	1	pound	453.6	gram	1300	1500	100	100	1400	100	453.6
+1986	CA7	Hashish	Hash	1	ounce	28.35	gram	100	150	100	100	125	100	28.35
+1986	CA7	Hashish	Hash	1	gram	1	gram	10	15	100	100	12.5	100	1
+1986	CA7	Methamphetamine	Meth	1	pound	453.6	gram	9000	18000	95	95	13500	95	430.92
+1986	CA7	Methamphetamine	Meth	1	ounce	28.35	gram	1500	2700	30	30	2100	30	8.505
+
+1986	AK	Cocaine-Powder	C	1	kilo	1000	gram	45000	80000	40	96	62500	68	680
+1986	AK	Cocaine-Powder	C	1	pound	453.6	gram	25000	40000	40	96	32500	68	308.448
+1986	AK	Cocaine-Powder	C	1	ounce	28.35	gram	1500	3000	40	80	2250	60	17.01
+1986	AK	Cocaine-Powder	C	0.25	ounce	7.0875	gram	750	800	40	80	775	60	4.2525
+1986	AK	Cocaine-Powder	C	1	gram	1	gram	100	180	15	25	140	20	0.2
+
+1986	AK	H.Tar	HTar	1	pound	453.6	gram	80000	100000	68	68	90000	68	308.448
+1986	AK	H.Tar	HTar	1	ounce	28.35	gram	6500	8500	34	34	7500	34	9.639
+1986	AK	H.Tar	HTar	1	gram	1	gram	1000	1100	34	34	1050	34	0.34
+1986	AK	Methamphetamine	Meth	1	pound	453.6	gram	30000	40000	65	65	35000	65	294.84
+1986	AK	Methamphetamine	Meth	1	ounce	28.35	gram	2200	2800	65	65	2500	65	18.4275
+1986	AK	Methamphetamine	Meth	1	gram	1	gram	100	125	25	25	112.5	25	0.25
+
+1986	AK	MJ Domestic	MJDom	1	kilo	1000	gram	4000	5000	100	100	4500	100	1000
+1986	AK	MJ Domestic	MJDom	1	pound	453.6	gram	1800	2400	100	100	2100	100	453.6
+1986	AK	MJ Domestic	MJDom	0.5	pound	226.8	gram	1600	1600	100	100	1600	100	226.8
+1986	AK	MJ Domestic	MJDom	0.25	pound	113.4	gram	850	850	100	100	850	100	113.4
+1986	AK	MJ Domestic	MJDom	1	ounce	28.35	gram	150	380	100	100	265	100	28.35
+1986	AK	MJ Domestic	MJDom	0.5	ounce	14.175	gram	115	115	100	100	115	100	14.175
+1986	AK	MJ Domestic	MJDom	0.25	ounce	7.0875	gram	75	90	100	100	82.5	100	7.0875
+1986	AK	MJ Domestic	MJDom	1	gram	1	gram	10	15	100	100	12.5	100	1
+
+1986	AK	MJ Colombian	MJImp	1	pound	453.6	gram	500	500	100	100	500	100	453.6
+1986	AK	Hashish	Hash	1	ounce	28.35	gram	2800	3300	100	100	3050	100	28.35
+1986	AK	Hashish	Hash	0.25	ounce	7.0875	gram	60	80	100	100	70	100	7.0875
+1986	AK	Hashish	Hash	1	gram	1	gram	15	15	100	100	15	100	1
+
+1986	HI	Cocaine-Powder	C	1	pound	453.6	gram	27000	35000	30	95	31000	62.5	283.5
+1986	HI	Cocaine-Powder	C	1	ounce	28.35	gram	2000	2700	60	70	2350	65	18.4275
+1986	HI	Cocaine-Powder	C	0.25	ounce	7.0875	gram	550	700	22	80	625	51	3.614625
+1986	HI	Cocaine-Powder	C	0.125	ounce	3.54375	gram	300	300	10	40	300	25	0.8859375
+1986	HI	Cocaine-Powder	C	1	gram	1	gram	100	120	25	30	110	27.5	0.275
+1986	HI	Cocaine-Powder	C	0.25	gram	0.25	gram	25	25	25	30	25	27.5	0.06875
+
+1986	HI	Heroin White	HWh	1	pound	453.6	gram	80000	100000	90	90	90000	90	408.24
+1986	HI	Heroin White	HWh	1	ounce	28.35	gram	9000	11000	45	45	10000	45	12.7575
+1986	HI	Heroin White	HWh	0.25	ounce	7.0875	gram	2000	3000	10	22	2500	16	1.134
+1986	HI	Heroin White	HWh	0.125	ounce	3.54375	gram	1700	1700	80	80	1700	80	2.835
+1986	HI	Heroin White	HWh	1	gram	1	gram	500	700	10	15	600	12.5	0.125
+1986	HI	Heroin White	HWh	0.25	gram	0.25	gram	175	175	50	50	175	50	0.125
+1986	HI	Heroin White	HWh	0.04	gram	0.04	gram	40	40	20	20	40	20	0.008
+
+1986	HI	H.Brown	HBro	0.25	gram	0.25	gram	300	600	5	10	450	7.5	0.01875
+1986	HI	H.Brown	HBro	0.1	gram	0.1	gram	50	250	5	10	150	7.5	0.0075
+1986	HI	MJ	MJDom	1	pound	453.6	gram	1000	2500	100	100	1750	100	453.6
+1986	HI	MJ	MJDom	1	ounce	28.35	gram	140	250	100	100	195	100	28.35
+1986	HI	MJ	MJDom	4.5	gram	4.5	gram	20	20	100	100	20	100	4.5
+1986	HI	MJ	MJDom	2.5	gram	2.5	gram	1	1	100	100	1	100	2.5
+1986	HI	Hashish	Hash	1	pound	453.6	gram	2000	2000	100	100	2000	100	453.6
+
+1986	OR	Cocaine	C	1	ounce	28.35	gram	1000	2200	35	40	1600	37.5	10.63125
+1986	OR	Cocaine	C	1	gram	1	gram	80	120	35	40	100	37.5	0.375
+1986	OR	H.Brown	HBro	1	gram	1	gram	50	500	2	100	275	51	0.51
+1986	OR	H.Brown	HBro	0.25	gram	0.25	gram	50	50	5	10	50	7.5	0.01875
+1986	OR	H.White	HWh	1	ounce	28.35	gram	7000	9000	92	92	8000	92	26.082
+1986	OR	H.White	HWh	1	gram	1	gram	800	1000	15	100	900	57.5	0.575
+1986	OR	H.White	HWh	1	gram	1	gram	60	60	5	5	60	5	0.05
+1986	OR	H.White	HWh	0.25	gram	0.25	gram	50	50	5	10	50	7.5	0.01875
+1986	OR	H.Tar	HTar	0.25	ounce	7.0875	gram	3000	3500	63	63	3250	63	4.465125
+1986	OR	H.Tar	HTar	1	gram	1	gram	120	560	5	90	340	47.5	0.475
+1986	OR	H.Tar	HTar	0.0627451	gram	0.0627451	gram	10	50	5	55	30	30	0.01882353
+
+1986	OR	MJ Colombian	MJImp	1	pound	453.6	gram	1300	1500	100	100	1400	100	453.6
+1986	OR	MJ Colombian	MJImp	0.5	ounce	14.175	gram	25	90	100	100	57.5	100	14.175
+1986	OR	MJ Colombian	MJImp	0.25	ounce	7.0875	gram	15	70	100	100	42.5	100	7.0875
+1986	OR	MJ Colombian	MJImp	0.125	ounce	3.54375	gram	12.5	15	100	100	13.75	100	3.54375
+1986	OR	MJ Colombian	MJImp	1	gram	1	gram	10	10	100	100	10	100	1
+
+1986	OR	MJ Domestic	MJDom	1	pound	453.6	gram	1800	2400	100	100	2100	100	453.6
+1986	OR	MJ Mexican	MJImp	1	pound	453.6	gram	700	1000	100	100	850	100	453.6
+1986	OR	MJ Mexican	MJImp	0.25	pound	113.4	gram	250	350	100	100	300	100	113.4
+1986	OR	MJ Mexican	MJImp	1	ounce	28.35	gram	90	110	100	100	100	100	28.35
+1986	OR	MJ Mexican	MJImp	0.25	ounce	7.0875	gram	25	30	100	100	27.5	100	7.0875
+
+1986	OR	Sinsemilla	MJSin	1	pound	453.6	gram	1800	2500	100	100	2150	100	453.6
+1986	OR	Sinsemilla	MJSin	0.25	pound	113.4	gram	250	350	100	100	300	100	113.4
+1986	OR	Sinsemilla	MJSin	1	ounce	28.35	gram	90	200	100	100	145	100	28.35
+1986	OR	Sinsemilla	MJSin	0.5	ounce	14.175	gram	25	90	100	100	57.5	100	14.175
+1986	OR	Sinsemilla	MJSin	0.25	ounce	7.0875	gram	15	70	100	100	42.5	100	7.0875
+1986	OR	Sinsemilla	MJSin	0.125	ounce	3.54375	gram	12.5	15	100	100	13.75	100	3.54375
+1986	OR	Sinsemilla	MJSin	1	gram	1	gram	10	10	100	100	10	100	1
+
+1986	OR	Hashish	Hash	1	gram	1	gram	20	40	100	100	30	100	1
+1986	OR	Hashish	Hash	0.25	gram	0.25	gram	20	30	100	100	25	100	0.25
+
+1986	OR	Methamphetamine	Meth	1	gram	1	gram	15	140	20	80	77.5	50	0.5
+
+1986	WA	Cocaine-Powder	C	1	kilo	1000	gram	23000	50000	55	90	36500	72.5	725
+1986	WA	Cocaine-Powder	C	1	pound	453.6	gram	22000	30000	55	90	26000	72.5	328.86
+1986	WA	Cocaine-Powder	C	0.5	pound	226.8	gram	12000	20000	55	95	16000	75	170.1
+1986	WA	Cocaine-Powder	C	0.25	pound	113.4	gram	5000	8000	55	92	6500	73.5	83.349
+1986	WA	Cocaine-Powder	C	1	ounce	28.35	gram	1600	2600	30	95	2100	62.5	17.71875
+1986	WA	Cocaine-Powder	C	0.5	ounce	14.175	gram	800	1300	55	95	1050	75	10.63125
+1986	WA	Cocaine-Powder	C	0.25	ounce	7.0875	gram	550	675	55	95	612.5	75	5.315625
+1986	WA	Cocaine-Powder	C	0.125	ounce	3.54375	gram	250	380	55	95	315	75	2.6578125
+1986	WA	Cocaine-Powder	C	1	gram	1	gram	90	150	30	95	120	62.5	0.625
+1986	WA	Cocaine-Powder	C	0.5	gram	0.5	gram	50	65	20	50	57.5	35	0.175
+1986	WA	Cocaine-Powder	C	0.25	gram	0.25	gram	25	40	20	50	32.5	35	0.0875
+
+1986	WA	H.Brown	HBro	1	ounce	28.35	gram	1500	12000	25	50	6750	37.5	10.63125
+1986	WA	H.Brown	HBro	1	gram	1	gram	250	500	15	15	375	15	0.15
+
+1986	WA	Heroin Tar	HTar	1	pound	453.6	gram	82900	96000	95	95	89450	95	430.92
+1986	WA	Heroin Tar	HTar	1	ounce	28.35	gram	4400	8000	50	80	6200	65	18.4275
+1986	WA	Heroin Tar	HTar	0.5	ounce	14.175	gram	2400	3000	50	80	2700	65	9.21375
+1986	WA	Heroin Tar	HTar	1	gram	1	gram	180	400	30	80	290	55	0.55
+1986	WA	Heroin Tar	HTar	0.125	gram	0.125	gram	20	65	50	80	42.5	65	0.08125
+
+1986	WA	MJ Colombian	MJImp	1	pound	453.6	gram	400	1000	100	100	700	100	453.6
+
+1986	WA	MJ Domestic	MJDom	1	pound	453.6	gram	1800	2400	100	100	2100	100	453.6
+1986	WA	MJ Domestic	MJDom	0.25	pound	113.4	gram	500	650	100	100	575	100	113.4
+1986	WA	MJ Domestic	MJDom	1	ounce	28.35	gram	150	180	100	100	165	100	28.35
+1986	WA	MJ Domestic	MJDom	0.125	ounce	3.54375	gram	30	30	100	100	30	100	3.54375
+1986	WA	MJ Domestic	MJDom	1	gram	1	gram	10	10	100	100	10	100	1
+
+1986	WA	Hashish	Hash	1	pound	453.6	gram	1400	1600	100	100	1500	100	453.6
+1986	WA	Hashish	Hash	0.25	pound	113.4	gram	250	300	100	100	275	100	113.4
+1986	WA	Hashish	Hash	1	ounce	28.35	gram	180	180	100	100	180	100	28.35
+
+1986	WA	MJ Home Grown	MJDom	20	pound	9072	gram	18000	18000	100	100	18000	100	9072
+1986	WA	MJ Home Grown	MJDom	1	pound	453.6	gram	500	1200	100	100	850	100	453.6
+1986	WA	MJ Home Grown	MJDom	0.5	pound	226.8	gram	300	700	100	100	500	100	226.8
+1986	WA	MJ Home Grown	MJDom	0.25	pound	113.4	gram	160	400	100	100	280	100	113.4
+1986	WA	MJ Home Grown	MJDom	1	ounce	28.35	gram	65	225	100	100	145	100	28.35
+1986	WA	MJ Home Grown	MJDom	0.5	ounce	14.175	gram	50	60	100	100	55	100	14.175
+1986	WA	MJ Home Grown	MJDom	0.25	ounce	7.0875	gram	20	20	100	100	20	100	7.0875
+1986	WA	MJ Home Grown	MJDom	1	gram	1	gram	5	15	100	100	10	100	1
+
+1986	WA	MJ Mexican	MJImp	1	pound	453.6	gram	650	1300	100	100	975	100	453.6
+1986	WA	MJ Mexican	MJImp	0.5	pound	226.8	gram	250	400	100	100	325	100	226.8
+1986	WA	MJ Mexican	MJImp	0.25	pound	113.4	gram	200	350	100	100	275	100	113.4
+1986	WA	MJ Mexican	MJImp	1	ounce	28.35	gram	110	150	100	100	130	100	28.35
+1986	WA	MJ Mexican	MJImp	0.25	ounce	7.0875	gram	40	75	100	100	57.5	100	7.0875
+
+1986	WA	Sinsemilla	MJSin	1	pound	453.6	gram	1000	3000	100	100	2000	100	453.6
+1986	WA	Sinsemilla	MJSin	0.25	pound	113.4	gram	400	500	100	100	450	100	113.4
+1986	WA	Sinsemilla	MJSin	0.125	pound	56.7	gram	250	300	100	100	275	100	56.7
+1986	WA	Sinsemilla	MJSin	1	ounce	28.35	gram	150	180	100	100	165	100	28.35
+1986	WA	Sinsemilla	MJSin	0.5	ounce	14.175	gram	100	180	100	100	140	100	14.175
+1986	WA	Sinsemilla	MJSin	0.25	ounce	7.0875	gram	50	100	100	100	75	100	7.0875
+1986	WA	Sinsemilla	MJSin	0.125	ounce	3.54375	gram	25	30	100	100	27.5	100	3.54375
+1986	WA	Sinsemilla	MJSin	1	gram	1	gram	10	12	100	100	11	100	1
+
+1986	WA	MJ-Bud	MJDom	20	pound	9072	gram	24000	24000	100	100	24000	100	9072
+1986	WA	MJ-Bud	MJDom	1	pound	453.6	gram	1500	3000	100	100	2250	100	453.6
+1986	WA	MJ-Bud	MJDom	0.5	pound	226.8	gram	800	1200	100	100	1000	100	226.8
+1986	WA	MJ-Bud	MJDom	0.25	pound	113.4	gram	500	750	100	100	625	100	113.4
+1986	WA	MJ-Bud	MJDom	0.125	ounce	3.54375	gram	30	30	100	100	30	100	3.54375
+1986	WA	MJ-Bud	MJDom	1	gram	1	gram	10	10	100	100	10	100	1
+
+1988	AK	Cocaine-Powder	C	1	ounce	28.35	gram	1000	1200	90	100	1100	95	26.9325
+
+1988	AK	Marijuana-Bud	MJDom	0.50	gram	0.5	gram	5	10	100	100	7.5	100	0.5
+1988	AK	Marijuana-Bud	MJDom	1	gram	1	gram	10	20	100	100	15	100	1
+1988	AK	Marijuana-Bud	MJDom	1	ounce	28.35	gram	150	250	100	100	200	100	28.35
+1988	AK	Marijuana-Bud	MJDom	0.25	pound	113.4	gram	500	700	100	100	600	100	113.4
+1988	AK	Marijuana-Bud	MJDom	1	pound	453.6	gram	1600	2400	100	100	2000	100	453.6
+														
+1988	AK	Hashish	Hash	1	gram	1	gram	10	10	100	100	10	100	1
+1988	AK	Hashish	Hash	0.25	ounce	7.0875	gram	50	50	100	100	50	100	7.0875
+1988	AK	Hashish	Hash	1	pound	453.6	gram	2800	2800	100	100	2800	100	453.6
+
+1988	CA1	Cocaine-Powder	C	0.25	gram	0.25	gram	20	30	30	40	25	35	0.0875
+1988	CA1	Cocaine-Powder	C	0.5	gram	0.5	gram	30	60	30	40	45	35	0.175
+1988	CA1	Cocaine-Powder	C	1	gram	1	gram	80	125	3	50	102.5	26.5	0.265
+1988	CA1	Cocaine-Powder	C	0.0625	ounce	1.771875	gram	150	175	40	60	162.5	50	0.8859375
+1988	CA1	Cocaine-Powder	C	0.125	ounce	3.54375	gram	175	300	40	60	237.5	50	1.771875
+1988	CA1	Cocaine-Powder	C	1	ounce	28.35	gram	900	1800	50	80	1350	65	18.4275
+1988	CA1	Cocaine-Powder	C	1	pound	453.6	gram	15000	20000	80	80	17500	80	362.88
+1988	CA1	Cocaine-Powder	C	1	kilo	1000	gram	10000	25000	80	100	17500	90	900
+
+1988	CA1	Cocaine-Rock	CRock	0.5	gram	0.5	gram	40	50	30	40	45	35	0.175
+1988	CA1	Cocaine-Rock	CRock	0.25	gram	0.25	gram	20	25	30	40	22.5	35	0.0875
+1988	CA1	Cocaine-Rock	CRock	0.0625	ounce	1.771875	gram	75	100	30	40	87.5	35	0.62015625
+1988	CA1	Cocaine-Rock	CRock	1	ounce	28.35	gram	900	2000	30	40	1450	35	9.9225
+
+1988	CA1	H.Brown	HBro	1	gram	1	gram	400	600	50	60	500	55	0.55
+1988	CA1	H.Brown	HBro	1	ounce	28.35	gram	5000	10000	50	50	7500	50	14.175
+
+1988	CA1	Heroin-Tar	HTar	0.1	gram	0.1	gram	20	30	30	60	25	45	0.045
+1988	CA1	Heroin-Tar	HTar	0.125	gram	0.125	gram	35	40	30	60	37.5	45	0.05625
+1988	CA1	Heroin-Tar	HTar	0.25	gram	0.25	gram	50	70	30	60	60	45	0.1125
+1988	CA1	Heroin-Tar	HTar	0.5	gram	0.5	gram	90	120	30	60	105	45	0.225
+1988	CA1	Heroin-Tar	HTar	1	gram	1	gram	150	300	30	60	225	45	0.45
+1988	CA1	Heroin-Tar	HTar	0.5	ounce	14.175	gram	2000	2200	40	60	2100	50	7.0875
+1988	CA1	Heroin-Tar	HTar	1	ounce	28.35	gram	2400	4600	40	80	3500	60	17.01
+1988	CA1	Heroin-Tar	HTar	1	pound	453.6	gram	34000	40000	60	80	37000	70	317.52
+
+1988	CA1	MJ Colombian	MJImp	1	pound	453.6	gram	400	500	100	100	450	100	453.6
+
+1988	CA1	Marijuana-Domestic	MJDom	1	gram	1	gram	10	10	100	100	10	100	1
+1988	CA1	Marijuana-Domestic	MJDom	0.125	ounce	3.54375	gram	30	35	100	100	32.5	100	3.54375
+1988	CA1	Marijuana-Domestic	MJDom	0.25	ounce	7.0875	gram	60	75	100	100	67.5	100	7.0875
+1988	CA1	Marijuana-Domestic	MJDom	1	ounce	28.35	gram	150	175	100	100	162.5	100	28.35
+1988	CA1	Marijuana-Domestic	MJDom	1	pound	453.6	gram	1800	2500	100	100	2150	100	453.6
+
+1988	CA1	Hashish	Hash	1	gram	1	gram	10	40	100	100	25	100	1
+1988	CA1	MJ Mexican	MJImp	0.25	ounce	7.0875	gram	40	40	100	100	40	100	7.0875
+1988	CA1	MJ Mexican	MJImp	1	ounce	28.35	gram	100	120	100	100	110	100	28.35
+1988	CA1	MJ Mexican	MJImp	1	pound	453.6	gram	1500	1500	100	100	1500	100	453.6
+1988	CA1	Sinsemilla	MJSin	0.125	ounce	3.54375	gram	60	80	100	100	70	100	3.54375
+1988	CA1	Sinsemilla	MJSin	0.25	ounce	7.0875	gram	100	150	100	100	125	100	7.0875
+1988	CA1	Sinsemilla	MJSin	1	ounce	28.35	gram	400	600	100	100	500	100	28.35
+1988	CA1	Sinsemilla	MJSin	1	pound	453.6	gram	3500	4000	100	100	3750	100	453.6
+
+1988	CA1	Meth-Powder	Meth	0.125	gram	0.125	gram	10	30	40	60	20	50	0.0625
+1988	CA1	Meth-Powder	Meth	0.25	gram	0.25	gram	20	30	40	60	25	50	0.125
+1988	CA1	Meth-Powder	Meth	0.5	gram	0.5	gram	35	45	50	50	40	50	0.25
+1988	CA1	Meth-Powder	Meth	1	gram	1	gram	60	120	40	60	90	50	0.5
+1988	CA1	Meth-Powder	Meth	0.0625	ounce	1.771875	gram	90	100	40	60	95	50	0.8859375
+1988	CA1	Meth-Powder	Meth	0.125	ounce	3.54375	gram	160	250	50	50	205	50	1.771875
+1988	CA1	Meth-Powder	Meth	0.5	ounce	14.175	gram	350	400	50	50	375	50	7.0875
+1988	CA1	Meth-Powder	Meth	1	ounce	28.35	gram	800	1400	60	80	1100	70	19.845
+1988	CA1	Meth-Powder	Meth	1	pound	453.6	gram	10000	16000	60	90	13000	75	340.2
+
+1988	CA2	Cocaine-Powder	C	1	gram	1	gram	50	125	20	93	87.5	56.5	0.565
+1988	CA2	Cocaine-Powder	C	1	ounce	28.35	gram	900	1300	70	80	1100	75	21.2625
+1988	CA2	Cocaine-Powder	C	1	pound	453.6	gram	6000	8500	85	90	7250	87.5	396.9
+1988	CA2	Cocaine-Powder	C	1	kilo	1000	gram	10000	18000	85	90	14000	87.5	875
+1988	CA2	Cocaine-Rock	CRock	1	gram	1	gram	15	25	75	90	20	82.5	0.825
+
+1988	CA2	Heroin	HOth	0.25	gram	0.25	gram	10	25	1.5	4	17.5	2.75	0.006875
+1988	CA2	Heroin	HOth	1	gram	1	gram	75	120	6	35	97.5	20.5	0.205
+1988	CA2	Heroin	HOth	1	gram	1	gram	250	300	60	60	275	60	0.6
+1988	CA2	Heroin	HOth	1	ounce	28.35	gram	3000	4500	40	60	3750	50	14.175
+1988	CA2	Heroin	HOth	1	pound	453.6	gram	59000	65000	40	70	62000	55	249.48
+1988	CA2	Heroin	HOth	1	kilo	1000	gram	120000	160000	50	75	140000	62.5	625
+
+1988	CA2	Heroin-Tar	HTar	0.1	gram	0.1	gram	20	30	1	3	25	2	0.002
+1988	CA2	Heroin-Tar	HTar	0.2	gram	0.2	gram	25	40	28	40	32.5	34	0.068
+1988	CA2	Heroin-Tar	HTar	0.25	gram	0.25	gram	20	40	30	75	30	52.5	0.13125
+1988	CA2	Heroin-Tar	HTar	1	gram	1	gram	120	400	40	75	260	57.5	0.575
+1988	CA2	Heroin-Tar	HTar	1	ounce	28.35	gram	3700	4500	40	70	4100	55	15.5925
+1988	CA2	Heroin-Tar	HTar	1	pound	453.6	gram	60000	70000	65	70	65000	67.5	306.18
+
+1988	CA2	Heroin-White	HWh	0.1	gram	0.1	gram	20	20	3	3	20	3	0.003
+1988	CA2	Heroin-White	HWh	1	ounce	28.35	gram	5600	8000	20	90	6800	55	15.5925
+1988	CA2	Heroin-White	HWh	1	kilo	1000	gram	140000	155000	85	90	147500	87.5	875
+
+1988	CA2	MJ-Bud	MJDom	0.5	gram	0.5	gram	10	20	100	100	15	100	0.5
+1988	CA2	MJ-Bud	MJDom	1	gram	1	gram	10	10	100	100	10	100	1
+1988	CA2	MJ-Bud	MJDom	0.125	ounce	3.54375	gram	30	30	100	100	30	100	3.54375
+1988	CA2	MJ-Bud	MJDom	1	ounce	28.35	gram	40	70	100	100	55	100	28.35
+1988	CA2	MJ-Bud	MJDom	1	pound	453.6	gram	400	700	100	100	550	100	453.6
+
+1988	CA2	MJ Domestic	MJDom	1	gram	1	gram	10	10	100	100	10	100	453.6
+1988	CA2	MJ Domestic	MJDom	1	pound	453.6	gram	425	500	100	100	462.5	100	3.54375
+1988	CA2	Hashish	Hash	1	gram	1	gram	10	15	100	100	12.5	100	28.35
+1988	CA2	Hashish	Hash	1	pound	453.6	gram	1500	2000	100	100	1750	100	453.6
+1988	CA2	Sinsemilla	MJSin	0.125	ounce	3.54375	gram	25	35	100	100	30	100	0
+1988	CA2	Sinsemilla	MJSin	1	ounce	28.35	gram	100	160	100	100	130	100	0.2
+1988	CA2	Sinsemilla	MJSin	1	pound	453.6	gram	1500	4000	100	100	2750	100	1
+														
+1988	CA2	Methamphetamine	Meth	0.2	gram	0.2	gram	20	25	50	50	22.5	50	0.1
+1988	CA2	Methamphetamine	Meth	1	gram	1	gram	50	125	50	90	87.5	70	0.7
+1988	CA2	Methamphetamine	Meth	1	ounce	28.35	gram	300	800	20	40	550	30	8.505
+1988	CA2	Methamphetamine	Meth	1	pound	453.6	gram	2000	6000	40	60	4000	50	226.8
+1988	CA2	Methamphetamine	Meth	1	pound	453.6	gram	10000	14000	60	95	12000	77.5	351.54
+
+1988	CA3	Cocaine-Powder	C	0.25	gram	0.25	gram	20	25	65	98	22.5	81.5	0.20375
+1988	CA3	Cocaine-Powder	C	1	gram	1	gram	50	110	50	90	80	70	0.7
+1988	CA3	Cocaine-Powder	C	1	ounce	28.35	gram	500	1800	70	90	1150	80	22.68
+1988	CA3	Cocaine-Powder	C	1	kilo	1000	gram	16000	26000	70	100	21000	85	850
+1988	CA3	Cocaine-Rock	CRock	0.25	gram	0.25	gram	10	25	75	85	17.5	80	0.2
+1988	CA3	Cocaine-Rock	CRock	1	gram	1	gram	100	100	75	85	100	80	0.8
+1988	CA3	H.Tar	HTar	0.1	gram	0.1	gram	20	30	1	3	25	2	0.002
+1988	CA3	H.Tar	HTar	0.25	gram	0.25	gram	25	65	60	75	45	67.5	0.16875
+1988	CA3	H.Tar	HTar	1	gram	1	gram	150	200	40	60	175	50	0.5
+1988	CA3	Methamphetamine	Meth	1	gram	1	gram	65	100	20	40	82.5	30	0.3
+
+1988	CA3	MJ-Bud	MJDom	1	gram	1	gram	10	10	100	100	10	100	1
+1988	CA3	MJ-Bud	MJDom	0.125	ounce	3.54375	gram	25	45	100	100	35	100	3.54375
+1988	CA3	MJ-Bud	MJDom	0.25	pound	113.4	gram	600	600	100	100	600	100	113.4
+1988	CA3	MJ-Bud	MJDom	1	pound	453.6	gram	1500	2500	100	100	2000	100	453.6
+1988	CA3	MJ-Dom	MJDom	1	gram	1	gram	5	20	100	100	12.5	100	1
+1988	CA3	Hashish	Hash	1	gram	1	gram	10	25	100	100	17.5	100	1
+1988	CA3	Sinsemilla	MJSin	1	ounce	28.35	gram	125	260	100	100	192.5	100	28.35
+1988	CA3	Sinsemilla	MJSin	1	pound	453.6	gram	2000	3800	100	100	2900	100	453.6
+
+1988	CA4	Cocaine-Powder	C	0.25	gram	0.25	gram	25	30	30	40	27.5	35	0.0875
+1988	CA4	Cocaine-Powder	C	0.5	gram	0.5	gram	40	60	30	40	50	35	0.175
+1988	CA4	Cocaine-Powder	C	1	gram	1	gram	90	100	30	40	95	35	0.35
+1988	CA4	Cocaine-Powder	C	0.125	ounce	3.54375	gram	120	225	40	60	172.5	50	1.771875
+1988	CA4	Cocaine-Powder	C	1	kilo	1000	gram	17000	25000	80	90	21000	85	850
+
+1988	CA4	Cocaine-Rock	CRock	0.25	gram	0.25	gram	20	40	10	30	30	20	0.05
+1988	CA4	H.Tar	HTar	0.25	gram	0.25	gram	40	60	20	70	50	45	0.1125
+1988	CA4	H.Tar	HTar	0.5	gram	0.5	gram	80	100	20	60	90	40	0.2
+1988	CA4	H.Tar	HTar	1	gram	1	gram	200	250	20	70	225	45	0.45
+1988	CA4	H.Tar	HTar	1	ounce	28.35	gram	3900	5400	65	90	4650	77.5	21.97125
+
+1988	CA4	MJ-Bud	MJDom	1	pound	453.6	gram	1200	4000	100	100	2600	100	453.6
+1988	CA4	Marijuana-Mexican	MJImp	0.125	ounce	3.54375	gram	15	15	100	100	15	100	3.54375
+1988	CA4	Marijuana-Mexican	MJImp	0.25	ounce	7.0875	gram	25	40	100	100	32.5	100	7.0875
+1988	CA4	Marijuana-Mexican	MJImp	0.5	ounce	14.175	gram	40	50	100	100	45	100	14.175
+1988	CA4	Marijuana-Mexican	MJImp	1	ounce	28.35	gram	100	125	100	100	112.5	100	28.35
+1988	CA4	Marijuana-Mexican	MJImp	1	pound	453.6	gram	1000	1000	100	100	1000	100	453.6
+
+1988	CA4	MJ-Sinsemilla	MJSin	0.125	ounce	3.54375	gram	30	30	100	100	30	100	3.54375
+1988	CA4	MJ-Sinsemilla	MJSin	0.25	ounce	7.0875	gram	50	125	100	100	87.5	100	7.0875
+1988	CA4	MJ-Sinsemilla	MJSin	0.5	ounce	14.175	gram	100	100	100	100	100	100	14.175
+1988	CA4	MJ-Sinsemilla	MJSin	1	ounce	28.35	gram	250	250	100	100	250	100	28.35
+1988	CA4	MJ-Sinsemilla	MJSin	1	pound	453.6	gram	2500	4000	100	100	3250	100	453.6
+
+1988	CA4	Meth-Powder	Meth	0.25	gram	0.25	gram	20	25	30	50	22.5	40	0.1
+1988	CA4	Meth-Powder	Meth	0.5	gram	0.5	gram	50	50	30	50	50	40	0.2
+1988	CA4	Meth-Powder	Meth	1	gram	1	gram	75	100	30	80	87.5	55	0.55
+1988	CA4	Meth-Powder	Meth	1	ounce	28.35	gram	1000	1400	50	80	1200	65	18.4275
+1988	CA4	Meth-Powder	Meth	1	pound	453.6	gram	12000	13500	50	80	12750	65	294.84
+
+1988	CA5	Cocaine-Powder	C	1	gram	1	gram	75	150	75	95	112.5	85	0.85
+1988	CA5	Cocaine-Powder	C	0.125	ounce	3.54375	gram	125	275	75	95	200	85	3.0121875
+1988	CA5	Cocaine-Powder	C	0.25	ounce	7.0875	gram	450	500	50	60	475	55	3.898125
+1988	CA5	Cocaine-Powder	C	1	ounce	28.35	gram	500	900	40	60	700	50	14.175
+1988	CA5	Cocaine-Powder	C	1	ounce	28.35	gram	800	1650	75	98	1225	86.5	24.52275
+1988	CA5	Cocaine-Powder	C	1	pound	453.6	gram	8000	11500	75	98	9750	86.5	392.364
+1988	CA5	Cocaine-Powder	C	1	kilo	1000	gram	15000	25000	75	100	20000	87.5	875
+
+1988	CA5	Cocaine-Rock	CRock	0.25	gram	0.25	gram	20	25	75	98	22.5	86.5	0.21625
+1988	CA5	Cocaine-Rock	CRock	1	gram	1	gram	100	125	50	95	112.5	72.5	0.725
+1988	CA5	Cocaine-Rock	CRock	1	kilo	1000	gram	15500	19500	50	60	17500	55	550
+
+1988	CA5	Heroin-Brown	HBro	0.1	gram	0.1	gram	17	30	1	5	23.5	3	0.003
+1988	CA5	Heroin-Brown	HBro	0.5	gram	0.5	gram	50	50	13	13	50	13	0.065
+1988	CA5	Heroin-Brown	HBro	1	gram	1	gram	100	100	6	6	100	6	0.06
+1988	CA5	Heroin-Brown	HBro	1	gram	1	gram	300	300	25	25	300	25	0.25
+1988	CA5	Heroin-Brown	HBro	1	ounce	28.35	gram	1500	1800	6	6	1650	6	1.701
+1988	CA5	Heroin-Brown	HBro	1	ounce	28.35	gram	2500	4000	13	25	3250	19	5.3865
+1988	CA5	Heroin-Brown	HBro	1	ounce	28.35	gram	3500	7000	50	60	5250	55	15.5925
+1988	CA5	Heroin-Brown	HBro	1	kilo	1000	gram	100000	300000	12	80	200000	46	460
+
+1988	CA5	Heroin-Tar	HTar	0.2	gram	0.2	gram	17	30	1	20	23.5	10.5	0.021
+1988	CA5	Heroin-Tar	HTar	0.125	gram	0.125	gram	30	40	60	80	35	70	0.0875
+1988	CA5	Heroin-Tar	HTar	0.25	gram	0.25	gram	20	20	18	65	20	41.5	0.10375
+1988	CA5	Heroin-Tar	HTar	0.25	gram	0.25	gram	50	50	60	80	50	70	0.175
+1988	CA5	Heroin-Tar	HTar	1	gram	1	gram	200	350	40	80	275	60	0.6
+1988	CA5	Heroin-Tar	HTar	1	ounce	28.35	gram	3500	7000	19	75	5250	47	13.3245
+1988	CA5	Heroin-Tar	HTar	1	pound	453.6	gram	150000	150000	40	60	150000	50	226.8
+1988	CA5	Heroin-Tar	HTar	1	kilo	1000	gram	100000	300000	19	75	200000	47	470
+
+1988	CA5	Heroin-White-SW	HWh	1	kilo	1000	gram	130000	200000	48	100	165000	74	740
+1988	CA5	Heroin-White-SE	HWh	1	ounce	28.35	gram	4000	6500	50	100	5250	75	21.2625
+1988	CA5	Heroin-White-SE	HWh	1	pound	453.6	gram	75000	75000	80	90	75000	85	385.56
+1988	CA5	Heroin-White-SE	HWh	1	kilo	1000	gram	150000	200000	80	100	175000	90	900
+
+1988	CA5	Methamphetamine	Meth	1	gram	1	gram	70	125	80	100	97.5	90	0.9
+1988	CA5	Methamphetamine	Meth	1	ounce	28.35	gram	700	2200	80	80	1450	80	22.68
+1988	CA5	Methamphetamine	Meth	1	pound	453.6	gram	9000	16000	80	100	12500	90	408.24
+1988	CA5	Methamphetamine	Meth	1	kilo	1000	gram	30000	30000	100	100	30000	100	1000
+
+1988	CA6	Cocaine-Powder	C	0.2	gram	0.2	gram	20	20	50	60	20	55	0.11
+1988	CA6	Cocaine-Powder	C	0.25	gram	0.25	gram	25	25	30	100	25	65	0.1625
+1988	CA6	Cocaine-Powder	C	0.125	ounce	3.54375	gram	250	250	50	60	250	55	1.9490625
+1988	CA6	Cocaine-Powder	C	0.25	ounce	7.0875	gram	450	500	50	60	475	55	3.898125
+1988	CA6	Cocaine-Powder	C	1	ounce	28.35	gram	900	2100	30	100	1500	65	18.4275
+1988	CA6	Cocaine-Powder	C	1	kilo	1000	gram	14000	32000	80	100	23000	90	900
+
+1988	CA6	Cocaine-Rock	CRock	0.5	gram	0.5	gram	10	20	60	70	15	65	0.325
+1988	CA6	H.Tar	HTar	0.1	gram	0.1	gram	7	25	3	70	16	36.5	0.0365
+1988	CA6	H.Tar	HTar	0.25	gram	0.25	gram	25	50	15	15	37.5	15	0.0375
+1988	CA6	H.Tar	HTar	1	ounce	28.35	gram	3500	7000	45	65	5250	55	15.5925
+1988	CA6	H.Tar	HTar	1	pound	453.6	gram	50000	60000	45	45	55000	45	204.12
+
+1988	CA6	MJ-Bud	MJDom	1	gram	1	gram	3	10	100	100	6.5	100	1
+1988	CA6	MJ-Bud	MJDom	0.25	ounce	7.0875	gram	10	10	100	100	10	100	7.0875
+1988	CA6	MJ-Bud	MJDom	1	ounce	28.35	gram	100	350	100	100	225	100	28.35
+1988	CA6	MJ-Bud	MJDom	1	pound	453.6	gram	1000	2000	100	100	1500	100	453.6
+1988	CA6	Hashish	Hash	1	gram	1	gram	20	30	100	100	25	100	1
+1988	CA6	Hashish	Hash	1	pound	453.6	gram	1100	1200	100	100	1150	100	453.6
+1988	CA6	Sinsemilla	MJSin	1	ounce	28.35	gram	200	300	100	100	250	100	28.35
+1988	CA6	Sinsemilla	MJSin	1	pound	453.6	gram	3400	3400	100	100	3400	100	453.6
+1988	CA6	Meth-Powder	Meth	0.25	gram	0.25	gram	25	25	100	100	25	100	0.25
+1988	CA6	Meth-Powder	Meth	0.125	ounce	3.54375	gram	180	220	100	100	200	100	3.54375
+
+1988	CA7	Cocaine-Powder	C	1	kilo	1000	gram	15000	20000	88	88	17500	88	880
+
+1988	CA7	MJ Domestic	MJDom	1	ounce	28.35	gram	45	150	100	100	97.5	100	28.35
+1988	CA7	MJ Domestic	MJDom	1	pound	453.6	gram	600	800	100	100	700	100	453.6
+1988	CA7	Hashish	Hash	1	gram	1	gram	30	30	100	100	30	100	1
+1988	CA7	Sinsemilla	MJSin	1	ounce	28.35	gram	125	350	100	100	237.5	100	28.35
+
+1988	HI	Cocaine-Powder	C	1	gram	1	gram	100	130	60	90	115	75	0.75
+1988	HI	Cocaine-Powder	C	0.125	ounce	3.54375	gram	300	300	90	90	300	90	3.189375
+1988	HI	Cocaine-Powder	C	1	kilo	1000	gram	30000	49000	90	90	39500	90	900
+1988	HI	H.Tar	HTar	0.5	gram	0.5	gram	250	250	60	70	250	65	0.325
+1988	HI	H.Tar	HTar	1	gram	1	gram	350	600	60	70	475	65	0.65
+1988	HI	Heroin-China White	HWh	1	gram	1	gram	500	600	15	80	550	47.5	0.475
+
+1988	HI	MJ-Bud	MJDom	0.25	ounce	7.0875	gram	25	50	100	100	37.5	100	7.0875
+1988	HI	MJ-Bud	MJDom	1	ounce	28.35	gram	100	250	100	100	175	100	28.35
+1988	HI	MJ-Bud	MJDom	1	pound	453.6	gram	1000	3500	100	100	2250	100	453.6
+1988	HI	Hashish	Hash	1	gram	1	gram	10	10	100	100	10	100	1
+1988	HI	Hashish	Hash	0.25	ounce	7.0875	gram	40	60	100	100	50	100	7.0875
+1988	HI	Hashish	Hash	1	ounce	28.35	gram	120	150	100	100	135	100	28.35
+1988	HI	Hashish	Hash	1	pound	453.6	gram	1500	1800	100	100	1650	100	453.6
+1988	HI	Sinsemilla	MJSin	1	ounce	28.35	gram	300	300	100	100	300	100	28.35
+
+1988	OR	Cocaine-Powder	C	0.5	gram	0.5	gram	150	150	97	97	150	97	0.485
+1988	OR	Cocaine-Powder	C	0.25	pound	113.4	gram	9000	16000	85	95	12500	90	102.06
+
+1988	OR	Marijuana-bud	MJDom	1	gram	1	gram	3	10	100	100	6.5	100	1
+1988	OR	Marijuana-bud	MJDom	1	ounce	28.35	gram	125	200	100	100	162.5	100	28.35
+1988	OR	Marijuana-bud	MJDom	0.5	ounce	14.175	gram	40	130	100	100	85	100	14.175
+1988	OR	Marijuana-bud	MJDom	0.25	ounce	7.0875	gram	25	70	100	100	47.5	100	7.0875
+1988	OR	Marijuana-bud	MJDom	0.125	ounce	3.54375	gram	20	35	100	100	27.5	100	3.54375
+1988	OR	Marijuana-bud	MJDom	0.25	pound	113.4	gram	250	450	100	100	350	100	113.4
+1988	OR	Marijuana-bud	MJDom	1	pound	453.6	gram	1000	1000	100	100	1000	100	453.6
+
+1988	OR	MJ Colombian	MJImp	1	pound	453.6	gram	600	800	100	100	700	100	453.6
+1988	OR	Hashish	Hash	0.125	ounce	3.54375	gram	30	30	100	100	30	100	3.54375
+1988	OR	MJ Mexican	MJImp	1	pound	453.6	gram	400	800	100	100	600	100	453.6
+1988	OR	Sinsemilla	MJSin	1	pound	453.6	gram	1500	3000	100	100	2250	100	453.6
+1988	OR	Meth-Powder	Meth	0.25	gram	0.25	gram	180	180	99	99	180	99	0.2475
+
+1988	WA	Cocaine-Powder	C	1	gram	1	gram	70	120	60	90	95	75	0.75
+1988	WA	Cocaine-Powder	C	3.5	gram	3.5	gram	180	180	60	90	180	75	2.625
+1988	WA	Cocaine-Powder	C	0.25	ounce	7.0875	gram	320	500	60	90	410	75	5.315625
+1988	WA	Cocaine-Powder	C	1	ounce	28.35	gram	1100	2000	90	90	1550	90	25.515
+1988	WA	Cocaine-Powder	C	1	pound	453.6	gram	14000	21000	90	90	17500	90	408.24
+1988	WA	Cocaine-Powder	C	1	kilo	1000	gram	22000	35000	90	90	28500	90	900
+1988	WA	Cocaine-Rock	CRock	1	gram	1	gram	80	80	60	90	80	75	0.75
+
+1988	WA	Heroin-Brown	HBro	1	gram	1	gram	140	300	15	20	220	17.5	0.175
+1988	WA	Heroin-Brown	HBro	1	ounce	28.35	gram	4000	6000	35	87	5000	61	17.2935
+1988	WA	Heroin-Brown	HBro	1	kilo	1000	gram	64000	70000	35	87	67000	61	610
+1988	WA	Heroin-Tar	HTar	1	gram	1	gram	200	350	40	40	275	40	0.4
+1988	WA	Heroin-Tar	HTar	1	ounce	28.35	gram	2000	4000	60	60	3000	60	17.01
+
+1988	WA	MJ-Bud	MJDom	1	gram	1	gram	10	20	100	100	15	100	1
+1988	WA	MJ-Bud	MJDom	0.25	ounce	7.0875	gram	60	60	100	100	60	100	7.0875
+1988	WA	MJ-Bud	MJDom	0.5	ounce	14.175	gram	95	120	100	100	107.5	100	14.175
+1988	WA	MJ-Bud	MJDom	1	ounce	28.35	gram	200	300	100	100	250	100	28.35
+1988	WA	MJ-Bud	MJDom	0.25	pound	113.4	gram	400	650	100	100	525	100	113.4
+
+1988	WA	MJ-Sinsemilla	MJSin	1	gram	1	gram	10	10	100	100	10	100	1
+1988	WA	MJ-Sinsemilla	MJSin	0.125	ounce	3.54375	gram	30	30	100	100	30	100	3.54375
+1988	WA	MJ-Sinsemilla	MJSin	0.25	ounce	7.0875	gram	60	60	100	100	60	100	7.0875
+1988	WA	MJ-Sinsemilla	MJSin	1	ounce	28.35	gram	200	250	100	100	225	100	28.35
+1988	WA	MJ-Sinsemilla	MJSin	0.25	pound	113.4	gram	650	900	100	100	775	100	113.4
+1988	WA	MJ-Sinsemilla	MJSin	1	pound	453.6	gram	1800	3200	100	100	2500	100	453.6
+1988	WA	MJ-Sinsemilla	MJSin	1	kilo	1000	gram	6000	6000	100	100	6000	100	1000
+
+1988	WA	Meth-Powder	Meth	1	pound	453.6	gram	16000	18000	28	65	17000	46.5	210.924
+
+1987	AK	Cocaine-Powder	C	1	kilo	1000	gram	45000	80000	40	96	62500	68	680
+1987	AK	Cocaine-Powder	C	1	pound	453.6	gram	24000	35000	80	95	29500	87.5	396.9
+1987	AK	Cocaine-Powder	C	1	ounce	28.35	gram	1500	3000	70	95	2250	82.5	23.38875
+1987	AK	Cocaine-Powder	C	0.25	ounce	7.0875	gram	750	800	40	80	775	60	4.2525
+1987	AK	Cocaine-Powder	C	1	gram	1	gram	100	200	20	50	150	35	0.35
+
+1987	AK	H.Brown	HBro	1	ounce	28.35	gram	2800	4000	12	12	3400	12	3.402
+1987	AK	H.Tar	HTar	1	pound	453.6	gram	80000	100000	68	68	90000	68	308.448
+1987	AK	H.Tar	HTar	1	ounce	28.35	gram	6500	8500	34	34	7500	34	9.639
+1987	AK	H.White	HWh	1	ounce	28.35	gram	2800	4000	12	12	3400	12	3.402
+1987	AK	MJ Colombian	MJImp	1	pound	453.6	gram	500	500	100	100	500	100	453.6
+
+1987	AK	Marijuana-Domestic	MJDom	1	kilo	1000	gram	4000	5000	100	100	4500	100	1000
+1987	AK	Marijuana-Domestic	MJDom	1	pound	453.6	gram	3000	8000	100	100	5500	100	453.6
+1987	AK	Marijuana-Domestic	MJDom	0.5	pound	226.8	gram	1600	1600	100	100	1600	100	226.8
+1987	AK	Marijuana-Domestic	MJDom	0.25	pound	113.4	gram	850	850	100	100	850	100	113.4
+1987	AK	Marijuana-Domestic	MJDom	1	ounce	28.35	gram	200	500	100	100	350	100	28.35
+1987	AK	Marijuana-Domestic	MJDom	0.5	ounce	14.175	gram	115	115	100	100	115	100	14.175
+1987	AK	Marijuana-Domestic	MJDom	0.25	ounce	7.0875	gram	75	90	100	100	82.5	100	7.0875
+1987	AK	Marijuana-Domestic	MJDom	1	gram	1	gram	10	15	100	100	12.5	100	1
+
+1987	AK	Hashish	Hash	0.25	ounce	7.0875	gram	60	80	100	100	70	100	7.0875
+1987	AK	Hashish	Hash	1	gram	1	gram	10	20	100	100	15	100	1
+1987	AK	Methamphetamine	Meth	1	pound	453.6	gram	30000	40000	65	65	35000	65	294.84
+1987	AK	Methamphetamine	Meth	1	ounce	28.35	gram	2200	2800	65	65	2500	65	18.4275
+1987	AK	Methamphetamine	Meth	1	gram	1	gram	100	125	25	25	112.5	25	0.25
+
+1987	CA1	Cocaine-Powder	C	1	kilo	1000	gram	18000	37000	60	95	27500	77.5	775
+1987	CA1	Cocaine-Powder	C	1	pound	453.6	gram	20000	35000	75	75	27500	75	340.2
+1987	CA1	Cocaine-Powder	C	1	pound	453.6	gram	18000	40000	60	95	29000	77.5	351.54
+1987	CA1	Cocaine-Powder	C	0.5	pound	226.8	gram	14000	16000	30	60	15000	45	102.06
+1987	CA1	Cocaine-Powder	C	0.25	pound	113.4	gram	7200	9000	30	60	8100	45	51.03
+1987	CA1	Cocaine-Powder	C	1	ounce	28.35	gram	1000	2400	40	100	1700	70	19.845
+1987	CA1	Cocaine-Powder	C	0.5	ounce	14.175	gram	600	600	30	60	600	45	6.37875
+1987	CA1	Cocaine-Powder	C	0.25	ounce	7.0875	gram	350	600	30	60	475	45	3.189375
+1987	CA1	Cocaine-Powder	C	0.125	ounce	3.54375	gram	240	300	30	90	270	60	2.12625
+1987	CA1	Cocaine-Powder	C	0.0625	ounce	1.771875	gram	175	175	30	60	175	45	0.79734375
+1987	CA1	Cocaine-Powder	C	1	gram	1	gram	100	150	30	100	125	65	0.65
+1987	CA1	Cocaine-Powder	C	0.5	gram	0.5	gram	50	80	30	60	65	45	0.225
+1987	CA1	Cocaine-Powder	C	0.25	gram	0.25	gram	25	30	30	60	27.5	45	0.1125
+
+1987	CA1	Cocaine-Rock	CRock	1	ounce	28.35	gram	1000	1400	60	85	1200	72.5	20.55375
+1987	CA1	Cocaine-Rock	CRock	0.5	ounce	14.175	gram	500	600	60	80	550	70	9.9225
+1987	CA1	Cocaine-Rock	CRock	0.125	ounce	3.54375	gram	280	300	40	40	290	40	1.4175
+1987	CA1	Cocaine-Rock	CRock	1	gram	1	gram	100	100	40	80	100	60	0.6
+1987	CA1	Cocaine-Rock	CRock	0.5	gram	0.5	gram	50	60	40	80	55	60	0.3
+1987	CA1	Cocaine-Rock	CRock	0.25	gram	0.25	gram	20	25	40	70	22.5	55	0.1375
+1987	CA1	Cocaine-Rock	CRock	0.1	gram	0.1	gram	20	20	60	80	20	70	0.07
+
+1987	CA1	Heroin-Brown	HBro	1	ounce	28.35	gram	4000	12000	70	90	8000	80	22.68
+1987	CA1	Heroin-Brown	HBro	1	ounce	28.35	gram	2500	5000	4	10	3750	7	1.9845
+1987	CA1	Heroin-Brown	HBro	1	ounce	28.35	gram	750	1800	1	3	1275	2	0.567
+1987	CA1	Heroin-Brown	HBro	1	gram	1	gram	400	600	10	70	500	40	0.4
+1987	CA1	Heroin-Brown	HBro	1	gram	1	gram	100	250	2	8	175	5	0.05
+1987	CA1	Heroin-Brown	HBro	1	gram	1	gram	25	50	1	3	37.5	2	0.02
+1987	CA1	Heroin-Brown	HBro	0.5	gram	0.5	gram	40	50	1	3	45	2	0.01
+1987	CA1	Heroin-Brown	HBro	0.25	gram	0.25	gram	10	30	2	5	20	3.5	0.00875
+1987	CA1	Heroin-Brown	HBro	0.125	gram	0.125	gram	100	100	1	5	100	3	0.00375
+1987	CA1	Heroin-Brown	HBro	0.15	gram	0.15	gram	10	30	1	5	20	3	0.0045
+
+1987	CA1	Heroin-Tar	HTar	1	pound	453.6	gram	25000	25000	80	80	25000	80	362.88
+1987	CA1	Heroin-Tar	HTar	1	ounce	28.35	gram	3500	5000	40	80	4250	60	17.01
+1987	CA1	Heroin-Tar	HTar	0.5	ounce	14.175	gram	2300	2300	80	80	2300	80	11.34
+1987	CA1	Heroin-Tar	HTar	0.25	ounce	7.0875	gram	800	900	40	60	850	50	3.54375
+1987	CA1	Heroin-Tar	HTar	0.125	ounce	3.54375	gram	400	500	40	60	450	50	1.771875
+1987	CA1	Heroin-Tar	HTar	1	gram	1	gram	160	400	35	60	280	47.5	0.475
+1987	CA1	Heroin-Tar	HTar	0.5	gram	0.5	gram	100	100	35	60	100	47.5	0.2375
+1987	CA1	Heroin-Tar	HTar	0.25	gram	0.25	gram	60	60	20	60	60	40	0.1
+1987	CA1	Heroin-Tar	HTar	0.125	gram	0.125	gram	30	35	40	40	32.5	40	0.05
+1987	CA1	Heroin-Tar	HTar	0.1	gram	0.1	gram	20	35	20	60	27.5	40	0.04
+1987	CA1	Heroin-Tar	HTar	0.05	gram	0.05	gram	30	30	40	40	30	40	0.02
+
+1987	CA1	MJ Colombian	MJImp	1	ounce	28.35	gram	50	60	100	100	55	100	28.35
+1987	CA1	MJ Local	MJDom	1	pound	453.6	gram	300	400	100	100	350	100	453.6
+1987	CA1	MJ Local	MJDom	0.5	pound	226.8	gram	400	500	100	100	450	100	226.8
+1987	CA1	MJ Local	MJDom	1	ounce	28.35	gram	60	60	100	100	60	100	28.35
+1987	CA1	MJ Local	MJDom	0.25	ounce	7.0875	gram	20	20	100	100	20	100	7.0875
+1987	CA1	MJ Local	MJDom	0.125	ounce	3.54375	gram	30	35	100	100	32.5	100	3.54375
+1987	CA1	Hashish	Hash	0.25	ounce	7.0875	gram	60	60	100	100	60	100	7.0875
+1987	CA1	Hashish	Hash	1	gram	28.35	gram	10	15	100	100	12.5	100	28.35
+1987	CA1	MJ Mexican	MJImp	1	pound	453.6	gram	1500	1500	100	100	1500	100	453.6
+1987	CA1	MJ Mexican	MJImp	1	ounce	28.35	gram	200	200	100	100	200	100	28.35
+1987	CA1	MJ Mexican	MJImp	0.25	ounce	7.0875	gram	10	20	100	100	15	100	7.0875
+1987	CA1	Sinsemilla	MJSin	1	pound	453.6	gram	1800	2500	100	100	2150	100	453.6
+1987	CA1	Sinsemilla	MJSin	1	ounce	28.35	gram	100	200	100	100	150	100	28.35
+1987	CA1	Sinsemilla	MJSin	0.25	ounce	7.0875	gram	45	45	100	100	45	100	7.0875
+1987	CA1	Sinsemilla	MJSin	0.125	ounce	3.54375	gram	25	25	100	100	25	100	3.54375
+1987	CA1	Sinsemilla	MJSin	1	gram	1	gram	5	10	100	100	7.5	100	1
+
+1987	CA1	Methamphetamine	Meth	1	pound	453.6	gram	8000	18000	60	100	13000	80	362.88
+1987	CA1	Methamphetamine	Meth	1	ounce	28.35	gram	1000	1500	40	100	1250	70	19.845
+1987	CA1	Methamphetamine	Meth	0.25	ounce	7.0875	gram	300	350	40	80	325	60	4.2525
+1987	CA1	Methamphetamine	Meth	0.125	ounce	3.54375	gram	175	200	40	80	187.5	60	2.12625
+1987	CA1	Methamphetamine	Meth	0.0625	ounce	1.771875	gram	100	125	50	50	112.5	50	0.8859375
+1987	CA1	Methamphetamine	Meth	1	gram	1	gram	60	100	20	50	80	35	0.35
+1987	CA1	Methamphetamine	Meth	0.5	gram	0.5	gram	35	50	40	50	42.5	45	0.225
+1987	CA1	Methamphetamine	Meth	0.25	gram	0.25	gram	20	25	20	50	22.5	35	0.0875
+1987	CA1	Methamphetamine	Meth	0.1	gram	0.1	gram	50	50	40	40	50	40	0.04
+
+1987	CA2	Cocaine-Powder	C	1	kilo	1000	gram	25000	35000	85	95	30000	90	900
+1987	CA2	Cocaine-Powder	C	1	pound	453.6	gram	18000	25000	50	90	21500	70	317.52
+1987	CA2	Cocaine-Powder	C	1	ounce	28.35	gram	1200	2400	30	85	1800	57.5	16.30125
+1987	CA2	Cocaine-Powder	C	0.125	ounce	3.54375	gram	300	300	40	40	300	40	1.4175
+1987	CA2	Cocaine-Powder	C	1	gram	1	gram	90	125	20	93	107.5	56.5	0.565
+1987	CA2	Cocaine-Powder	C	0.5	gram	0.5	gram	60	60	40	40	60	40	0.2
+1987	CA2	Cocaine-Powder	C	0.25	gram	0.25	gram	30	30	40	40	30	40	0.1
+1987	CA2	Cocaine-Powder	C	0.1	gram	0.1	gram	20	25	60	80	22.5	70	0.07
+1987	CA2	Cocaine-Rock	CRock	0.25	gram	0.25	gram	15	25	75	75	20	75	0.1875
+ 														
+1987	CA2	Heroin-Brown	HBro	1	kilo	1000	gram	100000	230000	50	99	165000	74.5	745
+1987	CA2	Heroin-Brown	HBro	1	kilo	1000	gram	60000	75000	5	10	67500	7.5	75
+1987	CA2	Heroin-Brown	HBro	1	pound	453.6	gram	90000	95000	90	90	92500	90	408.24
+1987	CA2	Heroin-Brown	HBro	1	ounce	28.35	gram	5000	12000	30	90	8500	60	17.01
+1987	CA2	Heroin-Brown	HBro	1	ounce	28.35	gram	4000	6000	25	25	5000	25	7.0875
+1987	CA2	Heroin-Brown	HBro	1	ounce	28.35	gram	800	1600	2	4	1200	3	0.8505
+1987	CA2	Heroin-Brown	HBro	1	gram	1	gram	250	300	60	60	275	60	0.6
+1987	CA2	Heroin-Brown	HBro	1	gram	1	gram	100	150	1	3	125	2	0.02
+1987	CA2	Heroin-Brown	HBro	0.5	gram	0.5	gram	140	140	60	60	140	60	0.3
+1987	CA2	Heroin-Brown	HBro	0.5	gram	0.5	gram	40	50	1	3	45	2	0.01
+1987	CA2	Heroin-Brown	HBro	0.25	gram	0.25	gram	40	65	65	75	52.5	70	0.175
+1987	CA2	Heroin-Brown	HBro	0.095	gram	0.095	gram	20	30	1	5	25	3	0.00285
+														
+1987	CA2	Heroin-Tar	HTar	1	pound	453.6	gram	55000	60000	80	80	57500	80	362.88
+1987	CA2	Heroin-Tar	HTar	1	ounce	28.35	gram	4000	7500	30	40	5750	35	9.9225
+1987	CA2	Heroin-Tar	HTar	1	gram	1	gram	250	600	40	65	425	52.5	0.525
+1987	CA2	Heroin-Tar	HTar	1	gram	1	gram	100	100	5	7	100	6	0.06
+1987	CA2	Heroin-Tar	HTar	0.25	gram	0.25	gram	25	30	28	40	27.5	34	0.085
+														
+1987	CA2	Heroin-White	HWh	1	kilo	1000	gram	90000	220000	50	99	155000	74.5	745
+1987	CA2	Heroin-White	HWh	1	pound	453.6	gram	16000	96000	50	80	56000	65	294.84
+1987	CA2	Heroin-White	HWh	1	ounce	28.35	gram	2500	8500	30	80	5500	55	15.5925
+1987	CA2	Heroin-White	HWh	0.1	gram	0.1	gram	20	20	3	3	20	3	0.003
+1987	CA2	Heroin-White	HWh	0.025	gram	0.025	gram	25	30	28	40	27.5	34	0.0085
+														
+1987	CA2	MJ-Domestic	MJDom	1	pound	453.6	gram	250	500	100	100	375	100	453.6
+1987	CA2	MJ-Domestic	MJDom	1	ounce	28.35	gram	45	45	100	100	45	100	28.35
+1987	CA2	MJ-Domestic	MJDom	1	gram	1	gram	10	15	100	100	12.5	100	1
+1987	CA2	MJ-Domestic	MJDom	0.15	gram	0.15	gram	5	5	100	100	5	100	0.15
+1987	CA2	Hashish	Hash	1	pound	453.6	gram	1500	2000	100	100	1750	100	453.6
+1987	CA2	Hashish	Hash	1	ounce	28.35	gram	175	175	100	100	175	100	28.35
+1987	CA2	Hashish	Hash	1	gram	1	gram	10	30	100	100	20	100	1
+1987	CA2	Hashish	Hash	0.5	gram	0.5	gram	3	3	100	100	3	100	0.5
+1987	CA2	MJ-Mexican	MJImp	1	pound	453.6	gram	400	500	100	100	450	100	453.6
+1987	CA2	Sinsemilla	MJSin	1	pound	453.6	gram	1200	3800	100	100	2500	100	453.6
+1987	CA2	Sinsemilla	MJSin	1	ounce	28.35	gram	125	260	100	100	192.5	100	28.35
+1987	CA2	Sinsemilla	MJSin	0.125	ounce	3.54375	gram	25	40	100	100	32.5	100	3.54375
+1987	CA2	Sinsemilla	MJSin	1	gram	1	gram	15	15	100	100	15	100	1
+														
+1987	CA2	Methamphetamine	Meth	1	pound	453.6	gram	2500	16000	40	95	9250	67.5	306.18
+1987	CA2	Methamphetamine	Meth	1	ounce	28.35	gram	300	1500	20	95	900	57.5	16.30125
+1987	CA2	Methamphetamine	Meth	1	gram	1	gram	60	125	20	90	92.5	55	0.55
+1987	CA2	Methamphetamine	Meth	0.25	gram	0.25	gram	20	25	20	80	22.5	50	0.125
+1987	CA2	Methamphetamine	Meth	0.125	gram	0.125	gram	25	25	40	60	25	50	0.0625
+														
+1987	CA3	Cocaine-Powder	C	1	kilo	1000	gram	25500	40000	70	98	32750	84	840
+1987	CA3	Cocaine-Powder	C	1	ounce	28.35	gram	900	1700	70	90	1300	80	22.68
+1987	CA3	Cocaine-Powder	C	1	gram	1	gram	90	400	50	97	245	73.5	0.735
+1987	CA3	Cocaine-Powder	C	0.5	gram	0.5	gram	50	60	40	40	55	40	0.2
+1987	CA3	Cocaine-Powder	C	0.25	gram	0.25	gram	25	30	40	40	27.5	40	0.1
+
+1987	CA3	H.Tar	HTar	1	ounce	28.35	gram	4000	6500	65	65	5250	65	18.4275
+1987	CA3	H.Tar	HTar	1	gram	1	gram	150	400	40	65	275	52.5	0.525
+1987	CA3	H.White	HWh	1	pound	453.6	gram	90000	90000	95	95	90000	95	430.92
+1987	CA3	H.White	HWh	1	ounce	28.35	gram	2200	2200	96	98	2200	97	27.4995
+1987	CA3	H.White	HWh	1	gram	1	gram	400	400	50	50	400	50	0.5
+1987	CA3	H.White	HWh	0.375	gram	0.375	gram	200	200	50	50	200	50	0.1875
+1987	CA3	MJ	MJDom	1	pound	453.6	gram	1000	1000	100	100	1000	100	453.6
+1987	CA3	MJ	MJDom	0.125	pound	56.7	gram	25	25	100	100	25	100	56.7
+1987	CA3	MJ	MJDom	1	ounce	28.35	gram	125	125	100	100	125	100	28.35
+1987	CA3	MJ	MJDom	1	gram	1	gram	10	10	100	100	10	100	1
+1987	CA3	MJ Domestic	MJDom	1	gram	1	gram	10	20	100	100	15	100	1
+1987	CA3	Hashish	Hash	1	gram	1	gram	20	20	100	100	20	100	1
+1987	CA3	Sinsemilla	MJSin	1	pound	453.6	gram	2000	2400	100	100	2200	100	453.6
+
+1987	CA3	Methamphetamine	Meth	1	pound	453.6	gram	10000	13000	85	85	11500	85	385.56
+1987	CA3	Methamphetamine	Meth	1	ounce	28.35	gram	900	900	30	85	900	57.5	16.30125
+1987	CA3	Methamphetamine	Meth	1	gram	1	gram	60	90	23	90	75	56.5	0.565
+1987	CA3	Methamphetamine	Meth	0.5	gram	0.5	gram	30	40	40	40	35	40	0.2
+1987	CA3	Methamphetamine	Meth	0.25	gram	0.25	gram	20	20	40	40	20	40	0.1
+
+1987	CA4	Cocaine-Powder	C	1	kilo	1000	gram	18000	30000	60	80	24000	70	700
+1987	CA4	Cocaine-Powder	C	1	ounce	28.35	gram	800	2500	60	80	1650	70	19.845
+1987	CA4	Cocaine-Powder	C	0.125	ounce	3.54375	gram	200	300	60	80	250	70	2.480625
+1987	CA4	Cocaine-Powder	C	1	gram	1	gram	90	120	30	40	105	35	0.35
+1987	CA4	Cocaine-Powder	C	0.5	gram	0.5	gram	30	55	30	40	42.5	35	0.175
+1987	CA4	Cocaine-Powder	C	0.25	gram	0.25	gram	25	40	30	40	32.5	35	0.0875
+
+1987	CA4	Cocaine-Rock	CRock	1	gram	1	gram	100	125	40	60	112.5	50	0.5
+1987	CA4	Cocaine-Rock	CRock	0.25	gram	0.25	gram	20	25	40	60	22.5	50	0.125
+
+1987	CA4	Heroin-Brown	HBro	1	kilo	1000	gram	160000	160000	80	80	160000	80	800
+1987	CA4	Heroin-Brown	HBro	1	pound	453.6	gram	96000	96000	80	80	96000	80	362.88
+1987	CA4	Heroin-Brown	HBro	1	pound	453.6	gram	16000	16000	1	4	16000	2.5	11.34
+1987	CA4	Heroin-Brown	HBro	1	ounce	28.35	gram	3000	5000	60	80	4000	70	19.845
+1987	CA4	Heroin-Brown	HBro	1	ounce	28.35	gram	1200	1200	1	4	1200	2.5	0.70875
+1987	CA4	Heroin-Brown	HBro	1	gram	1	gram	230	280	60	80	255	70	0.7
+1987	CA4	Heroin-Brown	HBro	0.1	gram	0.1	gram	25	100	1	10	62.5	5.5	0.0055
+1987	CA4	Heroin-Brown	HBro	0.15	gram	0.15	gram	15	25	1	3	20	2	0.003
+
+1987	CA4	Heroin-Tar	HTar	1	pound	453.6	gram	56000	56000	80	90	56000	85	385.56
+1987	CA4	Heroin-Tar	HTar	60	ounce	1701	gram	24000	24000	60	80	24000	70	1190.7
+1987	CA4	Heroin-Tar	HTar	1	ounce	28.35	gram	3000	7000	60	80	5000	70	19.845
+1987	CA4	Heroin-Tar	HTar	0.5	ounce	14.175	gram	2000	2000	60	60	2000	60	8.505
+1987	CA4	Heroin-Tar	HTar	1	gram	1	gram	450	500	60	60	475	60	0.6
+1987	CA4	Heroin-Tar	HTar	0.2	gram	0.2	gram	20	25	40	60	22.5	50	0.1
+
+1987	CA4	H.White	HWh	1	pound	453.6	gram	100000	100000	80	80	100000	80	362.88
+1987	CA4	H.White	HWh	1	ounce	28.35	gram	4400	8000	80	80	6200	80	22.68
+1987	CA4	H.White	HWh	1	ounce	28.35	gram	1700	2000	5	10	1850	7.5	2.12625
+1987	CA4	H.White	HWh	1	gram	1	gram	125	300	5	10	212.5	7.5	0.075
+
+1987	CA4	MJ-Local	MJDom	1	pound	453.6	gram	600	1000	100	100	800	100	453.6
+1987	CA4	MJ-Local	MJDom	0.5	pound	226.8	gram	1000	1000	100	100	1000	100	226.8
+1987	CA4	MJ-Local	MJDom	0.25	pound	113.4	gram	225	250	100	100	237.5	100	113.4
+1987	CA4	MJ-Local	MJDom	1	ounce	28.35	gram	100	120	100	100	110	100	28.35
+1987	CA4	MJ-Local	MJDom	0.5	ounce	14.175	gram	50	60	100	100	55	100	14.175
+1987	CA4	MJ-Local	MJDom	0.25	ounce	7.0875	gram	30	65	100	100	47.5	100	7.0875
+1987	CA4	MJ-Local	MJDom	1	gram	1	gram	10	10	100	100	10	100	1
+														
+1987	CA4	Hashish	Hash	1	gram	1	gram	10	15	100	100	12.5	100	1
+1987	CA4	MJ Mexican	MJImp	1	pound	453.6	gram	450	1000	100	100	725	100	453.6
+1987	CA4	MJ Mexican	MJImp	1	ounce	28.35	gram	40	50	100	100	45	100	28.35
+1987	CA4	MJ Mexican	MJImp	0.5	ounce	14.175	gram	50	60	100	100	55	100	14.175
+1987	CA4	MJ Mexican	MJImp	0.25	ounce	7.0875	gram	30	30	100	100	30	100	7.0875
+1987	CA4	MJ Mexican	MJImp	0.125	ounce	3.54375	gram	20	25	100	100	22.5	100	3.54375
+1987	CA4	MJ Mexican	MJImp	1	gram	1	gram	10	10	100	100	10	100	1
+1987	CA4	Sinsemilla	MJSin	1	pound	453.6	gram	1100	1800	100	100	1450	100	453.6
+1987	CA4	Sinsemilla	MJSin	0.25	pound	113.4	gram	350	350	100	100	350	100	113.4
+1987	CA4	Sinsemilla	MJSin	1	ounce	28.35	gram	150	260	100	100	205	100	28.35
+
+1987	CA4	Methamphetamine	Meth	1	pound	453.6	gram	12000	16000	50	90	14000	70	317.52
+1987	CA4	Methamphetamine	Meth	1	ounce	28.35	gram	850	1700	50	90	1275	70	19.845
+1987	CA4	Methamphetamine	Meth	0.5	ounce	14.175	gram	700	700	40	40	700	40	5.67
+1987	CA4	Methamphetamine	Meth	0.25	ounce	7.0875	gram	250	350	40	60	300	50	3.54375
+1987	CA4	Methamphetamine	Meth	0.125	ounce	3.54375	gram	140	275	40	60	207.5	50	1.771875
+1987	CA4	Methamphetamine	Meth	1	gram	1	gram	70	120	40	90	95	65	0.65
+1987	CA4	Methamphetamine	Meth	0.5	gram	0.5	gram	40	60	30	40	50	35	0.175
+1987	CA4	Methamphetamine	Meth	0.125	gram	0.125	gram	20	30	30	40	25	35	0.04375
+
+1987	CA5	Cocaine-Powder	C	1	kilo	1000	gram	15000	30000	75	95	22500	85	850
+1987	CA5	Cocaine-Powder	C	1	kilo	1000	gram	12500	18000	70	90	15250	80	800
+1987	CA5	Cocaine-Powder	C	1	pound	453.6	gram	12000	20000	50	90	16000	70	317.52
+1987	CA5	Cocaine-Powder	C	0.5	pound	226.8	gram	7500	7500	50	80	7500	65	147.42
+1987	CA5	Cocaine-Powder	C	0.25	pound	113.4	gram	3000	4000	50	90	3500	70	79.38
+1987	CA5	Cocaine-Powder	C	1	ounce	28.35	gram	800	1800	40	90	1300	65	18.4275
+1987	CA5	Cocaine-Powder	C	0.125	ounce	3.54375	gram	200	300	30	80	250	55	1.9490625
+1987	CA5	Cocaine-Powder	C	1	gram	1	gram	50	150	20	80	100	50	0.5
+1987	CA5	Cocaine-Powder	C	0.5	gram	0.5	gram	50	60	40	80	55	60	0.3
+1987	CA5	Cocaine-Powder	C	0.125	gram	0.125	gram	25	25	15	20	25	17.5	0.021875
+
+1987	CA5	Cocaine-Rock	CRock	1	gram	1	gram	100	100	17	18	100	17.5	0.175
+1987	CA5	Cocaine-Rock	CRock	0.5	gram	0.5	gram	20	50	17	18	35	17.5	0.0875
+1987	CA5	Cocaine-Rock	CRock	0.25	gram	0.25	gram	20	30	40	50	25	45	0.1125
+
+1987	CA5	Heroin-Brown	HBro	1	kilo	1000	gram	100000	200000	50	65	150000	57.5	575
+1987	CA5	Heroin-Brown	HBro	1	pound	453.6	gram	50000	60000	50	60	55000	55	249.48
+1987	CA5	Heroin-Brown	HBro	1	ounce	28.35	gram	3000	5000	50	60	4000	55	15.5925
+1987	CA5	Heroin-Brown	HBro	1	gram	1	gram	200	300	40	50	250	45	0.45
+1987	CA5	Heroin-Brown	HBro	0.26	gram	0.26	gram	20	100	4	80	60	42	0.1092
+
+1987	CA5	Heroin-Tar	HTar	1	kilo	1000	gram	160000	200000	70	90	180000	80	800
+1987	CA5	Heroin-Tar	HTar	1	pound	453.6	gram	165000	165000	72	72	165000	72	326.592
+1987	CA5	Heroin-Tar	HTar	1	ounce	28.35	gram	4500	8000	47	60	6250	53.5	15.16725
+1987	CA5	Heroin-Tar	HTar	1	gram	1	gram	160	325	40	90	242.5	65	0.65
+1987	CA5	Heroin-Tar	HTar	0.1	gram	0.1	gram	20	25	40	90	22.5	65	0.065
+
+1987	CA5	Heroin-White	HWh	1	pound	453.6	gram	70000	85000	75	90	77500	82.5	374.22
+1987	CA5	Heroin-White	HWh	1	ounce	28.35	gram	5000	8500	100	100	6750	100	28.35
+1987	CA5	Heroin-White	HWh	1	gram	1	gram	230	500	75	75	365	75	0.75
+
+1987	CA5	Methamphetamine	Meth	1	ounce	28.35	gram	700	2000	85	85	1350	85	24.0975
+
+1987	CA6	Cocaine-Powder	C	1	kilo	1000	gram	16000	25000	95	95	20500	95	950
+1987	CA6	Cocaine-Powder	C	1	pound	453.6	gram	12000	18000	95	95	15000	95	430.92
+1987	CA6	Cocaine-Powder	C	1	ounce	28.35	gram	1000	1500	80	95	1250	87.5	24.80625
+1987	CA6	Cocaine-Powder	C	0.25	ounce	7.0875	gram	550	550	30	40	550	35	2.480625
+1987	CA6	Cocaine-Powder	C	0.125	ounce	3.54375	gram	250	300	30	40	275	35	1.2403125
+1987	CA6	Cocaine-Powder	C	1	gram	1	gram	90	100	70	70	95	70	0.7
+
+1987	CA6	H.Tar	HTar	1	kilo	1000	gram	250000	300000	60	80	275000	70	700
+1987	CA6	H.Tar	HTar	1	pound	453.6	gram	125000	150000	60	80	137500	70	317.52
+1987	CA6	H.Tar	HTar	1	ounce	28.35	gram	4000	6000	24	70	5000	47	13.3245
+
+1987	CA6	MJ-Colombian	MJImp	1	pound	453.6	gram	600	1100	100	100	850	100	453.6
+1987	CA6	MJ-Colombian	MJImp	0.5	pound	226.8	gram	350	600	100	100	475	100	226.8
+1987	CA6	MJ-Colombian	MJImp	1	ounce	28.35	gram	90	100	100	100	95	100	28.35
+1987	CA6	MJ-Colombian	MJImp	0.5	ounce	14.175	gram	50	60	100	100	55	100	14.175
+1987	CA6	MJ-Colombian	MJImp	0.25	ounce	7.0875	gram	25	35	100	100	30	100	7.0875
+
+1987	CA6	MJ-Commercial	MJDom	1	pound	453.6	gram	600	1100	100	100	850	100	453.6
+1987	CA6	MJ-Commercial	MJDom	0.5	pound	226.8	gram	475	475	100	100	475	100	226.8
+1987	CA6	MJ-Commercial	MJDom	1	ounce	28.35	gram	100	200	100	100	150	100	28.35
+1987	CA6	MJ-Commercial	MJDom	0.25	ounce	7.0875	gram	25	35	100	100	30	100	7.0875
+1987	CA6	MJ-Commercial	MJDom	2.25	gram	2.25	gram	20	20	100	100	20	100	2.25
+
+1987	CA6	Hashish	Hash	1	pound	453.6	gram	1400	1500	100	100	1450	100	453.6
+1987	CA6	Hashish	Hash	0.5	pound	226.8	gram	700	800	100	100	750	100	226.8
+1987	CA6	Hashish	Hash	0.5	ounce	14.175	gram	140	154	100	100	147	100	14.175
+1987	CA6	Hashish	Hash	0.25	ounce	7.0875	gram	75	100	100	100	87.5	100	7.0875
+1987	CA6	Hashish	Hash	1	gram	1	gram	20	50	100	100	35	100	1
+
+1987	CA6	Sinsemilla	MJSin	1	pound	453.6	gram	3000	3000	100	100	3000	100	453.6
+1987	CA6	Sinsemilla	MJSin	1	ounce	28.35	gram	80	125	100	100	102.5	100	28.35
+1987	CA6	Sinsemilla	MJSin	0.25	ounce	7.0875	gram	25	45	100	100	35	100	7.0875
+1987	CA6	Sinsemilla	MJSin	3.5	gram	3.5	gram	40	40	100	100	40	100	3.5
+
+1987	CA7	Cocaine	C	1	kilo	1000	gram	30000	35000	80	95	32500	87.5	875
+1987	CA7	Cocaine	C	1	ounce	28.35	gram	1500	1800	80	95	1650	87.5	24.80625
+1987	CA7	Cocaine	C	0.125	ounce	3.54375	gram	250	250	85	85	250	85	3.0121875
+1987	CA7	Cocaine	C	1	gram	1	gram	120	120	60	70	120	65	0.65
+1987	CA7	H.Tar	HTar	1	pound	453.6	gram	80000	100000	60	70	90000	65	294.84
+1987	CA7	Heroin-White	HWh	0.25	gram	0.25	gram	80	85	3	5	82.5	4	0.01
+1987	CA7	Heroin-White	HWh	0.125	gram	0.125	gram	20	25	3	5	22.5	4	0.005
+1987	CA7	MJ Commercial	MJDom	1	pound	453.6	gram	400	700	100	100	550	100	453.6
+1987	CA7	MJ Commercial	MJDom	1	ounce	28.35	gram	45	165	100	100	105	100	28.35
+1987	CA7	Hashish	Hash	1	pound	453.6	gram	1300	1500	100	100	1400	100	453.6
+1987	CA7	Hashish	Hash	1	ounce	28.35	gram	100	150	100	100	125	100	28.35
+1987	CA7	Hashish	Hash	1	gram	1	gram	10	15	100	100	12.5	100	1
+1987	CA7	MJ-Home Grown	MJDom	0.5	pound	226.8	gram	75	200	100	100	137.5	100	226.8
+1987	CA7	MJ-Home Grown	MJDom	0.5	gram	0.5	gram	60	60	100	100	60	100	0.5
+1987	CA7	MJ Mexican	MJImp	1	pound	453.6	gram	200	700	100	100	450	100	453.6
+1987	CA7	MJ Mexican	MJImp	0.25	pound	113.4	gram	100	150	100	100	125	100	113.4
+1987	CA7	MJ Mexican	MJImp	5	gram	5	gram	10	20	100	100	15	100	5
+1987	CA7	Sinsemilla	MJSin	1	pound	453.6	gram	1400	3000	100	100	2200	100	453.6
+1987	CA7	Sinsemilla	MJSin	1	ounce	28.35	gram	125	250	100	100	187.5	100	28.35
+1987	CA7	Methamphethamine	Meth	1	pound	453.6	gram	9000	18000	95	95	13500	95	430.92
+1987	CA7	Methamphethamine	Meth	1	ounce	28.35	gram	1000	2000	30	30	1500	30	8.505
+
+1987	HI	Cocaine-Powder	C	1	pound	453.6	gram	27000	35000	30	95	31000	62.5	283.5
+1987	HI	Cocaine-Powder	C	1	ounce	28.35	gram	2000	2700	60	70	2350	65	18.4275
+1987	HI	Cocaine-Powder	C	0.25	ounce	7.0875	gram	600	700	22	80	650	51	3.614625
+1987	HI	Cocaine-Powder	C	0.125	ounce	3.54375	gram	300	300	10	40	300	25	0.8859375
+1987	HI	Cocaine-Powder	C	1	gram	1	gram	100	120	25	30	110	27.5	0.275
+1987	HI	Cocaine-Powder	C	0.25	gram	0.25	gram	25	25	25	30	25	27.5	0.06875
+
+1987	HI	H.Brown	HBro	0.25	gram	0.25	gram	300	600	5	10	450	7.5	0.01875
+1987	HI	H.Brown	HBro	0.1	gram	0.1	gram	50	250	5	10	150	7.5	0.0075
+1987	HI	Heroin-Tar	HTar	1	gram	1	gram	350	400	60	70	375	65	0.65
+
+1987	HI	Heroin-White	HWh	1	pound	453.6	gram	80000	100000	70	90	90000	80	362.88
+1987	HI	Heroin-White	HWh	1	ounce	28.35	gram	9000	11000	45	45	10000	45	12.7575
+1987	HI	Heroin-White	HWh	0.25	ounce	7.0875	gram	2000	3000	10	22	2500	16	1.134
+1987	HI	Heroin-White	HWh	0.125	ounce	3.54375	gram	1700	1700	80	80	1700	80	2.835
+1987	HI	Heroin-White	HWh	1	gram	1	gram	500	700	10	15	600	12.5	0.125
+1987	HI	Heroin-White	HWh	0.25	gram	0.25	gram	175	175	50	50	175	50	0.125
+
+1987	HI	MJ	MJDom	1	pound	453.6	gram	1000	2500	100	100	1750	100	453.6
+1987	HI	MJ	MJDom	1	ounce	28.35	gram	140	250	100	100	195	100	28.35
+1987	HI	Hashish	Hash	1	pound	453.6	gram	1500	1800	100	100	1650	100	453.6
+1987	HI	Hashish	Hash	1	ounce	28.35	gram	120	150	100	100	135	100	28.35
+1987	HI	Hashish	Hash	0.25	ounce	7.0875	gram	40	60	100	100	50	100	7.0875
+1987	HI	Hashish	Hash	1	gram	1	gram	10	10	100	100	10	100	1
+
+1987	OR	Cocaine-Powder	C	1	kilo	1000	gram	30000	50000	70	100	40000	85	850
+1987	OR	Cocaine-Powder	C	0.25	pound	113.4	gram	7000	7000	5	85	7000	45	51.03
+1987	OR	Cocaine-Powder	C	1	ounce	28.35	gram	900	2000	35	40	1450	37.5	10.63125
+1987	OR	Cocaine-Powder	C	5	gram	5	gram	485	485	4	40	485	22	1.1
+1987	OR	Cocaine-Powder	C	1	gram	1	gram	50	120	35	40	85	37.5	0.375
+1987	OR	Cocaine-Powder	C	0.25	gram	0.25	gram	25	50	4	40	37.5	22	0.055
+
+1987	OR	"H,Tar"	HTar	1	pound	453.6	gram	70000	100000	60	80	85000	70	317.52
+1987	OR	H.Tar	HTar	1	ounce	28.35	gram	4500	5500	63	63	5000	63	17.8605
+1987	OR	H.Tar	HTar	1	gram	1	gram	250	600	5	30	425	17.5	0.175
+1987	OR	H.Tar	HTar	0.0625	gram	0.0625	gram	50	50	5	55	50	30	0.01875
+
+1987	OR	Marijuana-Domestic	MJDom	1	pound	453.6	gram	2000	2500	100	100	2250	100	453.6
+1987	OR	Marijuana-Domestic	MJDom	0.25	pound	113.4	gram	200	500	100	100	350	100	113.4
+1987	OR	Marijuana-Domestic	MJDom	1	ounce	28.35	gram	50	250	100	100	150	100	28.35
+1987	OR	Marijuana-Domestic	MJDom	0.5	ounce	14.175	gram	20	20	100	100	20	100	14.175
+1987	OR	Marijuana-Domestic	MJDom	0.25	ounce	7.0875	gram	10	60	100	100	35	100	7.0875
+1987	OR	Marijuana-Domestic	MJDom	0.125	ounce	3.54375	gram	15	40	100	100	27.5	100	3.54375
+
+1987	OR	MJ Mexican	MJImp	1	pound	453.6	gram	700	1000	100	100	850	100	453.6
+1987	OR	MJ Mexican	MJImp	0.25	pound	113.4	gram	250	350	100	100	300	100	113.4
+1987	OR	MJ Mexican	MJImp	1	ounce	28.35	gram	90	110	100	100	100	100	28.35
+1987	OR	MJ Mexican	MJImp	0.25	ounce	7.0875	gram	25	30	100	100	27.5	100	7.0875
+
+1987	OR	MJ-Sinsemilla	MJSin	1	pound	453.6	gram	1800	2500	100	100	2150	100	453.6
+1987	OR	MJ-Sinsemilla	MJSin	0.25	pound	113.4	gram	500	600	100	100	550	100	113.4
+1987	OR	MJ-Sinsemilla	MJSin	1	ounce	28.35	gram	90	200	100	100	145	100	28.35
+1987	OR	MJ-Sinsemilla	MJSin	0.5	ounce	14.175	gram	25	90	100	100	57.5	100	14.175
+1987	OR	MJ-Sinsemilla	MJSin	0.25	ounce	7.0875	gram	30	30	100	100	30	100	7.0875
+1987	OR	MJ-Sinsemilla	MJSin	0.125	ounce	3.54375	gram	12.5	15	100	100	13.75	100	3.54375
+1987	OR	MJ-Sinsemilla	MJSin	1	gram	1	gram	10	10	100	100	10	100	1
+
+1987	OR	Methamphethamine	Meth	1	pound	453.6	gram	9000	18000	5	99	13500	52	235.872
+1987	OR	Methamphethamine	Meth	1	gram	1	gram	70	120	20	80	95	50	0.5
+
+1987	WA	Cocaine-Powder	C	1	kilo	1000	gram	30000	55000	80	95	42500	87.5	875
+1987	WA	Cocaine-Powder	C	1	pound	453.6	gram	17000	30000	95	95	23500	95	430.92
+1987	WA	Cocaine-Powder	C	0.5	pound	226.8	gram	12000	15000	95	95	13500	95	215.46
+1987	WA	Cocaine-Powder	C	0.25	pound	113.4	gram	4000	6000	95	95	5000	95	107.73
+1987	WA	Cocaine-Powder	C	1	ounce	28.35	gram	1200	2400	50	95	1800	72.5	20.55375
+1987	WA	Cocaine-Powder	C	0.5	ounce	14.175	gram	800	1200	50	95	1000	72.5	10.276875
+1987	WA	Cocaine-Powder	C	0.25	ounce	7.0875	gram	450	700	50	80	575	65	4.606875
+1987	WA	Cocaine-Powder	C	0.125	ounce	3.54375	gram	250	375	50	95	312.5	72.5	2.56921875
+1987	WA	Cocaine-Powder	C	1	gram	1	gram	80	125	30	95	102.5	62.5	0.625
+1987	WA	Cocaine-Powder	C	0.5	gram	0.5	gram	50	75	50	50	62.5	50	0.25
+1987	WA	Cocaine-Powder	C	0.25	gram	0.25	gram	25	30	60	60	27.5	60	0.15
+
+1987	WA	Heroin-Brown	HBro	1	ounce	28.35	gram	1500	12000	25	50	6750	37.5	10.63125
+1987	WA	Heroin-Brown	HBro	1	gram	1	gram	250	500	15	15	375	15	0.15
+
+1987	WA	Heroin-Tar	HTar	1	pound	453.6	gram	82900	96000	95	95	89450	95	430.92
+1987	WA	Heroin-Tar	HTar	1	ounce	28.35	gram	3000	10000	40	80	6500	60	17.01
+1987	WA	Heroin-Tar	HTar	0.5	ounce	14.175	gram	2500	6000	40	60	4250	50	7.0875
+1987	WA	Heroin-Tar	HTar	1	gram	1	gram	200	450	40	80	325	60	0.6
+1987	WA	Heroin-Tar	HTar	0.5	gram	0.5	gram	100	300	20	70	200	45	0.225
+1987	WA	Heroin-Tar	HTar	0.25	gram	0.25	gram	75	125	60	70	100	65	0.1625
+1987	WA	Heroin-Tar	HTar	0.125	gram	0.125	gram	25	50	60	70	37.5	65	0.08125
+
+1987	WA	MJ-Colombian	MJImp	1	pound	453.6	gram	400	1000	100	100	700	100	453.6
+1987	WA	Marijuana-Domestic	MJDom	1	pound	453.6	gram	1800	2400	100	100	2100	100	453.6
+1987	WA	Marijuana-Domestic	MJDom	0.25	pound	113.4	gram	500	650	100	100	575	100	113.4
+1987	WA	Marijuana-Domestic	MJDom	1	ounce	28.35	gram	150	180	100	100	165	100	28.35
+1987	WA	Marijuana-Domestic	MJDom	0.125	ounce	3.54375	gram	30	30	100	100	30	100	3.54375
+1987	WA	Marijuana-Domestic	MJDom	1	gram	1	gram	10	10	100	100	10	100	1
+
+1987	WA	Hashish	Hash	1	pound	453.6	gram	1400	1600	100	100	1500	100	453.6
+1987	WA	Hashish	Hash	0.25	pound	113.4	gram	250	300	100	100	275	100	113.4
+1987	WA	Hashish	Hash	1	ounce	28.35	gram	180	180	100	100	180	100	28.35
+
+1987	WA	MJ-Homegrown	MJDom	1	pound	453.6	gram	600	800	100	100	700	100	453.6
+1987	WA	MJ-Homegrown	MJDom	0.5	pound	226.8	gram	300	400	100	100	350	100	226.8
+1987	WA	MJ-Homegrown	MJDom	0.25	pound	113.4	gram	200	325	100	100	262.5	100	113.4
+1987	WA	MJ-Homegrown	MJDom	1	ounce	28.35	gram	160	160	100	100	160	100	28.35
+1987	WA	MJ-Homegrown	MJDom	0.5	ounce	14.175	gram	50	60	100	100	55	100	14.175
+1987	WA	MJ-Homegrown	MJDom	0.125	ounce	3.54375	gram	30	30	100	100	30	100	3.54375
+1987	WA	MJ-Homegrown	MJDom	1	gram	1	gram	10	10	100	100	10	100	1
+
+1987	WA	MJ-Mexican	MJImp	1	pound	453.6	gram	400	700	100	100	550	100	453.6
+1987	WA	MJ-Mexican	MJImp	0.5	pound	226.8	gram	250	400	100	100	325	100	226.8
+1987	WA	MJ-Mexican	MJImp	0.25	pound	113.4	gram	200	350	100	100	275	100	113.4
+1987	WA	MJ-Mexican	MJImp	1	ounce	28.35	gram	110	150	100	100	130	100	28.35
+1987	WA	MJ-Mexican	MJImp	0.25	ounce	7.0875	gram	40	75	100	100	57.5	100	7.0875
+
+1987	WA	MJ-Sinsemilla	MJSin	1	pound	453.6	gram	1000	2500	100	100	1750	100	453.6
+1987	WA	MJ-Sinsemilla	MJSin	0.25	pound	113.4	gram	400	500	100	100	450	100	113.4
+1987	WA	MJ-Sinsemilla	MJSin	0.125	pound	56.7	gram	250	300	100	100	275	100	56.7
+1987	WA	MJ-Sinsemilla	MJSin	1	ounce	28.35	gram	200	250	100	100	225	100	28.35
+1987	WA	MJ-Sinsemilla	MJSin	0.5	ounce	14.175	gram	100	150	100	100	125	100	14.175
+1987	WA	MJ-Sinsemilla	MJSin	0.25	ounce	7.0875	gram	50	80	100	100	65	100	7.0875
+1987	WA	MJ-Sinsemilla	MJSin	0.125	ounce	3.54375	gram	25	35	100	100	30	100	3.54375
+1987	WA	MJ-Sinsemilla	MJSin	1	gram	1	gram	10	12	100	100	11	100	1
+
+1987	WA	Meth-Powder	Meth	1	ounce	28.35	gram	1200	2500	93	93	1850	93	26.3655
+1987	WA	Meth-Powder	Meth	1	gram	1	gram	60	130	95	95	95	95	0.95
+
+1989	AK	MJ Home Grown	MJDom	0.25	ounce	7.0875	gram	80	80	100	100	80	100	7.0875
+1989	AK	Hashish	Hash	1	gram	1	gram	20	20	100	100	20	100	1
+
+1989	CA1	Cocaine-Rock	CRock	1	gram	1	gram	100	100	90	90	100	90	0.9
+1989	CA1	Cocaine-Powder	C	1	ounce	28.35	gram	500	1200	75	75	850	75	21.2625
+
+1989	CA1	Hashish	Hash	1	gram	1	gram	10	15	100	100	12.5	100	1
+1989	CA1	Hashish	Hash	1	ounce	28.35	gram	200	200	100	100	200	100	28.35
+1989	CA1	Hashish	Hash	1	pound	453.6	gram	3000	3200	100	100	3100	100	453.6
+1989	CA1	MJ-Bud	MJDom	1	gram	1	gram	10	10	100	100	10	100	1
+1989	CA1	MJ-Sinsemilla	MJSin	1	ounce	28.35	gram	200	300	100	100	250	100	28.35
+1989	CA1	MJ-Sinsemilla	MJSin	1	pound	453.6	gram	3000	3500	100	100	3250	100	453.6
+
+1989	CA1	Meth-Powder	Meth	0.25	gram	0.25	gram	20	20	60	60	20	60	0.15
+1989	CA1	Meth-Powder	Meth	1	gram	1	gram	50	90	75	75	70	75	0.75
+
+1989	CA2	Cocaine-Rock	CRock	0.25	gram	0.25	gram	20	20	90	90	20	90	0.225
+1989	CA2	Cocaine-Rock	CRock	0.125	ounce	3.54375	gram	140	140	90	90	140	90	3.189375
+1989	CA2	Cocaine-Rock	CRock	1	ounce	28.35	gram	550	650	90	90	600	90	25.515
+1989	CA2	Cocaine-Rock	CRock	1	pound	453.6	gram	4000	4000	90	90	4000	90	408.24
+
+1989	CA2	Cocaine-Powder	C	0.05	gram	0.05	gram	5	5	50	90	5	70	0.035
+1989	CA2	Cocaine-Powder	C	0.1	gram	0.1	gram	15	20	30	60	17.5	45	0.045
+1989	CA2	Cocaine-Powder	C	0.25	gram	0.25	gram	20	30	50	90	25	70	0.175
+1989	CA2	Cocaine-Powder	C	1	gram	1	gram	50	100	30	90	75	60	0.6
+1989	CA2	Cocaine-Powder	C	1	ounce	28.35	gram	550	1100	50	90	825	70	19.845
+1989	CA2	Cocaine-Powder	C	1	Kilo	1000	gram	10000	19000	50	90	14500	70	700
+
+1989	CA2	H.White	HWh	0.25	gram	0.25	gram	20	25	3	5	22.5	4	0.01
+1989	CA2	H.White	HWh	0.5	gram	0.5	gram	250	250	90	100	250	95	0.475
+1989	CA2	H.Tar	HTar	0.1	gram	0.1	gram	20	20	6	17	20	11.5	0.0115
+1989	CA2	H.Tar	HTar	0.25	gram	0.25	gram	40	65	6	34	52.5	20	0.05
+1989	CA2	H.Tar	HTar	1	gram	1	gram	140	200	10	60	170	35	0.35
+1989	CA2	H.Tar	HTar	1	ounce	28.35	gram	3500	4500	10	40	4000	25	7.0875
+1989	CA2	Meth-Powder	Meth	0.25	gram	0.25	gram	15	20	30	30	17.5	30	0.075
+1989	CA2	Meth-Powder	Meth	1	gram	1	gram	20	90	20	80	55	50	0.5
+
+1989	CA2	Sinsemilla	MJSin	0.125	ounce	3.54375	gram	35	35	100	100	35	100	3.54375
+1989	CA2	Sinsemilla	MJSin	1	ounce	28.35	gram	200	300	100	100	250	100	28.35
+1989	CA2	Sinsemilla	MJSin	1	pound	453.6	gram	2000	3000	100	100	2500	100	453.6
+
+1989	CA3	Cocaine-Rock	CRock	0.2	gram	0.2	gram	20	20	100	100	20	100	0.2
+1989	CA3	Cocaine-Rock	CRock	1	ounce	28.35	gram	650	650	100	100	650	100	28.35
+1989	CA3	Cocaine-Powder	C	1	gram	1	gram	75	75	80	80	75	80	0.8
+1989	CA3	Cocaine-Powder	C	1	ounce	28.35	gram	700	700	80	80	700	80	22.68
+1989	CA3	H.Tar	HTar	1	gram	1	gram	225	225	60	60	225	60	0.6
+
+1989	CA3	MJ	MJDom	1	gram	1	gram	15	15	100	100	15	100	1
+1989	CA3	MJ	MJDom	0.125	ounce	3.54375	gram	35	35	100	100	35	100	3.54375
+1989	CA3	MJ	MJDom	1	ounce	28.35	gram	110	110	100	100	110	100	28.35
+1989	CA3	MJ	MJDom	0.25	pound	113.4	gram	440	440	100	100	440	100	113.4
+
+1989	CA4	Cocaine-Powder	C	0.25	gram	0.25	gram	30	40	50	50	35	50	0.125
+1989	CA4	Cocaine-Powder	C	1	gram	1	gram	100	120	50	50	110	50	0.5
+1989	CA4	Cocaine-Powder	C	3.5	gram	3.5	gram	200	250	50	50	225	50	1.75
+1989	CA4	Cocaine-Powder	C	1	kilo	1000	gram	18000	18000	90	90	18000	90	900
+1989	CA4	MJ Domestic	MJDom	1	pound	453.6	gram	600	800	100	100	700	100	453.6
+1989	CA4	MJ Mexican	MJImp	0.25	ounce	7.0875	gram	30	40	100	100	35	100	7.0875
+1989	CA4	MJ Mexican	MJImp	1	pound	453.6	gram	700	700	100	100	700	100	453.6
+
+1989	CA5	Cocaine-Powder	C	1	gram	1	gram	60	100	75	95	80	85	0.85
+1989	CA5	Cocaine-Powder	C	0.125	ounce	3.54375	gram	120	180	75	95	150	85	3.0121875
+1989	CA5	Cocaine-Powder	C	0.25	ounce	7.0875	gram	225	300	50	60	262.5	55	3.898125
+1989	CA5	Cocaine-Powder	C	1	ounce	28.35	gram	700	850	40	60	775	50	14.175
+1989	CA5	Cocaine-Powder	C	1	pound	453.6	gram	8000	12000	75	98	10000	86.5	392.364
+
+1989	CA5	H.Powder	HOth	1	gram	1	gram	250	300	40	80	275	60	0.6
+1989	CA5	H.Tar	HTar	1	ounce	28.35	gram	3500	6000	19	75	4750	47	13.3245
+1989	CA5	Meth-Powder	Meth	1	gram	1	gram	80	100	80	100	90	90	0.9
+1989	CA5	Meth-Powder	Meth	1	ounce	28.35	gram	800	1000	80	80	900	80	22.68
+1989	CA5	Meth-Powder	Meth	1	pound	453.6	gram	9000	15000	80	100	12000	90	408.24
+
+1989	CA6	MJ Mexican	MJImp	0.25	pound	113.4	gram	200	250	100	100	225	100	113.4
+1989	CA6	MJ Mexican	MJImp	1	pound	453.6	gram	800	1200	100	100	1000	100	453.6
+1989	CA6	Sinsemilla	MJSin	1	gram	1	gram	40	40	100	100	40	100	1
+
+1989	CA7	Cocaine-Powder	C	1	Kilo	1000	gram	14000	16000	55	65	15000	60	600
+
+1989	CA7	Hashish	Hash	1	gram	1	gram	10	15	100	100	12.5	100	1
+1989	CA7	Hashish	Hash	1	ounce	28.35	gram	100	150	100	100	125	100	28.35
+1989	CA7	Hashish	Hash	1	pound	453.6	gram	1300	1500	100	100	1400	100	453.6
+1989	CA7	H.Powder	HOth	0.1	gram	0.1	gram	25	25	10	10	25	10	0.01
+1989	CA7	H.Powder	HOth	1	gram	1	gram	200	250	10	10	225	10	0.1
+1989	CA7	H.Powder	HOth	1	pound	453.6	gram	20000	25000	10	10	22500	10	45.36
+
+1989	CA7	Heroin-Tar	HTar	0.03	gram	0.03	gram	15	20	10	50	17.5	30	0.009
+1989	CA7	Heroin-Tar	HTar	0.25	gram	0.25	gram	60	70	10	50	65	30	0.075
+1989	CA7	Heroin-Tar	HTar	1	gram	1	gram	200	250	10	50	225	30	0.3
+1989	CA7	Heroin-Tar	HTar	1	ounce	28.35	gram	3000	4500	10	50	3750	30	8.505
+1989	CA7	Heroin-Tar	HTar	1	pound	453.6	gram	60000	65000	10	50	62500	30	136.08
+1989	CA7	Heroin-Tar	HTar	1	kilo	1000	gram	120000	140000	10	50	130000	30	300
+
+1989	CA7	H.White	HWh	1	gram	1	gram	400	700	95	95	550	95	0.95
+1989	CA7	H.White	HWh	1	ounce	28.35	gram	8000	10000	95	95	9000	95	26.9325
+1989	CA7	H.White	HWh	1	pound	453.6	gram	100000	100000	95	95	100000	95	430.92
+
+1989	CA7	MJ	MJDom	1	ounce	28.35	gram	45	150	100	100	97.5	100	28.35
+1989	CA7	MJ	MJDom	1	pound	453.6	gram	350	500	100	100	425	100	453.6
+1989	CA7	Sinsemilla	MJSin	1	ounce	28.35	gram	125	250	100	100	187.5	100	28.35
+1989	CA7	Sinsemilla	MJSin	1	pound	453.6	gram	1400	3000	100	100	2200	100	453.6
+
+1989	HI	Cocaine-Powder	C	1	gram	1	gram	100	100	65	85	100	75	0.75
+1989	HI	Cocaine-Powder	C	0.25	ounce	7.0875	gram	400	500	90	90	450	90	6.37875
+
+1989	OR	Cocaine-Powder	C	0.5	pound	226.8	gram	4800	4800	65	65	4800	65	147.42
+1989	OR	Cocaine-Powder	C	1	kilo	1000	gram	14000	22000	78	78	18000	78	780
+1989	OR	Heroin-Tar	HTar	0.5	ounce	14.175	gram	2000	2000	65	65	2000	65	9.21375
+1989	OR	Heroin-Tar	HTar	0.75	ounce	21.2625	gram	2000	2000	28	28	2000	28	5.9535
+1989	OR	Heroin-Tar	HTar	1	ounce	28.35	gram	2500	6000	11	49	4250	30	8.505
+1989	OR	Hashish	Hash	1	gram	1	gram	10	10	100	100	10	100	1
+
+1989	OR	MJ Mexican	MJImp	1	gram	1	gram	10	15	100	100	12.5	100	1
+1989	OR	MJ Mexican	MJImp	1	ounce	28.35	gram	125	125	100	100	125	100	28.35
+1989	OR	MJ Bud	MJDom	1	ounce	28.35	gram	180	250	100	100	215	100	28.35
+1989	OR	MJ Bud	MJDom	0.25	pound	113.4	gram	500	550	100	100	525	100	113.4
+1989	OR	MJ Bud	MJDom	1	pound	453.6	gram	1800	2500	100	100	2150	100	453.6
+
+1989	OR	Meth-Powder	Meth	1	pound	453.6	gram	8000	16000	80	99	12000	89.5	405.972
+
+1989	WA	Cocaine-Powder	C	1	gram	1	gram	50	100	30	88	75	59	0.59
+1989	WA	Cocaine-Powder	C	0.125	ounce	3.54375	gram	100	250	30	85	175	57.5	2.03765625
+1989	WA	Cocaine-Powder	C	0.25	ounce	7.0875	gram	225	450	30	85	337.5	57.5	4.0753125
+1989	WA	Cocaine-Powder	C	0.5	ounce	14.175	gram	550	550	85	85	550	85	12.04875
+1989	WA	Cocaine-Powder	C	1	Ounce	28.35	gram	600	1200	40	85	900	62.5	17.71875
+1989	WA	Cocaine-Powder	C	1	pound	453.6	gram	7500	15000	75	95	11250	85	385.56
+1989	WA	Cocaine-Powder	C	1	kilo	1000	gram	17000	26000	85	96	21500	90.5	905
+1989	WA	Cocaine Rock	CRock	1	gram	1	gram	40	85	90	90	62.5	90	0.9
+						`								
+1989	WA	H.Tar	HTar	0.05	gram	0.05	gram	15	25	40	60	20	50	0.025
+1989	WA	H.Tar	HTar	1	gram	1	gram	100	100	15	15	100	15	0.15
+1989	WA	H.Tar	HTar	1	ounce	28.35	gram	2000	5000	40	60	3500	50	14.175
+1989	WA	MJ Mexican	MJImp	1	pound	453.6	gram	600	1500	100	100	1050	100	453.6
+1989	WA	MJ Colombian	MJImp	1	pound	453.6	gram	600	1000	100	100	800	100	453.6
+1989	WA	Methamphetamine	Meth	1	pound	453.6	gram	7000	12000	75	95	9500	85	385.56
+
+1989	WA	MJ-Sinsemilla	MJSin	1	gram	1	gram	10	10	100	100	10	100	1
+1989	WA	MJ-Sinsemilla	MJSin	0.125	ounce	3.54375	gram	30	30	100	100	30	100	3.54375
+1989	WA	MJ-Sinsemilla	MJSin	0.25	ounce	7.0875	gram	60	70	100	100	65	100	7.0875
+1989	WA	MJ-Sinsemilla	MJSin	1	ounce	28.35	gram	170	200	100	100	185	100	28.35
+1989	WA	MJ-Sinsemilla	MJSin	1	pound	453.6	gram	2000	3200	100	100	2600	100	453.6
+
+1991	CA1	Cocaine-Powder	C	0.25	gram	0.25	gram	20	20	12	40	20	26	0.065
+1991	CA1	Cocaine-Powder	C	0.25	gram	0.25	gram	25	30	50	80	27.5	65	0.1625
+1991	CA1	Cocaine-Powder	C	1	gram	1	gram	50	70	15	40	60	27.5	0.275
+1991	CA1	Cocaine-Powder	C	1	gram	1	gram	70	100	40	75	85	57.5	0.575
+1991	CA1	Cocaine-Powder	C	1	gram	1	gram	100	150	80	80	125	80	0.8
+1991	CA1	Cocaine-Powder	C	0.125	ounce	3.54375	gram	110	500	30	100	305	65	2.3034375
+1991	CA1	Cocaine-Powder	C	1	ounce	28.35	gram	600	2000	40	90	1300	65	18.4275
+1991	CA1	Cocaine-Powder	C	1	pound	453.6	gram	11000	26000	60	95	18500	77.5	351.54
+1991	CA1	Cocaine-Powder	C	1	kilo	1000	gram	10000	20000	80	90	15000	85	850
+1991	CA1	Cocaine-Powder	C	1	kilo	1000	gram	25000	40000	90	100	32500	95	950
+
+1991	CA1	Heroin Mex Brown	HBro	1	kilo	1000	gram	20000	40000	75	75	30000	75	750
+1991	CA1	Hashish	Hash	1	gram	1	gram	15	25	100	100	20	100	1
+1991	CA1	Hashish	Hash	1	ounce	28.35	gram	200	240	100	100	220	100	28.35
+1991	CA1	Hashish	Hash	1	pound	453.6	gram	3200	3200	100	100	3200	100	453.6
+1991	CA1	H.Tar	HTar	0.25	gram	0.25	gram	20	70	20	60	45	40	0.1
+1991	CA1	H.Tar	HTar	1	gram	1	gram	160	270	30	60	215	45	0.45
+1991	CA1	H.Tar	HTar	1	ounce	28.35	gram	2200	4500	55	55	3350	55	15.5925
+1991	CA1	H.Tar	HTar	1	pound	453.6	gram	34000	65000	55	55	49500	55	249.48
+
+1991	CA1	MJ Mex	MJImp	1	gram	1	gram	10	20	100	100	15	100	1
+1991	CA1	MJ Mex	MJImp	1	pound	453.6	gram	1000	1700	100	100	1350	100	453.6
+1991	CA1	MJ-Sinsemilla	MJSin	1	gram	1	gram	10	40	100	100	25	100	1
+1991	CA1	MJ-Sinsemilla	MJSin	0.25	ounce	7.0875	gram	45	50	100	100	47.5	100	7.0875
+1991	CA1	MJ-Sinsemilla	MJSin	1	ounce	28.35	gram	245	400	100	100	322.5	100	28.35
+1991	CA1	MJ-Sinsemilla	MJSin	1	pound	453.6	gram	1800	4000	100	100	2900	100	453.6
+1991	CA1	MJ 	MJDom	0.125	ounce	3.54375	gram	25	25	100	100	25	100	3.54375
+1991	CA1	MJ 	MJDom	1	ounce	28.35	gram	150	600	100	100	375	100	28.35
+1991	CA1	MJ 	MJDom	1	pound	453.6	gram	600	2000	100	100	1300	100	453.6
+
+1991	CA1	Methamphetamine	Meth	0.25	gram	0.25	gram	15	40	25	50	27.5	37.5	0.09375
+1991	CA1	Methamphetamine	Meth	1	gram	1	gram	45	120	25	50	82.5	37.5	0.375
+1991	CA1	Methamphetamine	Meth	1	ounce	28.35	gram	500	800	25	60	650	42.5	12.04875
+1991	CA1	Methamphetamine	Meth	1	ounce	28.35	gram	800	1300	60	100	1050	80	22.68
+1991	CA1	Methamphetamine	Meth	1	pound	453.6	gram	6000	18000	50	100	12000	75	340.2
+
+1991	CA2	Cocaine-Powder	C	0.25	gram	0.25	gram	20	30	25	90	25	57.5	0.14375
+1991	CA2	Cocaine-Powder	C	1	gram	1	gram	50	80	20	60	65	40	0.4
+1991	CA2	Cocaine-Powder	C	1	gram	1	gram	85	120	75	85	102.5	80	0.8
+1991	CA2	Cocaine-Powder	C	0.125	ounce	3.54375	gram	160	300	30	90	230	60	2.12625
+1991	CA2	Cocaine-Powder	C	1	ounce	28.35	gram	600	1200	30	95	900	62.5	17.71875
+1991	CA2	Cocaine-Powder	C	1	pound	453.6	gram	10000	20000	50	90	15000	70	317.52
+1991	CA2	Cocaine-Powder	C	1	kilo	1000	gram	18000	35000	80	97	26500	88.5	885
+
+1991	CA2	Hashish	Hash	1	gram	1	gram	10	20	100	100	15	100	1
+1991	CA2	Hashish	Hash	1	ounce	28.35	gram	375	450	100	100	412.5	100	28.35
+1991	CA2	Hashish	Hash	1	pound	453.6	gram	3000	4000	100	100	3500	100	453.6
+
+1991	CA2	Heroin Tar	HTar	0.25	gram	0.25	gram	20	65	6	56	42.5	31	0.0775
+1991	CA2	Heroin Tar	HTar	1	gram	1	gram	100	120	5	15	110	10	0.1
+1991	CA2	Heroin Tar	HTar	1	gram	1	gram	140	220	31	56	180	43.5	0.435
+1991	CA2	Heroin Tar	HTar	1	ounce	28.35	gram	3500	5000	25	56	4250	40.5	11.48175
+1991	CA2	Heroin Tar	HTar	1	pound	453.6	gram	32000	38000	31	56	35000	43.5	197.316
+1991	CA2	Heroin Tar	HTar	1	pound	453.6	gram	107000	107000	98	98	107000	98	444.528
+
+1991	CA2	Heroin Mex Brown	HBro	1	kilo	1000	gram	52000	75000	31	56	63500	43.5	435
+1991	CA2	Heroin Mex Brown	HBro	1	kilo	1000	gram	80000	150000	70	75	115000	72.5	725
+
+1991	CA2	Sinsemilla	MJSin	1	gram	1	gram	15	60	100	100	37.5	100	1
+1991	CA2	Sinsemilla	MJSin	1	ounce	28.35	gram	200	360	100	100	280	100	28.35
+1991	CA2	Sinsemilla	MJSin	1	pound	453.6	gram	2200	3500	100	100	2850	100	453.6
+1991	CA2	MJ-Mexican	MJImp	1	ounce	28.35	gram	150	150	100	100	150	100	28.35
+1991	CA2	MJ-Mexican	MJImp	1	pound	453.6	gram	1550	1550	100	100	1550	100	453.6
+
+1991	CA2	Methamphetamine	Meth	0.25	gram	0.25	gram	10	50	20	60	30	40	0.1
+1991	CA2	Methamphetamine	Meth	1	gram	1	gram	50	90	25	75	70	50	0.5
+1991	CA2	Methamphetamine	Meth	0.125	ounce	3.54375	gram	120	250	25	75	185	50	1.771875
+1991	CA2	Methamphetamine	Meth	1	ounce	28.35	gram	700	1200	30	75	950	52.5	14.88375
+1991	CA2	Methamphetamine	Meth	1	pound	453.6	gram	8000	16000	25	95	12000	60	272.16
+
+1991	CA3	Cocaine-Powder	C	0.25	gram	0.25	gram	20	30	65	75	25	70	0.175
+1991	CA3	Cocaine-Powder	C	1	gram	1	gram	50	120	65	75	85	70	0.7
+1991	CA3	Cocaine-Powder	C	0.125	ounce	3.54375	gram	150	220	65	75	185	70	2.480625
+1991	CA3	Cocaine-Powder	C	1	ounce	28.35	gram	600	1100	75	80	850	77.5	21.97125
+1991	CA3	Cocaine-Powder	C	1	pound	453.6	gram	10000	15000	80	80	12500	80	362.88
+
+1991	CA3	Heroin Tar	HTar	0.25	gram	0.25	gram	20	40	50	50	30	50	0.125
+1991	CA3	Heroin Tar	HTar	1	gram	1	gram	75	160	12	60	117.5	36	0.36
+1991	CA3	Heroin Tar	HTar	1	ounce	28.35	gram	1800	3000	12	70	2400	41	11.6235
+1991	CA3	Heroin Tar	HTar	1	pound	453.6	gram	28000	48000	50	70	38000	60	272.16
+
+1991	CA3	Sinsemilla	MJSin	1	gram	1	gram	10	20	100	100	15	100	1
+1991	CA3	Sinsemilla	MJSin	1	ounce	28.35	gram	175	300	100	100	237.5	100	28.35
+1991	CA3	Sinsemilla	MJSin	1	pound	453.6	gram	1500	4000	100	100	2750	100	453.6
+
+1991	CA3	Methamphetamine	Meth	0.25	gram	0.25	gram	20	25	40	70	22.5	55	0.1375
+1991	CA3	Methamphetamine	Meth	1	gram	1	gram	80	120	40	70	100	55	0.55
+1991	CA3	Methamphetamine	Meth	0.125	ounce	3.54375	gram	300	300	70	70	300	70	2.480625
+1991	CA3	Methamphetamine	Meth	1	ounce	28.35	gram	800	1200	70	70	1000	70	19.845
+1991	CA3	Methamphetamine	Meth	1	pound	453.6	gram	8000	13000	40	80	10500	60	272.16
+
+1991	CA4	Cocaine-Powder	C	0.25	gram	0.25	gram	20	30	50	50	25	50	0.125
+1991	CA4	Cocaine-Powder	C	1	gram	1	gram	50	100	50	50	75	50	0.5
+1991	CA4	Cocaine-Powder	C	0.125	ounce	3.54375	gram	140	180	50	50	160	50	1.771875
+1991	CA4	Cocaine-Powder	C	0.125	ounce	3.54375	gram	200	225	80	80	212.5	80	2.835
+1991	CA4	Cocaine-Powder	C	1	ounce	28.35	gram	600	1100	50	90	850	70	19.845
+1991	CA4	Cocaine-Powder	C	1	pound	453.6	gram	5000	20000	50	90	12500	70	317.52
+1991	CA4	Cocaine-Powder	C	1	kilo	1000	gram	18000	26000	50	90	22000	70	700
+
+1991	CA4	Hashish	Hash	1	gram	1	gram	10	15	100	100	12.5	100	1
+1991	CA4	Hashish	Hash	1	ounce	28.35	gram	150	150	100	100	150	100	28.35
+1991	CA4	Heroin Tar	HTar	0.25	gram	0.25	gram	20	60	3	3	40	3	0.0075
+1991	CA4	Heroin Tar	HTar	1	ounce	28.35	gram	2000	3500	45	80	2750	62.5	17.71875
+
+1991	CA4	MJ Mexican	MJImp	1	gram	1	gram	5	5	100	100	5	100	1
+1991	CA4	MJ Mexican	MJImp	1	ounce	28.35	gram	80	100	100	100	90	100	28.35
+1991	CA4	MJ Mexican	MJImp	1	pound	453.6	gram	800	1000	100	100	900	100	453.6
+1991	CA4	Sinsemilla	MJSin	1	gram	1	gram	10	50	100	100	30	100	1
+1991	CA4	Sinsemilla	MJSin	1	ounce	28.35	gram	200	250	100	100	225	100	28.35
+1991	CA4	Sinsemilla	MJSin	1	pound	453.6	gram	1500	2500	100	100	2000	100	453.6
+
+1991	CA4	Methamphetamine	Meth	0.25	gram	0.25	gram	20	35	50	90	27.5	70	0.175
+1991	CA4	Methamphetamine	Meth	1	gram	1	gram	80	100	50	90	90	70	0.7
+1991	CA4	Methamphetamine	Meth	0.125	ounce	3.54375	gram	150	250	25	75	200	50	1.771875
+1991	CA4	Methamphetamine	Meth	1	ounce	28.35	gram	600	1100	40	50	850	45	12.7575
+1991	CA4	Methamphetamine	Meth	1	pound	453.6	gram	8000	14000	80	80	11000	80	362.88
+
+1991	CA5	Cocaine-Powder	C	0.25	gram	0.25	gram	20	25	50	60	22.5	55	0.1375
+1991	CA5	Cocaine-Powder	C	1	gram	1	gram	40	120	15	75	80	45	0.45
+1991	CA5	Cocaine-Powder	C	0.125	ounce	3.54375	gram	100	200	50	65	150	57.5	2.03765625
+1991	CA5	Cocaine-Powder	C	1	ounce	28.35	gram	500	1200	30	80	850	55	15.5925
+1991	CA5	Cocaine-Powder	C	1	pound	453.6	gram	7000	13000	40	80	10000	60	272.16
+1991	CA5	Cocaine-Powder	C	1	kilo	1000	gram	13500	27000	30	90	20250	60	600
+
+1991	CA5	Heroin Mex Brown	HBro	1	kilo	1000	gram	65000	96000	12	12	80500	12	120
+1991	CA5	Heroin Tar	HTar	1	kilo	1000	gram	108000	108000	12	12	108000	12	120
+
+1991	CA6	Cocaine-Powder	C	0.25	gram	0.25	gram	10	35	35	75	22.5	55	0.1375
+1991	CA6	Cocaine-Powder	C	1	gram	1	gram	80	120	40	75	100	57.5	0.575
+1991	CA6	Cocaine-Powder	C	0.125	ounce	3.54375	gram	125	350	50	75	237.5	62.5	2.21484375
+1991	CA6	Cocaine-Powder	C	1	ounce	28.35	gram	400	1000	40	50	700	45	12.7575
+1991	CA6	Cocaine-Powder	C	1	ounce	28.35	gram	1200	2000	60	75	1600	67.5	19.13625
+1991	CA6	Cocaine-Powder	C	1	pound	453.6	gram	7000	12000	50	70	9500	60	272.16
+1991	CA6	Cocaine-Powder	C	1	kilo	1000	gram	16000	23000	50	70	19500	60	600
+1991	CA6	Cocaine-Powder	C	1	kilo	1000	gram	25000	32000	90	90	28500	90	900
+
+1991	CA6	Hashish	Hash	1	gram	1	gram	20	25	100	100	22.5	100	1
+1991	CA6	Hashish	Hash	1	ounce	28.35	gram	300	300	100	100	300	100	28.35
+1991	CA6	Hashish	Hash	1	pound	453.6	gram	3000	3000	100	100	3000	100	453.6
+1991	CA6	Sinsemilla	MJSin	1	gram	1	gram	25	40	100	100	32.5	100	1
+1991	CA6	Sinsemilla	MJSin	1	ounce	28.35	gram	240	325	100	100	282.5	100	28.35
+1991	CA6	Sinsemilla	MJSin	1	pound	453.6	gram	1000	2000	100	100	1500	100	453.6
+1991	CA6	MJ Mexican	MJImp	1	gram	1	gram	10	15	100	100	12.5	100	1
+1991	CA6	MJ Mexican	MJImp	1	ounce	28.35	gram	100	240	100	100	170	100	28.35
+
+1991	CA6	H.Brown	HBro	1	kilo	1000	gram	60000	165000	40	75	112500	57.5	575
+1991	CA6	Heroin Tar	HTar	0.25	gram	0.25	gram	40	65	60	75	52.5	67.5	0.16875
+1991	CA6	Heroin Tar	HTar	1	gram	1	gram	90	220	60	75	155	67.5	0.675
+1991	CA6	Heroin Tar	HTar	1	ounce	28.35	gram	3000	4000	60	75	3500	67.5	19.13625
+1991	CA6	Heroin Tar	HTar	1	pound	453.6	gram	35000	48000	60	75	41500	67.5	306.18
+
+1991	CA6	Methamphetamine	Meth	0.25	gram	0.25	gram	15	25	40	40	20	40	0.1
+1991	CA6	Methamphetamine	Meth	1	gram	1	gram	50	110	40	40	80	40	0.4
+1991	CA6	Methamphetamine	Meth	0.125	ounce	3.54375	gram	100	150	40	40	125	40	1.4175
+1991	CA6	Methamphetamine	Meth	1	ounce	28.35	gram	400	900	40	40	650	40	11.34
+1991	CA6	Methamphetamine	Meth	1	pound	453.6	gram	6000	10000	40	40	8000	40	181.44
+
+1991	CA7	Cocaine-Powder	C	0.25	gram	0.25	gram	20	25	10	60	22.5	35	0.0875
+1991	CA7	Cocaine-Powder	C	1	gram	1	gram	40	75	10	20	57.5	15	0.15
+1991	CA7	Cocaine-Powder	C	1	gram	1	gram	80	120	60	60	100	60	0.6
+1991	CA7	Cocaine-Powder	C	0.125	ounce	3.54375	gram	120	175	10	20	147.5	15	0.5315625
+1991	CA7	Cocaine-Powder	C	0.125	ounce	3.54375	gram	275	275	55	90	275	72.5	2.56921875
+1991	CA7	Cocaine-Powder	C	0.25	ounce	7.0875	gram	400	400	92	92	400	92	6.5205
+1991	CA7	Cocaine-Powder	C	1	ounce	28.35	gram	600	1100	10	90	850	50	14.175
+1991	CA7	Cocaine-Powder	C	1	pound	453.6	gram	6500	8000	10	60	7250	35	158.76
+1991	CA7	Cocaine-Powder	C	1	pound	453.6	gram	9000	16000	70	90	12500	80	362.88
+1991	CA7	Cocaine-Powder	C	1	kilo	1000	gram	16500	26000	80	90	21250	85	850
+
+1991	CA7	Hashish	Hash	1	gram	1	gram	10	15	100	100	12.5	100	1
+1991	CA7	Hashish	Hash	1	ounce	28.35	gram	100	150	100	100	125	100	28.35
+1991	CA7	Hashish	Hash	1	pound	453.6	gram	1300	1500	100	100	1400	100	453.6
+
+1991	CA7	Heroin Tar	HTar	0.25	gram	0.25	gram	60	100	10	70	80	40	0.1
+1991	CA7	Heroin Tar	HTar	1	gram	1	gram	200	250	10	50	225	30	0.3
+1991	CA7	Heroin Tar	HTar	1	ounce	28.35	gram	3000	4500	10	50	3750	30	8.505
+1991	CA7	Heroin Tar	HTar	1	pound	453.6	gram	60000	65000	10	50	62500	30	136.08
+
+1991	CA7	MJ Mexican	MJImp	1	ounce	28.35	gram	100	160	100	100	130	100	28.35
+1991	CA7	MJ Mexican	MJImp	1	pound	453.6	gram	900	1400	100	100	1150	100	453.6
+1991	CA7	Sinsemilla	MJSin	1	pound	453.6	gram	1100	3000	100	100	2050	100	453.6
+
+1991	CA7	Methamphetamine	Meth	0.25	gram	0.25	gram	20	25	25	80	22.5	52.5	0.13125
+1991	CA7	Methamphetamine	Meth	1	gram	1	gram	40	80	25	80	60	52.5	0.525
+1991	CA7	Methamphetamine	Meth	0.125	ounce	3.54375	gram	120	175	25	80	147.5	52.5	1.86046875
+1991	CA7	Methamphetamine	Meth	1	ounce	28.35	gram	600	900	25	80	750	52.5	14.88375
+1991	CA7	Methamphetamine	Meth	1	pound	453.6	gram	5000	10000	25	90	7500	57.5	260.82
+
+1991	HI	Sinsemilla	MJSin	1	gram	1	gram	20	20	100	100	20	100	1
+1991	HI	Sinsemilla	MJSin	1	ounce	28.35	gram	400	400	100	100	400	100	28.35
+1991	HI	Sinsemilla	MJSin	1	pound	453.6	gram	6000	6000	100	100	6000	100	453.6
+
+1991	OR	Cocaine-Powder	C	0.25	gram	0.25	gram	20	30	35	75	25	55	0.1375
+1991	OR	Cocaine-Powder	C	1	gram	1	gram	60	75	35	35	67.5	35	0.35
+1991	OR	Cocaine-Powder	C	1	gram	1	gram	80	100	50	75	90	62.5	0.625
+1991	OR	Cocaine-Powder	C	0.125	ounce	3.54375	gram	150	250	50	80	200	65	2.3034375
+1991	OR	Cocaine-Powder	C	1	ounce	28.35	gram	600	1400	40	80	1000	60	17.01
+1991	OR	Cocaine-Powder	C	1	pound	453.6	gram	9000	15000	50	75	12000	62.5	283.5
+1991	OR	Cocaine-Powder	C	1	kilo	1000	gram	18000	30000	40	90	24000	65	650
+
+1991	OR	Hashish	Hash	1	gram	1	gram	10	10	100	100	10	100	1
+1991	OR	Hashish	Hash	1	ounce	28.35	gram	200	200	100	100	200	100	28.35
+1991	OR	Hashish	Hash	1	pound	453.6	gram	1500	1500	100	100	1500	100	453.6
+1991	OR	Sinsemilla	MJSin	1	gram	1	gram	10	75	100	100	42.5	100	1
+1991	OR	Sinsemilla	MJSin	1	ounce	28.35	gram	100	300	100	100	200	100	28.35
+1991	OR	Sinsemilla	MJSin	1	pound	453.6	gram	1200	3200	100	100	2200	100	453.6
+1991	OR	MJ Mexican	MJImp	1	pound	453.6	gram	800	1100	100	100	950	100	453.6
+
+1991	OR	Heroin Tar	HTar	0.25	gram	0.25	gram	40	100	18	50	70	34	0.085
+1991	OR	Heroin Tar	HTar	1	gram	1	gram	80	180	25	70	130	47.5	0.475
+1991	OR	Heroin Tar	HTar	1	ounce	28.35	gram	2000	4500	28	62	3250	45	12.7575
+
+1991	WA	Cocaine-Powder	C	0.25	gram	0.25	gram	15	60	20	90	37.5	55	0.1375
+1991	WA	Cocaine-Powder	C	1	gram	1	gram	20	80	20	60	50	40	0.4
+1991	WA	Cocaine-Powder	C	1	gram	1	gram	90	180	75	90	135	82.5	0.825
+1991	WA	Cocaine-Powder	C	0.03125	ounce	0.8859375	gram	50	50	60	80	50	70	0.62015625
+1991	WA	Cocaine-Powder	C	0.0625	ounce	1.771875	gram	100	150	10	80	125	45	0.79734375
+1991	WA	Cocaine-Powder	C	0.125	ounce	3.54375	gram	100	350	20	90	225	55	1.9490625
+1991	WA	Cocaine-Powder	C	0.5	ounce	14.175	gram	450	600	70	80	525	75	10.63125
+1991	WA	Cocaine-Powder	C	1	ounce	28.35	gram	600	900	20	60	750	40	11.34
+1991	WA	Cocaine-Powder	C	1	ounce	28.35	gram	1000	1600	70	85	1300	77.5	21.97125
+1991	WA	Cocaine-Powder	C	1	pound	453.6	gram	9000	18000	50	85	13500	67.5	306.18
+1991	WA	Cocaine-Powder	C	1	kilo	1000	gram	18000	32000	26	90	25000	58	580
+
+1991	WA	Hashish	Hash	1	gram	1	gram	10	55	100	100	32.5	100	1
+1991	WA	Hashish	Hash	1	ounce	28.35	gram	100	300	100	100	200	100	28.35
+1991	WA	Hashish	Hash	1	pound	453.6	gram	1200	2000	100	100	1600	100	453.6
+
+1991	WA	Heroin Mex Brown	HBro	1	kilo	1000	gram	30000	150000	20	90	90000	55	550
+1991	WA	Heroin Tar	HTar	0.25	gram	0.25	gram	15	50	10	50	32.5	30	0.075
+1991	WA	Heroin Tar	HTar	0.25	gram	0.25	gram	50	125	60	90	87.5	75	0.1875
+1991	WA	Heroin Tar	HTar	1	ounce	28.35	gram	1000	6000	20	90	3500	55	15.5925
+1991	WA	Heroin Tar	HTar	1	pound	453.6	gram	12000	45000	20	70	28500	45	204.12
+1991	WA	Heroin Tar	HTar	1	pound	453.6	gram	48000	56000	85	90	52000	87.5	396.9
+
+1991	WA	MJ Bud	MJDom	1	gram	1	gram	10	40	100	100	25	100	1
+1991	WA	Sinsemilla	MJSin	1	ounce	28.35	gram	150	290	100	100	220	100	28.35
+1991	WA	MJ	MJDom	1	pound	453.6	gram	1000	3500	100	100	2250	100	453.6
+
+1991	WA	Methamphetamine	Meth	0.25	gram	0.25	gram	20	60	15	60	40	37.5	0.09375
+1991	WA	Methamphetamine	Meth	0.25	gram	0.25	gram	65	160	80	90	112.5	85	0.2125
+1991	WA	Methamphetamine	Meth	1	gram	1	gram	50	130	20	60	90	40	0.4
+1991	WA	Methamphetamine	Meth	1	gram	1	gram	150	160	80	90	155	85	0.85
+1991	WA	Methamphetamine	Meth	0.125	ounce	3.54375	gram	110	250	23	60	180	41.5	1.47065625
+1991	WA	Methamphetamine	Meth	0.125	ounce	3.54375	gram	250	400	75	90	325	82.5	2.92359375
+1991	WA	Methamphetamine	Meth	1	ounce	28.35	gram	800	2000	80	90	1400	85	24.0975
+1991	WA	Methamphetamine	Meth	1	pound	453.6	gram	8000	20000	28	80	14000	54	244.944
+1991	WA	Methamphetamine	Meth	1	pound	453.6	gram	20000	25000	89	90	22500	89.5	405.972
+

@@ -1,0 +1,96 @@
+This file documents data used in "Analysis of a Randomized Trial to Prevent 
+Vertical Transmission of HIV-1" by J.P. Hughes and B.A. Richardson, JASA, 
+Dec. 2000.
+
+These data can be freely used and redistributed for non-commercial
+purposes only. Address questions to Jim Hughes (hughes@biostat.washington.edu)
+
+The attached file (breastdata.dat) contains 8 variables and 401 records. 
+Variables are space delimited. All time variables are measured in months 
+since birth. The variables are
+
+hl - left endpoint of HIV-1 infection time interval.
+     possible values: -1, 0 - 24, 25
+                      -1 means in utero infection
+                      0 - 24 means infection occurred no earlier than that
+                             time.
+                      25 means uninfected as of 24 months of age
+hr - right endpoint of HIV-1 infection time interval.
+     possible values: 0 - 24, 25
+                      0 - 24 means infection occurred no later then that
+                             time.
+                      25 means uninfected as of 24 months of age
+dtime - death time 
+     possible values: 0 - 24; 25 
+                      0 - 24 means infant died at that age
+                      25 means infant was alive past 24 months of age
+dstatus - status at dtime 
+     possible values: 0 = alive, 1 = died
+grp - randomization group
+     possible values: 0 = formula, 1 = breastfeeding
+test0 - was a test for HIV-1 infection done at birth?
+     possible values: 1 = yes, 0 = no
+result0 - if test0 = 1, result0 gives the result of the test
+     possible values: 1 = positive, 0 = negative or no test done
+confirm0 - was a positive test result at time 0 confirmed?
+     possible values: 2 = test0=1 and result0=1 but no confirmation test done 
+                      1 = test0=1 and result0=1 and confirmed positive
+                      0 = else
+
+Notes:
+(1) If hl < 24 and hr = 25 then the infection status of the infant at
+    death or end of followup is unknown. The infant last tested negative at
+    hl and no additional tests are available before death or end of followup.
+(2) Infants lost to followup or administratively censored at less than 24 
+    months of age (due to end of the study) can be identified by dtime < 24 
+    and dstatus = 0.
+(3) When test0=1 and result0=1 and confirm0=2, then hr = 25 (i.e. infant may 
+    have been uninfected in spite of positive test at birth)
+(4) The variable "possfp" in the S-Plus programs combined() and weibspl()
+    can be created by setting possfp = 1 if confirm0 >= 1, and 0 otherwise.
+(5) Descriptive statistics for these data are given below.
+
+8  Variables       401  Observations
+
+-------------------------------------------------------------------------------
+hl
+   n missing unique  Mean    .05    .10    .25    .50    .75    .90    .95
+ 401 0       121    14.79  -1.00  -1.00   1.57  20.97  25.00  25.00  25.00
+
+lowest :  -1.00   0.00   0.01   0.03   0.07
+highest:  23.70  23.73  23.83  23.97  25.00
+-------------------------------------------------------------------------------
+hr
+   n missing unique Mean   .05   .10   .25   .50   .75   .90   .95
+ 401 0       56     20.7  1.43  1.57 25.00 25.00 25.00 25.00 25.00
+
+lowest :  0.03  0.07  0.20  0.27  0.33, highest: 17.47 21.20 23.80 24.00 25.00
+-------------------------------------------------------------------------------
+dtime
+   n missing unique  Mean   .05   .10   .25   .50   .75   .90   .95
+ 401 0       152    19.39  3.07  4.67 13.77 25.00 25.00 25.00 25.00
+
+lowest :  0.00  0.01  0.03  0.07  0.17, highest: 23.73 23.80 23.83 24.00 25.00
+-------------------------------------------------------------------------------
+dstatus
+   n missing unique Sum   Mean
+ 401 0       2      319 0.7955
+-------------------------------------------------------------------------------
+grp
+   n missing unique Sum   Mean
+ 401 0       2      197 0.4913
+-------------------------------------------------------------------------------
+test0
+   n missing unique Sum   Mean
+ 401 0       2      220 0.5486
+-------------------------------------------------------------------------------
+result0
+   n missing unique Sum    Mean
+ 401 0       2      26  0.06484
+-------------------------------------------------------------------------------
+confirm0
+   n missing unique    Mean
+ 401 0       3      0.02993
+
+0 (390, 97%), 1 (10, 2%), 2 (1, 0%)
+-------------------------------------------------------------------------------
