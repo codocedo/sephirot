@@ -145,7 +145,7 @@ def save_map(path, attribute_map):
         for j, i in m:
             f.write(str(j)+"\t"+str(i)+"\n")
 
-def write_ini(ini_path, ctx_path, lat_path, ctx_type=6, thetas_path='', more=''):
+def write_ini(ini_path, ctx_path, lat_path, thetas_path='', ctx_type=6, more=''):
     transpose = "false"
     if ctx_type == 6:
         transpose = "true"
@@ -187,6 +187,7 @@ def read_thetas(path):
         return [float(theta) for theta in lines[0].strip().split(',')]
 
 def binarize(pmgr, data, thetas, withFile = False, empty_value=0):
+    withFile = True
     if not withFile:
         table, table_clear = make_it_clear(data, thetas, empty_value)
         save_formal_context(pmgr.context_filepath, table)
@@ -198,20 +199,6 @@ def binarize(pmgr, data, thetas, withFile = False, empty_value=0):
 
     print "\t-> Formal Context file written in: ", pmgr.context_filepath
     print "\t-> Clarified context file written in: ", pmgr.clarified_context_filepath
-
-def binnarize(path, data, thetas, withFile = False, empty_value=0):
-    if not withFile:
-        table,table_clear = make_it_clear(data, thetas, empty_value)
-        save_formal_context(path.format(''),table)
-        print "\t-> Formal Context file written in",path.format('')
-        save_formal_context(path.format('cl'),table_clear)
-        print "\t-> Clarified context file written in",path.format('cl')
-    else:
-        f1 = open(path.format(''),'w')
-        f2 = open(path.format('cl'),'w')
-        make_it_clear_with_file(data,thetas,f1,f2,empty_value)
-        print "\t-> Formal Context file written in",path.format('')
-        print "\t-> Clarified context file written in",path.format('cl')
 
 
 def make_it_tricontext(data,thetas):
@@ -228,26 +215,26 @@ def make_it_tricontext(data,thetas):
 
 
 
-def make_it_clear_with_file(data,thetas,f1,f2,empty_value=0):
+def make_it_clear_with_file(data, thetas, f1, f2, empty_value=0):
     uniques = set([])
-    total = (len(data)**2)/2 - len(data)
-    print total
+    total = float(len(data)**2)/2 - len(data)
     it = 0.0
-    for i,x in enumerate(data):
-        for j,y in enumerate(data[i+1:]):
-            print '\r\t-> Binnarazing with file things (%0.2f)'%(it*100.0/total),'%',
+    for i, row in enumerate(data[:-1]):
+        for row2 in data[i+1:]:
+            print '\r\t-> Binarazing with file things (%0.2f)'%(it*100.0/total),'%',
             sys.stdout.flush()
-            it+=1.0
+            it += 1.0
             newrow = []
-            for k,z in enumerate(imap(lambda s: abs(s[0]-s[1]), zip(x, y))):# [abs(a-b) for a, b in zip(x, y)]):
-                if x[k] != empty_value and y[k] != empty_value and z <= thetas[k]:                    
-                    newrow.append(k)
-            newrow = str(newrow)[1:-1].replace(' ','')+'\n'
-            if newrow != "":
+            for att, delta in enumerate(imap(lambda s: abs(s[0]-s[1]), zip(row, row2))):# [abs(a-b) for a, b in zip(x, y)]):
+                if row[att] != empty_value and row2[att] != empty_value and delta <= thetas[att]:
+                    newrow.append(str(att))
+            # newrow = str(newrow)[1:-1].replace(' ','')+'\n'
+            if bool(newrow):# newrow != "\n":
+                newrow = ','.join(newrow)
                 if newrow not in uniques:
-                    f2.write(newrow)
+                    f2.write(newrow+'\n')
                     uniques.add(newrow)
-                f1.write(newrow)
+                f1.write(newrow+'\n')
     print ''
 
 
@@ -326,8 +313,8 @@ def execute(dataset_name, convert):
         pmgr.tb_ini_filepath,
         pmgr.tb_filepath,
         pmgr.tb_lat_filepath,
-        pmgr.thetas_filepath,
-        6,
+        thetas_path=pmgr.thetas_filepath,
+        ctx_type=6,
         more="empty_value = -1\n"
     )
 
@@ -354,12 +341,12 @@ def execute(dataset_name, convert):
         pmgr.context_ini_filepath,
         pmgr.context_filepath,
         pmgr.context_lat_filepath,
-        0
+        ctx_type=0
     )
     # WRITE INI FILES FOR SEPHIROT FOR FCA WITH CLARIFIED CONTEXT
     write_ini(
         pmgr.clarified_context_ini_filepath,
         pmgr.clarified_context_filepath,
         pmgr.clarified_context_lat_filepath,
-        0
+        ctx_type=0
     )
