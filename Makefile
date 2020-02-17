@@ -30,6 +30,7 @@ s1: $(OBJECTS) $(SEPHIROTMAIN)
 #	$(CC) $(SRC)$(OBJECTS) $(INC) -o $@
 
 $(OBJ)%.o: $(SRC)%.cpp
+	@mkdir -p $(@D)
 	$(CC) $(CFLAGS) -c $(INC) $< -o $@
 
 clean:
